@@ -1,0 +1,155 @@
+
+["Cream Chop Config"]
+	#Cooldown (in ticks) for Cream's Chop attack. (Default is 175 ticks = 8.75 seconds)
+	#Range: 0 ~ 120000
+	chopCooldown = 175
+
+["Cream Chomp Config"]
+	#Cooldown (in ticks) for Cream's Chomp attack. (Default is 360 ticks = 18 seconds)
+	#Range: 0 ~ 120000
+	chompCooldown = 360
+
+["Cream Eat Item Config"]
+	#Cooldown (in ticks) for the Eat Item Stack ability. (Default is 80 ticks = 4 seconds)
+	#Range: 0 ~ 120000
+	eatItemStackCooldown = 80
+	#Cooldown (in ticks) for the Eat Item ability. (Default is 20 ticks = 1 second)
+	#Range: 0 ~ 120000
+	eatItemCooldown = 20
+
+["Void-Killing and Block Breaking Config"]
+	#Whether Enter the Void and Void Dash should scrape the grass off of grassy blocks (grass, mycelium, podzol) and convert it to dirt (true) or don't (false) (Default is true)
+	convertGrassToDirt = true
+	#Whether Enter the Void or Void Dash should ignore the jojoAbilitiesBreakBlocks gamerule and always break blocks (true) or abide by the gamerule (false). (Default is false)
+	excludeVoidFromBlockBreaking = false
+	#Whether entities should be instantly killed by Enter the Void and Void Dash (true) or take damage instead (false). If it is set to false (so damaging instead) the deletion sound only plays if the entity dies, so there is no indication on if you hit an entity or not. (Default is true)
+	voidInstaKills = true
+	#Amount of void damage to deal when Instakilling Void  is set to false. (Default is 30
+	#Range: 0 ~ 120000
+	voidDamage = 30
+	#Cooldown (in ticks) between each damaging of an entity by the void. This means that if an entity that has more health than what Cream does as damage while in Enter the Void, it takes (by default) 20 ticks for the entity to get damaged by the void again if they are still in it. In other words, it's invisibility frames. Should be obvious, but this only works if Instakilling Void is set to false. (Default is 20 = 1 second)
+	#Range: 0 ~ 120000
+	voidDamageCooldown = 20
+
+["Cream Enter the Void Config"]
+	#Stamina cost of Enter the Void (Default is 360) (Version 1.0 had 80)
+	#Range: 0.0 ~ 10000.0
+	voidBallStaminaCost = 360.0
+	#Maximum duration for Enter the Void in ticks. (20 ticks = 1 second, Default is Integer.MAX_VALUE)
+	#Range: > 0
+	voidBallDuration = 2147483647
+	#Minimum cooldown for Enter the Void when using dynamic cooldown. (Default is 120 ticks = 6 seconds) (Prevents extremely short cooldowns from brief uses)
+	#Range: 0 ~ 120000
+	voidBallDynamicMinimumCooldown = 120
+	#Stamina cost per tick while using Enter the Void. Only works if Progressive Stamina Cost Per Tick is turned off. (Default is 1.0 stamina per tick)
+	#Range: 0.0 ~ 100.0
+	voidBallStaminaCostTick = 1.0
+	#Toggle for whether Enter the Void should use dynamic cooldown based on usage duration. (Default is true)
+	voidBallDynamicCooldown = true
+	#Whether items on the ground should be deleted during Enter the Void (true) or left untouched (false). (Default is false) (WARNING: It is NOT recommended for this to be turned of if you are playing in a server. This config is here directly so that player's inventories won't be deleted if they die from Cream's Enter the Void.)
+	voidBallDeleteItems = false
+	#Whether Enter the Void should be cancelled during the wind-up process when you takes damage. (Default is true)
+	voidBallCancelOnDamage = true
+	#Multiplier for calculating Enter the Void's dynamic cooldown. (Default is 2.0) (2.0 means cooldown equals double the usage time)
+	#Range: 0.0 ~ 10.0
+	voidBallDynamicCooldownMultiplier = 2.0
+	#Cooldown for Enter the Void in ticks. Only works when Dynamic Cooldown is disabled. (Default is 240 ticks = 12 seconds)
+	#Range: 0 ~ 120000
+	voidBallCooldown = 240
+
+["Cream Void Dash Config"]
+	#Stamina cost of Enter Cream (Default is 300) (Version 1.0 had 150)
+	#Range: 0.0 ~ 10000.0
+	voidBallStaminaCost = 300.0
+	#Whether items on the ground should be deleted during Void Dash (true) or left untouched (false). (Default is false) (WARNING: It is NOT recommended for this to be turned of if you are playing in a server. This config is here directly so that player's inventories won't be deleted if they die from Cream's Enter the Void.)
+	voidDashDeleteItems = false
+	#Cooldown (in ticks) for Void Dash. (Default is 240 ticks = 12 seconds)
+	#Range: 0 ~ 120000
+	voidDashCooldown = 240
+	#Whether to have the Void Dash ability available while you are using Enter Cream (true) or not have it even show up (false). (Default is true)
+	haveVoidDash = true
+
+["Cream Enter Cream Config"]
+	#Stamina cost of Enter Cream (Default is 300) (Version 1.0 had 0 cause I forgor)
+	#Range: 0.0 ~ 10000.0
+	voidBallStaminaCost = 300.0
+	#Maximum (in ticks) duration for Enter Cream. (Default is Integer.MAX_VALUE)
+	#Range: > 0
+	semiVoidDuration = 2147483647
+	#Multiplier for calculating Enter Cream's dynamic cooldown. (Default is 1.5) (1.5 means cooldown equals 1.5x the usage time)
+	#Range: 0.0 ~ 10.0
+	semiVoidDynamicCooldownMultiplier = 1.5
+	#Whether Enter Cream should be cancelled during the wind-up process when you takes damage. (Default is true)
+	samiVoidCancelOnDamage = true
+	#Toggle for whether Enter Cream should use dynamic cooldown based on usage duration. (Default is true)
+	semiVoidDynamicCooldown = true
+	#Stamina cost per tick while in Enter Cream. Only works if Progressive Stamina Cost Per Tick is turned off. (Default is 2.0 stamina per tick)
+	#Range: 0.0 ~ 100.0
+	semiVoidStaminaCostTick = 2.0
+	#Minimum cooldown for Enter Cream when using dynamic cooldown. (Default is 120 ticks = 6 seconds) (Prevents extremely short cooldowns from brief uses)
+	#Range: 0 ~ 120000
+	semiVoidDynamicMinimumCooldown = 120
+	#Flying speed while sprinting in Enter Cream (Default is 0.02) (Keep in mind you need to lower this to be at least 0.02 LESS then the base speed, to not let spring-flying be a thing. If you want sprint-flying to be a thing, set it to be the same as the base flying speed, so by default 0.04 in this case.)
+	#Range: 0.0 ~ 1.0
+	semiVoidFlySpeedSprint = 0.02
+	#Cooldown for Enter Cream in ticks. Only works when Dynamic Cooldown is disabled. (Default is 240 ticks = 12 seconds)
+	#Range: 0 ~ 120000
+	semiVoidCooldown = 240
+	#Base flying speed while in Enter Cream (Default is 0.04) (The defualt fly speed during creative mode is 0.05)
+	#Range: 0.0 ~ 1.0
+	semiVoidFlySpeed = 0.04
+
+["Cream Stamina Config for Enter the Void and Enter Cream"]
+	#Whether stamina cost should be scaled with your resolve level (true) or use the other configs in their respective sections (false). (Default is true)
+	progressiveStaminaCost = true
+	#Stamina cost per tick when your resolve level is 4. (Default is 3.0) (Version 1.0 had 4.0 as the default)
+	#Range: 0.0 ~ 12000.0
+	staminaCostResolve4 = 3.0
+	#Stamina cost per tick when your resolve level is 3. (Default is 5.0) (Version 1.0 had 7.0 as the default)
+	#Range: 0.0 ~ 12000.0
+	staminaCostResolve3 = 5.0
+	#Stamina cost per tick when your resolve level is 2. (Default is 7.0) (Version 1.0 had 10.0 as the default)
+	#Range: 0.0 ~ 12000.0
+	staminaCostResolve2 = 7.0
+
+["Vampire-Specific Configs"]
+	#Minimum cooldown for Enter the Void when using dynamic cooldown when you are a Vampire. (Default is 100 ticks = 5 seconds)
+	#Range: 0 ~ 120000
+	voidBallVampireMinCooldown = 100
+	#Cooldown for Vampires using Enter the Void in ticks. Only works when Dynamic Cooldown is disabled. (Default is 200 ticks = 10 seconds) 
+	#Range: 0 ~ 120000
+	voidBallVampireBaseCooldown = 200
+	#Stamina cost per tick when your resolve level is 3 as a Vampire. (Default is 4.0) (Version 1.0 had 3.5 as the default)
+	#Range: 0.0 ~ 12000.0
+	staminaCostResolve3Vamp = 4.0
+	#Stamina cost per tick when your resolve level is 4 as a Vampire. (Default is 2.0) (Version 1.0 had 1.5 as the default)
+	#Range: 0.0 ~ 12000.0
+	staminaCostResolve4Vamp = 2.0
+	#Cooldown for Vampires using Enter Cream in ticks. Only works when Dynamic Cooldown is disabled. (Default is 200 ticks = 10 seconds)
+	#Range: 0 ~ 120000
+	semiVoidVampireCooldown = 200
+	#Stamina cost per tick while in Enter Cream as a Vampire. Only works if Progressive Stamina Cost Per Tick is turned off. (Default is 2.0 stamina per tick)
+	#Range: 0.0 ~ 100.0
+	semiVoidStaminaCostTickVamp = 1.5
+	#Stamina cost per tick while using Enter the Void as a Vampire. Only works if Progressive Stamina Cost Per Tick is turned off. (Default is 1.0 stamina per tick)
+	#Range: 0.0 ~ 100.0
+	voidBallStaminaCostTickVamp = 1.0
+	#Stamina cost per tick when your resolve level is 2 as a Vampire. (Default is 6.0) (Version 1.0 had 5.5 as the default)
+	#Range: 0.0 ~ 12000.0
+	staminaCostResolve2Vamp = 6.0
+	#Multiplier for calculating Enter Cream's dynamic cooldown as a Vampire. (Default is 1.5) (1.5 means 50% longer cooldown than normal)
+	#Range: 0.0 ~ 10.0
+	semiVoidVampireCooldownMultiplier = 1.25
+	#Multiplier for calculating Enter the Void's dynamic cooldown as a Vampire. (Default is 1.5) (1.5 means 50% longer cooldown than normal)
+	#Range: 0.0 ~ 10.0
+	voidBallVampireCooldownMultiplier = 1.5
+	#Minimum cooldown for Enter Cream when using dynamic cooldown as a Vampire. (Default is 100 ticks = 5 seconds)
+	#Range: 0 ~ 120000
+	semiVoidVampireMinCooldown = 100
+
+["Blacklist Configs for Enter the Void and Void Dash"]
+	#List of entities that should not be affected by Enter the Void and Void Dash (format: modid:entityname) (yes, this does support modded entities, just get the correct id for it.
+	entityBlacklist = ["minecraft:ender_dragon", "minecraft:wither", "corpse:corpse", "enigmaticgraves:grave"]
+	#List of blocks that should not be affected by Enter the Void and Void Dash (format: modid:blockname) (yes, this does support modded blocks, just get the correct id for it.
+	blockBlacklist = ["minecraft:bedrock", "minecraft:barrier", "minecraft:command_block", "minecraft:repeating_command_block", "minecraft:chain_command_block", "minecraft:structure_block", "minecraft:structure_void", "minecraft:end_portal", "minecraft:end_portal_frame", "minecraft:nether_portal", "minecraft:end_gateway", "gravestone:gravestone"]
+

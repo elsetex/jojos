@@ -1,0 +1,75 @@
+
+["King Crimson Barrage Config"]
+	#The minimum health percentage required to use King Crimson's barrage (0.0 to 1.0 = 0% to 100%) (If set to 100% you can always use Barrage, if set to 0% you can never use Barrage)
+	#Range: 0.0 ~ 1.0
+	barrageHealthThreshold = 0.5
+	#The minimum health percentage required to use Doppio's barrage (Stand-Off mode) (0.0 to 1.0 = 0% to 100%) (If set to 100% you can always use Barrage, if set to 0% you can never use Barrage)
+	#Range: 0.0 ~ 1.0
+	barrageHealthThresholdDoppio = 0.5
+
+["King Crimson Desperate Eyejab Config"]
+	#The minimum health percentage required to have Ground Punch be replaced by Desperate Eyejab (0.0 to 1.0 = 0% to 100%) (If set to 100% you will always have Desperate Eyejab as the finisher, if set to 0% you can never use it as finisher)
+	#Range: 0.0 ~ 1.0
+	desperateEyejabHealthThreshold = 0.5
+	#The cooldown (in ticks) for King Crimson's Desperate Eyejab. (Default is 200 ticks = 10 seconds)
+	#Range: 0 ~ 12000
+	desperateEyejabCooldown = 200
+
+["King Crimson Chop Config"]
+	#The cooldown (in ticks) for King Crimson's Chop. (Default is 350 ticks = 17.5 seconds)
+	#Range: 0 ~ 12000
+	chopCooldown = 350
+
+["King Crimson Impale Config"]
+	#The cooldown (in ticks) for King Crimson's Impale. (Default is 180 ticks = 9 seconds)
+	#Range: 0 ~ 12000
+	impaleCooldown = 180
+
+["King Crimson Projectile Throw Config"]
+	#The cooldown (in ticks) for King Crimson's Projectile Throw. (Default is 95 ticks = 4.75 seconds)
+	#Range: 0 ~ 12000
+	projectileThrowCooldown = 95
+	#A list of item IDs that can be thrown by King Crimson's Projectile Throw. (Default: arrow,egg,snowball,ender_pearl,firework_rocket,splash_potion,spectral_arrow,experience_bottle,fire_charge,jojo:knife,jojo:molotov)
+	allowedProjectiles = "arrow,egg,snowball,ender_pearl,firework_rocket,splash_potion,spectral_arrow,experience_bottle,fire_charge,jojo:knife,jojo:molotov"
+
+["King Crimson Epitaph Config"]
+	#The cooldown (in ticks) for King Crimson's Epitaph. (Default is 35 ticks = 2 seconds)
+	#Range: 0 ~ 12000
+	epitaphCooldown = 35
+	#The stamina cost per tick for King Crimson's Epitaph. (Default is 2 stamina per tick)
+	#Range: 0.0 ~ 100.0
+	epitaphStaminaCostTick = 2.0
+	#The duration (in ticks) of King Crimson's Epitaph. (Default is 60 ticks = 3 seconds)
+	#Range: 0 ~ 12000
+	epitaphDuration = 60
+
+["King Crimson Time Erase Config"]
+	#Toggle for whether Time Erase should use a dynamic cooldown based on the duration of the ability used. (Default is true).
+	timeEraseDynamicCooldown = true
+	#The duration (in ticks) of King Crimson's Time Erase ability. (Default is 200 = 10 seconds) (KEEP IN MIND THAT I HAVE NOT EXTENDED THE TIME ERASE SOUNDS YET. SOUNDS WILL CUT OFF AFTER A WHILE) 
+	#Range: 0 ~ 12000
+	timeEraseDuration = 200
+	#The delay (in ticks) before the outlined entity starts following the path of the "future". (Default is 60 = 3 seconds) (Setting it to max value will make it never move)
+	#Range: 0 ~ 16000
+	timeErasePresentEntityDelay = 60
+	#The minimum cooldown (in ticks) for Time Erase when using Dynamic Cooldown. (Default is 120 ticks = 6 seconds) (This means even if you use the ability for 1 second, the minimum cooldown will be 6 seconds. This is to prevent abuse of the ability)
+	#Range: 0 ~ 12000
+	timeEraseDynamicMinimumCooldown = 120
+	#The multiplier used to calculate the dynamic cooldown for Time Erase. (Default is 2.0) (2.0 means that the cooldown will be double the amount of time you spent in Time Erase. For example: 6 seconds of Time Erase = 12 seconds of Cooldown)
+	#Range: 0.0 ~ 10.0
+	timeEraseDynamicCooldownMultiplier = 2.0
+	#The stamina cost per tick for King Crimson's Time Erase. (Default is 0.5 stamina per tick)
+	#Range: 0.0 ~ 100.0
+	timeEraseStaminaTick = 0.5
+	#The cooldown (in ticks) for Time Erase. (Default is 200 ticks = 10 seconds) (ONLY WORKS IF DYNAMIC COOLDOWN IS SET TO "false")
+	#Range: 0 ~ 12000
+	timeEraseCooldown = 200
+
+["King Crimson Time Skip Config"]
+	#The cooldown (in ticks) for King Crimson's Time Skip. (Default is 60 ticks = 3 seconds)
+	#Range: 0 ~ 12000
+	timeSkipCooldown = 60
+	#The duration (in ticks) of King Crimson's Time Skip. (Default is 200 = 10 seconds) (KEEP IN MIND THAT THE HIGHER YOU PUT IT, THE MORE THE GAME WILL STUTTER. 1200 EQUALS TO 1 MINUTE. THE GAME WILL LAG IF YOU TRY TO TIME SKIP WITH THIS MANY TICKS)
+	#Range: 0 ~ 1200
+	timeSkipDuration = 200
+

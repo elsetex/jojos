@@ -1,0 +1,13 @@
+
+["Inversion Settings"]
+	#    Inversion damage for attack "HEART INVERSION"
+	#    Set to 0 to disable.
+	#    Defaults to 3.
+	#Range: > 0
+	DefaultHeartInversionDamage = 3
+	#    Inversion damage for ALL attacks by C-Moon.
+	#    Set to 0 to disable.
+	#    Defaults to 1.
+	#Range: > 0
+	DefaultInversionDamage = 1
+

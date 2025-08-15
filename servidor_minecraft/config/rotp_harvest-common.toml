@@ -1,0 +1,7 @@
+
+[Settings]
+	#    The number of harvesters to spawn
+	#    Defaults to 27.
+	#Range: > 1
+	HarvestSummonInt = 27
+
