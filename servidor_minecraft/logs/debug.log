@@ -7924,3 +7924,7 @@ java.lang.NullPointerException: null
 [15Aug2025 17:54:45.476] [Server thread/DEBUG] [tombstone/]: Updating LootTables
 [15Aug2025 17:59:45.607] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [15Aug2025 17:59:45.620] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Aug2025 18:04:45.260] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Aug2025 18:04:45.273] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Aug2025 18:09:45.251] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Aug2025 18:09:45.260] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
