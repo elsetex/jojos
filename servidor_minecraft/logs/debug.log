@@ -13213,3 +13213,73 @@ java.lang.NullPointerException: null
 [18Aug2025 19:31:07.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [It's Finally Shown Itself!]
 [18Aug2025 19:31:21.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> no quieres ese?
 [18Aug2025 19:31:36.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> es que mira bro
+[18Aug2025 19:31:50.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> coño
+[18Aug2025 19:32:03.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> bro
+[18Aug2025 19:32:11.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ayudate a subir de lvl
+[18Aug2025 19:32:15.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> para poder cambiarte
+[18Aug2025 19:32:58.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> oye
+[18Aug2025 19:33:09.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> pidàmosle a los dioses totems B)=
+[18Aug2025 19:33:22.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> calla puta
+[18Aug2025 19:33:25.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 19:33:53.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:33:57.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ten brah
+[18Aug2025 19:34:15.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has reached the goal [Postmortal]
+[18Aug2025 19:35:32.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> q insano
+[18Aug2025 19:35:42.501] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 19:35:42.509] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 19:36:13.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 19:36:20.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:36:50.597] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.github.standobyte.jojo.action.stand.StandEntityAction.onClick(StandEntityAction.java:215) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.action.stand.StandEntityAction.onClick(StandEntityAction.java:48) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.power.impl.PowerBaseImpl.onClickAction(PowerBaseImpl.java:206) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.power.impl.PowerBaseImpl.clickAction(PowerBaseImpl.java:198) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.network.packets.fromclient.ClClickActionPacket$Handler.clickAction(ClClickActionPacket.java:72) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.network.packets.fromclient.ClClickActionPacket$Handler.lambda$handle$0(ClClickActionPacket.java:66) ~[jojo:0.2.2]
+	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:151) ~[forge:?]
+	at com.github.standobyte.jojo.network.packets.fromclient.ClClickActionPacket$Handler.handle(ClClickActionPacket.java:64) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.network.packets.fromclient.ClClickActionPacket$Handler.handle(ClClickActionPacket.java:34) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.network.packets.IModPacketHandler.lambda$enqueueHandleSetHandled$0(IModPacketHandler.java:15) ~[jojo:0.2.2]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at com.github.standobyte.jojo.network.packets.IModPacketHandler.enqueueHandleSetHandled(IModPacketHandler.java:14) ~[jojo:0.2.2]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[18Aug2025 19:38:48.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [The Arrow is Drawn to Capable]
+[18Aug2025 19:39:00.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Ice Bucket Challenge]
+[18Aug2025 19:39:54.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> pene escroto
+[18Aug2025 19:40:08.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> tienes màs totems?
+[18Aug2025 19:40:24.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 19:40:36.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:40:42.505] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 19:40:42.514] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 19:41:19.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> quiero zawarudo
+[18Aug2025 19:41:32.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> deyum
