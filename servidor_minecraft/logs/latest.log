@@ -549,3 +549,40 @@ java.lang.NullPointerException: null
 [18Aug2025 17:08:21.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
 [18Aug2025 17:08:21.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
 [18Aug2025 17:08:26.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [JoJo]
+[18Aug2025 17:09:28.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Monster Hunter]
+[18Aug2025 17:10:26.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Summoned Wolf
+[18Aug2025 17:10:56.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Stone Age]
+[18Aug2025 17:11:02.198] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49038f2c
+[18Aug2025 17:11:02.206] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:52138] logged in with entity id 1861 at (188.5, 64.0, -149.5)
+[18Aug2025 17:11:02.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
+[18Aug2025 17:11:02.281] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[18Aug2025 17:11:03.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Ice and Fire]
+[18Aug2025 17:11:03.937] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: You logged in from another location
+[18Aug2025 17:11:03.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[18Aug2025 17:11:03.939] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[18Aug2025 17:11:04.014] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:52141] logged in with entity id 1896 at (188.5, 64.0, -149.5)
+[18Aug2025 17:11:04.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
+[18Aug2025 17:11:04.075] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[18Aug2025 17:11:32.600] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
+[18Aug2025 17:11:32.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[18Aug2025 17:11:32.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[18Aug2025 17:11:46.371] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@19cceb87
+[18Aug2025 17:11:46.412] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:52189] logged in with entity id 2361 at (188.5, 64.0, -149.5)
+[18Aug2025 17:11:46.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
+[18Aug2025 17:11:46.480] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[18Aug2025 17:11:46.720] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[18Aug2025 17:11:46.720] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[18Aug2025 17:11:47.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Getting an Upgrade]
+[18Aug2025 17:11:50.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[18Aug2025 17:11:51.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[18Aug2025 17:11:51.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
+[18Aug2025 17:11:52.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Stone Age]
+[18Aug2025 17:12:16.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by gerR3219
+[18Aug2025 17:12:23.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Getting an Upgrade]
+[18Aug2025 17:12:37.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was blown up by Creeper
+[18Aug2025 17:12:54.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Wilden Hunter
+[18Aug2025 17:13:26.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Monster Hunter]
+[18Aug2025 17:13:46.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was slain by setexgamer
+[18Aug2025 17:15:08.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Stone Age]
+[18Aug2025 17:16:56.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Getting an Upgrade]
+[18Aug2025 17:17:58.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was shot by Skeleton
