@@ -2189,6 +2189,12 @@
     },
     "done": true
   },
+  "jojo:jojo/root": {
+    "criteria": {
+      "stand_afk": "2025-08-18 17:49:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/gabbro_pillar_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:11:02 +0000"
@@ -10171,10 +10177,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2025-08-18 17:51:50 +0000",
       "minecraft:taiga": "2025-08-18 17:11:55 +0000",
       "minecraft:taiga_hills": "2025-08-18 17:12:05 +0000",
       "minecraft:beach": "2025-08-18 17:18:33 +0000",
-      "minecraft:river": "2025-08-18 17:11:03 +0000"
+      "minecraft:river": "2025-08-18 17:11:03 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-18 17:53:51 +0000",
+      "minecraft:stone_shore": "2025-08-18 17:52:21 +0000"
     },
     "done": false
   },
@@ -10684,6 +10693,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-18 17:52:31 +0000",
       "cooked_mutton": "2025-08-18 17:19:28 +0000"
     },
     "done": false

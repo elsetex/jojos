@@ -11114,3 +11114,33 @@ java.lang.NullPointerException: null
 [18Aug2025 17:49:16.273] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=795, y=13, z=-564}
 [18Aug2025 17:49:20.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=801, y=13, z=-561} but found not block entity block Block{create:zinc_ore} at location
 [18Aug2025 17:49:20.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{create:zinc_ore} but failed at location BlockPos{x=801, y=13, z=-561}
+[18Aug2025 17:49:51.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [JoJo]
+[18Aug2025 17:49:59.609] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 961 44 -1225
+[18Aug2025 17:50:00.566] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 663 13 -1583
+[18Aug2025 17:50:03.229] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 975 34 -927
+[18Aug2025 17:50:04.475] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 823 16 -1603
+[18Aug2025 17:50:04.478] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 967 10 -1593
+[18Aug2025 17:50:04.479] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 365 10 -1599
+[18Aug2025 17:50:08.279] [Worker-Main-5/DEBUG] [betterdungeons/]: Skeleton Dungeon at 969 16 -1289
+[18Aug2025 17:50:08.282] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 989 32 -1089
+[18Aug2025 17:50:21.476] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 1015 12 -1401
+[18Aug2025 17:50:35.104] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:50:35.113] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 17:50:55.911] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 641 20 -1705
+[18Aug2025 17:50:55.920] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 833 27 -1705
+[18Aug2025 17:51:01.855] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 343 27 -1721
+[18Aug2025 17:51:14.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Hot Stuff]
+[18Aug2025 17:52:41.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 fell from a high place
+[18Aug2025 17:53:21.455] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 535 47 -1753
+[18Aug2025 17:53:21.892] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 957 30 -1753
+[18Aug2025 17:54:56.900] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
+[18Aug2025 17:54:56.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[18Aug2025 17:54:56.901] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of gerR3219
+[18Aug2025 17:54:56.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[18Aug2025 17:55:35.174] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:55:35.183] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 17:56:00.761] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 183 16 -1545
+[18Aug2025 17:56:13.070] [Worker-Main-5/DEBUG] [betterdungeons/]: Skeleton Dungeon at 137 10 -1369
+[18Aug2025 17:58:19.479] [Worker-Main-17/DEBUG] [betterdungeons/]: Zombie Dungeon at 71 49 -1209
+[18Aug2025 17:58:23.662] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 49 43 -1423
+[18Aug2025 17:59:02.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Piglin Brute
