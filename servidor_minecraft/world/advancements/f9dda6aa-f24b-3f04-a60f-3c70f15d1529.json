@@ -3515,6 +3515,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-18 18:15:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
@@ -7667,6 +7673,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-08-18 18:20:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:01 +0000"
@@ -10712,6 +10724,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-08-18 18:15:46 +0000",
       "beef": "2025-08-18 17:28:45 +0000",
       "porkchop": "2025-08-18 17:14:47 +0000",
       "mutton": "2025-08-18 17:14:17 +0000",

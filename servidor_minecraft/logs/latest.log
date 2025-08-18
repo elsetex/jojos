@@ -684,3 +684,83 @@ java.lang.NullPointerException: null
 [18Aug2025 18:09:14.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Ice Bucket Challenge]
 [18Aug2025 18:09:27.451] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=51, y=0, z=-1798} but found not block entity block Block{minecraft:bedrock} at location
 [18Aug2025 18:09:27.451] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=51, y=0, z=-1798}
+[18Aug2025 18:12:59.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Where're we going with Piglet...]
+[18Aug2025 18:13:13.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Hunt and Gather]
+[18Aug2025 18:13:22.955] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1ad44f46
+[18Aug2025 18:13:22.993] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Iaqocraft[/172.30.125.186:52067] logged in with entity id 38425 at (1138.0246916797516, 84.0, -443.0892167141081)
+[18Aug2025 18:13:23.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft joined the game
+[18Aug2025 18:13:23.018] [Server thread/INFO] [Waila/]: Syncing config to Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529)
+[18Aug2025 18:13:25.908] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Iaqocraft (18)
+[18Aug2025 18:13:25.909] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Iaqocraft
+[18Aug2025 18:13:38.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9dda6aa-f24b-3f04-a60f-3c70f15d1529
+[18Aug2025 18:13:39.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9dda6aa-f24b-3f04-a60f-3c70f15d1529
+[18Aug2025 18:13:39.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529) successfully connected to voice chat
+[18Aug2025 18:14:35.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was blown up by Creeper
+[18Aug2025 18:14:42.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 18:15:02.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Sweet Dreams]
+[18Aug2025 18:15:35.138] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 3.2566483324293927,0.0,-10.390487098923813
+[18Aug2025 18:16:13.910] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=811, y=15, z=-1641} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[18Aug2025 18:16:13.910] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=811, y=15, z=-1641}
+[18Aug2025 18:16:13.911] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=810, y=15, z=-1643} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[18Aug2025 18:16:13.911] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=810, y=15, z=-1643}
+[18Aug2025 18:16:14.703] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=802, y=15, z=-1652} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[18Aug2025 18:16:14.703] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=802, y=15, z=-1652}
+[18Aug2025 18:16:50.320] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1096, y=26, z=-2231} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 18:16:50.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1096, y=26, z=-2231}
+[18Aug2025 18:16:50.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1103, y=30, z=-2236} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 18:16:50.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1103, y=30, z=-2236}
+[18Aug2025 18:16:50.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1092, y=26, z=-2231} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 18:16:50.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1092, y=26, z=-2231}
+[18Aug2025 18:16:50.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1103, y=33, z=-2238} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 18:16:50.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1103, y=33, z=-2238}
+[18Aug2025 18:16:50.323] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1088, y=29, z=-2217} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 18:16:50.324] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1088, y=29, z=-2217}
+[18Aug2025 18:16:54.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 18:17:11.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 18:17:15.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 144.5, 70.0, -2975.5]
+[18Aug2025 18:17:24.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[18Aug2025 18:17:29.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 18:17:44.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Amateur Archaeologist]
+[18Aug2025 18:17:50.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Fortune Seeker]
+[18Aug2025 18:18:23.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[18Aug2025 18:18:27.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 18:19:04.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 1280.5, 75.0, -3983.5]
+[18Aug2025 18:19:04.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Foreigner... I See Your Future...]
+[18Aug2025 18:19:05.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[18Aug2025 18:19:08.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 18:19:15.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Breath Causes Ripples in Your Body...]
+[18Aug2025 18:19:21.127] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[18Aug2025 18:19:21.240] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.240] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.276] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.277] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.277] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.277] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.379] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.379] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.383] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.384] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.411] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.411] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.423] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.423] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.449] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:19:21.449] [Worker-Main-18/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[18Aug2025 18:21:07.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was shot by Skeleton
+[18Aug2025 18:23:28.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Made Iaqocraft a server operator]
+[18Aug2025 18:23:52.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Spectator Mode]
+[18Aug2025 18:25:13.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 18:25:17.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Spectator Mode]
+[18Aug2025 18:25:22.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[18Aug2025 18:25:31.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Spectator Mode]
+[18Aug2025 18:25:35.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 18:25:39.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Spectator Mode]
+[18Aug2025 18:25:44.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 18:25:49.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Amateur Archaeologist]
+[18Aug2025 18:25:49.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Isn't It Iron Pick]
+[18Aug2025 18:25:49.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Spectator Mode]
+[18Aug2025 18:25:54.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 18:25:54.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft suffocated in a wall whilst fighting Skeleton
+[18Aug2025 18:26:23.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Diamonds!]
+[18Aug2025 18:26:28.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was shot by Skeleton
+[18Aug2025 18:26:52.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]

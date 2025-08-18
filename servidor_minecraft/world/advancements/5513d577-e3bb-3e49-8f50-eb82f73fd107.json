@@ -5248,6 +5248,12 @@
     },
     "done": true
   },
+  "relics:obtain/bastion_ring": {
+    "criteria": {
+      "obtain_relic": "2025-08-18 18:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -8326,6 +8332,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-08-18 18:17:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/painting_from_canvas": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -8389,6 +8401,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-08-18 18:24:22 +0000"
     },
     "done": true
   },
@@ -8623,6 +8641,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/table": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-18 18:09:14 +0000"
     },
     "done": true
   },
@@ -9049,6 +9073,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/get_hamon": {
+    "criteria": {
+      "get_hamon": "2025-08-18 18:19:15 +0000"
     },
     "done": true
   },
@@ -10120,6 +10150,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-18 18:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -10257,12 +10293,20 @@
       "minecraft:forest": "2025-08-18 17:32:37 +0000",
       "minecraft:mountains": "2025-08-18 17:35:33 +0000",
       "minecraft:taiga": "2025-08-18 17:07:57 +0000",
+      "minecraft:desert_hills": "2025-08-18 18:16:49 +0000",
       "minecraft:taiga_hills": "2025-08-18 17:10:19 +0000",
+      "minecraft:desert": "2025-08-18 18:16:29 +0000",
+      "minecraft:birch_forest": "2025-08-18 18:11:11 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-18 18:15:00 +0000",
+      "minecraft:savanna_plateau": "2025-08-18 18:13:38 +0000",
       "minecraft:beach": "2025-08-18 18:00:57 +0000",
+      "minecraft:dark_forest": "2025-08-18 18:08:24 +0000",
       "minecraft:river": "2025-08-18 17:08:24 +0000",
       "minecraft:lukewarm_ocean": "2025-08-18 18:00:46 +0000",
+      "minecraft:birch_forest_hills": "2025-08-18 18:11:33 +0000",
       "minecraft:wooded_mountains": "2025-08-18 17:36:28 +0000",
       "minecraft:wooded_hills": "2025-08-18 17:32:00 +0000",
+      "minecraft:savanna": "2025-08-18 18:12:40 +0000",
       "minecraft:plains": "2025-08-18 17:41:08 +0000"
     },
     "done": false
@@ -10426,6 +10470,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/white_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-08-18 18:13:13 +0000"
     },
     "done": true
   },
@@ -11621,6 +11671,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/hamon_temple": {
+    "criteria": {
+      "in_temple": "2025-08-18 18:19:04 +0000"
     },
     "done": true
   },
