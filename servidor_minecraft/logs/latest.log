@@ -416,3 +416,40 @@ java.lang.NullPointerException: null
 [18Aug2025 23:33:08.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Iron Golem
 [18Aug2025 23:33:23.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Iron Golem
 [18Aug2025 23:34:07.980] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/1669, l='ServerLevel[world]', x=1314.55, y=70.00, z=-3346.51] died, message: 'Farmer was shot by Crazy Diamond'
+[18Aug2025 23:38:55.143] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1988, y=17, z=-3673} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[18Aug2025 23:38:55.145] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=1988, y=17, z=-3673}
+[18Aug2025 23:38:55.145] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1992, y=20, z=-3674} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 23:38:55.145] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1992, y=20, z=-3674}
+[18Aug2025 23:38:55.146] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2005, y=22, z=-3668} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 23:38:55.146] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2005, y=22, z=-3668}
+[18Aug2025 23:39:43.840] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1bed7da6
+[18Aug2025 23:39:43.989] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: setexgamer[/172.30.85.245:56788] logged in with entity id 5964 at (924.5139243457542, 64.0, -2898.425240181512)
+[18Aug2025 23:39:44.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer joined the game
+[18Aug2025 23:39:44.035] [Server thread/INFO] [Waila/]: Syncing config to setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[18Aug2025 23:39:47.047] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of setexgamer (18)
+[18Aug2025 23:39:47.047] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to setexgamer
+[18Aug2025 23:40:02.524] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[18Aug2025 23:40:03.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[18Aug2025 23:40:03.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
+[18Aug2025 23:40:07.103] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2468, y=23, z=-3409} but found not block entity block Block{minecraft:dirt} at location
+[18Aug2025 23:40:07.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=2468, y=23, z=-3409}
+[18Aug2025 23:40:07.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2467, y=21, z=-3414} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 23:40:07.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2467, y=21, z=-3414}
+[18Aug2025 23:40:07.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2469, y=22, z=-3420} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 23:40:07.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2469, y=22, z=-3420}
+[18Aug2025 23:40:30.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Cyclops
+[18Aug2025 23:40:53.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:41:08.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Cyclops
+[18Aug2025 23:41:13.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 23:41:15.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Cyclops
+[18Aug2025 23:41:17.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Cyclops
+[18Aug2025 23:41:24.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:41:33.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:41:51.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Cyclops
+[18Aug2025 23:41:57.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 23:43:09.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [My Name is Nobody]
+[18Aug2025 23:44:59.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has reached the goal [My Stand Will Be the Judge!]
+[18Aug2025 23:44:59.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was shot by Crazy Diamond
+[18Aug2025 23:45:05.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:47:19.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Crazy Diamond
+[18Aug2025 23:47:24.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
