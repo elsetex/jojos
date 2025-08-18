@@ -3720,6 +3720,8 @@
       "minecraft:hoglin": "2025-08-18 19:23:13 +0000",
       "minecraft:piglin_brute": "2025-08-18 18:33:12 +0000",
       "minecraft:wither_skeleton": "2025-08-18 19:23:08 +0000",
+      "minecraft:husk": "2025-08-18 19:44:33 +0000",
+      "minecraft:enderman": "2025-08-18 19:45:27 +0000",
       "minecraft:zombie": "2025-08-18 17:22:35 +0000"
     },
     "done": false
@@ -4975,6 +4977,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/resolve": {
+    "criteria": {
+      "resolve_effect": "2025-08-18 19:46:09 +0000"
     },
     "done": true
   },
@@ -10297,6 +10305,7 @@
       "minecraft:birch_forest_hills": "2025-08-18 18:38:09 +0000",
       "minecraft:wooded_mountains": "2025-08-18 17:48:24 +0000",
       "minecraft:wooded_hills": "2025-08-18 17:13:33 +0000",
+      "minecraft:savanna": "2025-08-18 19:45:46 +0000",
       "minecraft:plains": "2025-08-18 17:28:11 +0000"
     },
     "done": false

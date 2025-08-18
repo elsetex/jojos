@@ -1058,3 +1058,22 @@ java.lang.NullPointerException: null
 [18Aug2025 19:40:36.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
 [18Aug2025 19:41:19.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> quiero zawarudo
 [18Aug2025 19:41:32.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> deyum
+[18Aug2025 19:43:07.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> nope
+[18Aug2025 19:43:34.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer tried to swim in lava to escape Forge Sentry
+[18Aug2025 19:43:35.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft tried to swim in lava
+[18Aug2025 19:43:45.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 19:43:50.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Spectator Mode]
+[18Aug2025 19:43:56.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Iaqocraft to setexgamer]
+[18Aug2025 19:43:59.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 19:44:13.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:44:15.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 19:44:51.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Husk
+[18Aug2025 19:44:54.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 19:45:06.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> bro
+[18Aug2025 19:45:08.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> esperate
+[18Aug2025 19:45:10.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ya vuelvo
+[18Aug2025 19:45:15.140] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer lost connection: Disconnected
+[18Aug2025 19:45:15.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer left the game
+[18Aug2025 19:45:15.141] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client setexgamer
+[18Aug2025 19:46:09.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [My Resolve Shall Clear the Path!]
+[18Aug2025 19:46:27.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Spectator Mode]
