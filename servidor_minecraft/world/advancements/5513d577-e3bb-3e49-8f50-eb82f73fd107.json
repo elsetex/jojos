@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-18 19:08:37 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab_stonecutter": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -3161,6 +3167,12 @@
     },
     "done": true
   },
+  "jojo:jojo/get_stand": {
+    "criteria": {
+      "get_stand": "2025-08-18 19:08:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/nozzle": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -3182,6 +3194,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-18 17:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-18 19:03:56 +0000"
     },
     "done": true
   },
@@ -3715,6 +3733,8 @@
       "minecraft:spider": "2025-08-18 17:24:24 +0000",
       "minecraft:creeper": "2025-08-18 17:45:14 +0000",
       "minecraft:witch": "2025-08-18 18:38:33 +0000",
+      "minecraft:wither_skeleton": "2025-08-18 19:10:40 +0000",
+      "minecraft:cave_spider": "2025-08-18 19:08:51 +0000",
       "minecraft:zombie": "2025-08-18 17:09:28 +0000",
       "minecraft:zombie_villager": "2025-08-18 17:46:32 +0000"
     },
@@ -4710,6 +4730,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-18 19:03:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_wall_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -4977,6 +5003,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/resolve": {
+    "criteria": {
+      "resolve_effect": "2025-08-18 19:08:54 +0000"
     },
     "done": true
   },
@@ -6576,6 +6608,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2025-08-18 19:10:42 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -7707,6 +7745,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stand_arrow": {
+    "criteria": {
+      "stand_arrow_beetle": "2025-08-18 19:06:44 +0000"
     },
     "done": true
   },
@@ -11524,6 +11568,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/summon_stand": {
+    "criteria": {
+      "summon_stand": "2025-08-18 19:08:06 +0000"
     },
     "done": true
   },
