@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-08-18 18:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:01 +0000"
@@ -917,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-18 18:39:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
@@ -968,6 +980,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/ender/congealed": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-18 18:25:49 +0000"
     },
     "done": true
   },
@@ -3679,6 +3697,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-18 18:27:27 +0000",
+      "minecraft:piglin_brute": "2025-08-18 18:33:12 +0000",
       "minecraft:zombie": "2025-08-18 17:22:35 +0000"
     },
     "done": false
@@ -4874,6 +4894,12 @@
   "create:recipes/create.palettes/dark_scoria_bricks_wall_from_dark_scoria_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-08-18 18:32:45 +0000"
     },
     "done": true
   },
@@ -8351,6 +8377,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-08-18 18:26:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_bricks_slab_from_andesite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
@@ -8678,6 +8710,12 @@
   "farmersdelight:recipes/farmersdelight/half_tatami_mat": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:01 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-diamond": "2025-08-18 18:26:23 +0000"
     },
     "done": true
   },
@@ -10073,6 +10111,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-18 18:25:49 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/firewood/blazewood_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
@@ -10205,7 +10249,9 @@
       "minecraft:mountains": "2025-08-18 17:11:55 +0000",
       "minecraft:taiga": "2025-08-18 17:06:02 +0000",
       "minecraft:taiga_hills": "2025-08-18 17:18:07 +0000",
+      "minecraft:birch_forest": "2025-08-18 18:26:53 +0000",
       "minecraft:river": "2025-08-18 17:10:15 +0000",
+      "minecraft:birch_forest_hills": "2025-08-18 18:38:09 +0000",
       "minecraft:wooded_mountains": "2025-08-18 17:48:24 +0000",
       "minecraft:wooded_hills": "2025-08-18 17:13:33 +0000",
       "minecraft:plains": "2025-08-18 17:28:11 +0000"
@@ -10728,6 +10774,7 @@
       "beef": "2025-08-18 17:28:45 +0000",
       "porkchop": "2025-08-18 17:14:47 +0000",
       "mutton": "2025-08-18 17:14:17 +0000",
+      "bread": "2025-08-18 18:27:37 +0000",
       "rotten_flesh": "2025-08-18 17:26:09 +0000",
       "salmon": "2025-08-18 17:48:03 +0000"
     },
@@ -11186,6 +11233,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-18 18:26:23 +0000"
     },
     "done": true
   },

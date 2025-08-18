@@ -764,3 +764,42 @@ java.lang.NullPointerException: null
 [18Aug2025 18:26:23.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Diamonds!]
 [18Aug2025 18:26:28.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was shot by Skeleton
 [18Aug2025 18:26:52.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 18:31:08.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer fell off a ladder
+[18Aug2025 18:31:12.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 18:31:22.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Zombie
+[18Aug2025 18:31:29.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Iaqocraft to setexgamer]
+[18Aug2025 18:31:31.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 18:33:42.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer hit the ground too hard whilst trying to escape Piglin Brute
+[18Aug2025 18:33:45.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 18:33:48.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Piglin Brute
+[18Aug2025 18:33:54.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 18:34:01.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Piglin Brute
+[18Aug2025 18:34:07.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 18:34:16.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Piglin Brute
+[18Aug2025 18:34:18.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Piglin Brute
+[18Aug2025 18:34:20.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1405, y=52, z=-3470} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 18:34:20.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1405, y=52, z=-3470}
+[18Aug2025 18:34:20.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 18:34:25.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> puta
+[18Aug2025 18:35:09.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Piglin Brute
+[18Aug2025 18:35:16.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> tp Iaqocraft
+[18Aug2025 18:35:19.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 18:35:40.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6061ms or 121 ticks behind
+[18Aug2025 18:38:14.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Guns and Roses]
+[18Aug2025 18:38:34.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 18:38:35.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Guns and Roses]
+[18Aug2025 18:38:43.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was killed by Witch using magic
+[18Aug2025 18:38:48.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 18:38:55.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was killed by Witch using magic
+[18Aug2025 18:38:59.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 18:39:49.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Not Today, Thank You]
+[18Aug2025 18:40:27.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Skeleton
+[18Aug2025 18:40:30.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 18:40:32.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Skeleton
+[18Aug2025 18:40:35.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Skeleton
+[18Aug2025 18:40:35.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 18:40:38.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Skeleton
+[18Aug2025 18:40:39.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 18:40:39.530] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ServerPlayerEntity['Iaqocraft'/38425, l='ServerLevel[world]', x=1346.69, y=92.00, z=-3749.70]
+[18Aug2025 18:40:41.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Skeleton
+[18Aug2025 18:40:41.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
