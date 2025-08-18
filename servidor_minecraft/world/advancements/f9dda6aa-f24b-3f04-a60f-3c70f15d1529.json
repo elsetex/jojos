@@ -5542,6 +5542,12 @@
     },
     "done": true
   },
+  "jojo:jojo/stand_kill_stand": {
+    "criteria": {
+      "stand_user_killed": "2025-08-18 23:44:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
@@ -11095,6 +11101,12 @@
   "create:recipes/create.palettes/paved_scoria_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:01 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stand_max": {
+    "criteria": {
+      "stand_max": "2025-08-18 23:52:10 +0000"
     },
     "done": true
   },

@@ -453,3 +453,28 @@ java.lang.NullPointerException: null
 [18Aug2025 23:45:05.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
 [18Aug2025 23:47:19.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Crazy Diamond
 [18Aug2025 23:47:24.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:48:45.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has reached the goal [My Stand Will Be the Judge!]
+[18Aug2025 23:48:45.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Silver Chariot
+[18Aug2025 23:48:53.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 23:49:20.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Now to Unleash My Stand's Power!]
+[18Aug2025 23:49:34.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Crazy Diamond
+[18Aug2025 23:49:49.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:50:06.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Zombie
+[18Aug2025 23:50:13.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 23:50:27.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Zombie
+[18Aug2025 23:50:31.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:51:08.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Crazy Diamond
+[18Aug2025 23:51:13.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:52:10.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Now to Unleash My Stand's Power!]
+[18Aug2025 23:52:34.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was shot by setexgamer
+[18Aug2025 23:52:39.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:52:52.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Crazy Diamond
+[18Aug2025 23:52:52.187] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[18Aug2025 23:52:55.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:53:18.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Crazy Diamond
+[18Aug2025 23:53:22.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 23:56:46.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> espera
+[18Aug2025 23:57:50.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 23:58:13.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 23:58:32.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus whilst fighting Chariot Requiem
+[18Aug2025 23:58:35.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
