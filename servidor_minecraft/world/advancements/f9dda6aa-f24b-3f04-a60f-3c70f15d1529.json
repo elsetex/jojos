@@ -10176,7 +10176,8 @@
       "minecraft:taiga": "2025-08-18 17:06:02 +0000",
       "minecraft:taiga_hills": "2025-08-18 17:18:07 +0000",
       "minecraft:river": "2025-08-18 17:10:15 +0000",
-      "minecraft:wooded_hills": "2025-08-18 17:13:33 +0000"
+      "minecraft:wooded_hills": "2025-08-18 17:13:33 +0000",
+      "minecraft:plains": "2025-08-18 17:28:11 +0000"
     },
     "done": false
   },
@@ -10692,8 +10693,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-08-18 17:28:45 +0000",
       "porkchop": "2025-08-18 17:14:47 +0000",
-      "mutton": "2025-08-18 17:14:17 +0000"
+      "mutton": "2025-08-18 17:14:17 +0000",
+      "rotten_flesh": "2025-08-18 17:26:09 +0000"
     },
     "done": false
   },

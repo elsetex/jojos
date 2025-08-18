@@ -10700,3 +10700,32 @@ java.lang.NullPointerException: null
 [18Aug2025 17:29:14.380] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 1295 24 207
 [18Aug2025 17:29:17.014] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 1319 48 -121
 [18Aug2025 17:29:22.416] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 1327 41 -265
+[18Aug2025 17:29:23.281] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 1015 42 333
+[18Aug2025 17:29:23.282] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 1133 25 335
+[18Aug2025 17:29:23.285] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 1319 45 333
+[18Aug2025 17:29:39.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Wilden Stalker
+[18Aug2025 17:30:31.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Wilden Hunter
+[18Aug2025 17:30:34.650] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:30:34.659] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 17:31:33.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Not Today, Thank You]
+[18Aug2025 17:32:39.693] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 519 15 -639
+[18Aug2025 17:32:39.722] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 671 29 -633
+[18Aug2025 17:32:44.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was blown up by Creeper
+[18Aug2025 17:33:09.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Zombie
+[18Aug2025 17:34:47.474] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 839 23 -643
+[18Aug2025 17:34:56.961] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 487 43 -745
+[18Aug2025 17:34:56.976] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 839 40 -745
+[18Aug2025 17:35:03.713] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 637 18 -785
+[18Aug2025 17:35:04.067] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 327 34 -787
+[18Aug2025 17:35:31.229] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 349 38 -911
+[18Aug2025 17:35:32.040] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 189 23 -911
+[18Aug2025 17:35:35.447] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:35:35.454] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 17:35:41.169] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 493 41 -929
+[18Aug2025 17:37:24.668] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 199 42 -1081
+[18Aug2025 17:37:24.670] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 497 20 -1081
+[18Aug2025 17:37:24.691] [Worker-Main-17/DEBUG] [betterdungeons/]: Spider Dungeon at 698 48 -1085
+[18Aug2025 17:37:31.228] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 335 38 -1121
+[18Aug2025 17:37:31.233] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 685 43 -1123
+[18Aug2025 17:37:56.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Fire Dragon
+[18Aug2025 17:38:05.483] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 7 45 -1073
