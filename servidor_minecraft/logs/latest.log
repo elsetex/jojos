@@ -601,3 +601,43 @@ java.lang.NullPointerException: null
 [18Aug2025 17:32:44.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was blown up by Creeper
 [18Aug2025 17:33:09.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Zombie
 [18Aug2025 17:37:56.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Fire Dragon
+[18Aug2025 17:41:09.291] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18Aug2025 17:41:09.292] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18Aug2025 17:42:46.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Suit Up]
+[18Aug2025 17:42:52.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Acquire Hardware]
+[18Aug2025 17:45:35.574] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 5.734612256665912,0.7539862017387549,-8.586690115415763
+[18Aug2025 17:45:57.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Sweet Dreams]
+[18Aug2025 17:46:18.647] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/21718, l='ServerLevel[world]', x=555.87, y=67.00, z=-1136.13] died, message: 'Villager was slain by Zombie'
+[18Aug2025 17:46:46.673] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=832, y=21, z=-552} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 17:46:46.673] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=832, y=21, z=-552}
+[18Aug2025 17:47:00.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Bottomless bag]
+[18Aug2025 17:47:25.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Cobweb Entanglement]
+[18Aug2025 17:47:52.370] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1226, y=16, z=-269} but found not block entity block Block{quark:smooth_basalt} at location
+[18Aug2025 17:47:52.370] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:smooth_basalt} but failed at location BlockPos{x=1226, y=16, z=-269}
+[18Aug2025 17:47:52.370] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1229, y=23, z=-270} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 17:47:52.370] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1229, y=23, z=-270}
+[18Aug2025 17:47:52.370] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1228, y=22, z=-269} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 17:47:52.370] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1228, y=22, z=-269}
+[18Aug2025 17:47:52.371] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1229, y=20, z=-272} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 17:47:52.371] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1229, y=20, z=-272}
+[18Aug2025 17:48:27.027] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@56e34831
+[18Aug2025 17:48:27.066] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:54220] logged in with entity id 24559 at (101.76392553488907, 70.0, -254.6999999880791)
+[18Aug2025 17:48:27.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
+[18Aug2025 17:48:27.093] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[18Aug2025 17:48:27.508] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[18Aug2025 17:48:27.509] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[18Aug2025 17:48:31.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[18Aug2025 17:48:32.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[18Aug2025 17:48:32.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
+[18Aug2025 17:48:54.290] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/21830, l='ServerLevel[world]', x=584.65, y=67.00, z=-1200.50] died, message: 'Villager was slain by Fire Dragon'
+[18Aug2025 17:48:56.814] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/21832, l='ServerLevel[world]', x=576.95, y=66.94, z=-1195.52] died, message: 'Nitwit was slain by Fire Dragon'
+[18Aug2025 17:49:07.041] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/21825, l='ServerLevel[world]', x=548.48, y=64.00, z=-1204.66] died, message: 'Villager was slain by Fire Dragon'
+[18Aug2025 17:49:15.780] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft lost connection: Disconnected
+[18Aug2025 17:49:15.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft left the game
+[18Aug2025 17:49:15.781] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iaqocraft
+[18Aug2025 17:49:16.273] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=795, y=15, z=-574} but found not block entity block Block{minecraft:stone} at location
+[18Aug2025 17:49:16.273] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=795, y=15, z=-574}
+[18Aug2025 17:49:16.273] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=795, y=13, z=-564} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[18Aug2025 17:49:16.273] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=795, y=13, z=-564}
+[18Aug2025 17:49:20.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=801, y=13, z=-561} but found not block entity block Block{create:zinc_ore} at location
+[18Aug2025 17:49:20.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{create:zinc_ore} but failed at location BlockPos{x=801, y=13, z=-561}

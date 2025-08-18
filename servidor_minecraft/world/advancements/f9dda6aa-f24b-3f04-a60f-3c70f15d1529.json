@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-18 17:42:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_rope": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:01 +0000"
@@ -2924,6 +2930,12 @@
   "create:recipes/create.palettes/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-18 17:42:52 +0000"
     },
     "done": true
   },
@@ -9065,6 +9077,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-18 17:47:25 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/granite_cobblestone_slab_from_granite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
@@ -10176,6 +10194,7 @@
       "minecraft:taiga": "2025-08-18 17:06:02 +0000",
       "minecraft:taiga_hills": "2025-08-18 17:18:07 +0000",
       "minecraft:river": "2025-08-18 17:10:15 +0000",
+      "minecraft:wooded_mountains": "2025-08-18 17:48:24 +0000",
       "minecraft:wooded_hills": "2025-08-18 17:13:33 +0000",
       "minecraft:plains": "2025-08-18 17:28:11 +0000"
     },
@@ -10696,7 +10715,8 @@
       "beef": "2025-08-18 17:28:45 +0000",
       "porkchop": "2025-08-18 17:14:47 +0000",
       "mutton": "2025-08-18 17:14:17 +0000",
-      "rotten_flesh": "2025-08-18 17:26:09 +0000"
+      "rotten_flesh": "2025-08-18 17:26:09 +0000",
+      "salmon": "2025-08-18 17:48:03 +0000"
     },
     "done": false
   },
@@ -11189,6 +11209,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-18 17:47:25 +0000"
     },
     "done": true
   },
