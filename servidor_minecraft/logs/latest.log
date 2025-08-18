@@ -648,3 +648,39 @@ java.lang.NullPointerException: null
 [18Aug2025 17:54:56.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
 [18Aug2025 17:54:56.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
 [18Aug2025 17:59:02.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Piglin Brute
+[18Aug2025 18:00:16.654] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f705b01
+[18Aug2025 18:00:16.705] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Iaqocraft[/172.30.125.186:50972] logged in with entity id 30805 at (1138.0246916797516, 84.0, -443.0892167141081)
+[18Aug2025 18:00:16.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft joined the game
+[18Aug2025 18:00:16.807] [Server thread/INFO] [Waila/]: Syncing config to Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529)
+[18Aug2025 18:00:17.326] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Iaqocraft (18)
+[18Aug2025 18:00:17.326] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Iaqocraft
+[18Aug2025 18:00:24.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made setexgamer a server operator
+[18Aug2025 18:00:30.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9dda6aa-f24b-3f04-a60f-3c70f15d1529
+[18Aug2025 18:00:30.449] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft lost connection: You logged in from another location
+[18Aug2025 18:00:30.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft left the game
+[18Aug2025 18:00:30.450] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iaqocraft
+[18Aug2025 18:00:30.536] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Iaqocraft[/172.30.125.186:50986] logged in with entity id 31091 at (1138.0246916797516, 84.0, -443.0892167141081)
+[18Aug2025 18:00:30.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft joined the game
+[18Aug2025 18:00:30.581] [Server thread/INFO] [Waila/]: Syncing config to Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529)
+[18Aug2025 18:00:35.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 18:00:51.961] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft lost connection: Timed out
+[18Aug2025 18:00:51.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft left the game
+[18Aug2025 18:00:51.962] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iaqocraft
+[18Aug2025 18:00:57.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 329.5, 66.49390748022948, -566.5]
+[18Aug2025 18:01:09.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Arghh, Where be Me Ship?]
+[18Aug2025 18:01:09.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [The Beginning of An Adventure]
+[18Aug2025 18:02:07.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 18:02:08.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 18:02:11.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 18:05:24.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 18:05:50.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 18:05:57.109] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@170e308c
+[18Aug2025 18:05:57.144] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Iaqocraft[/172.30.125.186:51528] logged in with entity id 33949 at (1138.0246916797516, 84.0, -443.0892167141081)
+[18Aug2025 18:05:57.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft joined the game
+[18Aug2025 18:05:57.167] [Server thread/INFO] [Waila/]: Syncing config to Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529)
+[18Aug2025 18:06:27.011] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft lost connection: Disconnected
+[18Aug2025 18:06:27.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft left the game
+[18Aug2025 18:06:27.012] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iaqocraft
+[18Aug2025 18:09:14.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Ice Bucket Challenge]
+[18Aug2025 18:09:27.451] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=51, y=0, z=-1798} but found not block entity block Block{minecraft:bedrock} at location
+[18Aug2025 18:09:27.451] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=51, y=0, z=-1798}
