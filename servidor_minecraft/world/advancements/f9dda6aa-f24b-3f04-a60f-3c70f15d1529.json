@@ -2729,6 +2729,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-18 19:29:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_cobblestone_wall_from_andesite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
@@ -3146,6 +3152,12 @@
   "create:recipes/create.base/crafting/kinetics/nozzle": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/get_stand": {
+    "criteria": {
+      "get_stand": "2025-08-18 19:30:21 +0000"
     },
     "done": true
   },
@@ -3703,8 +3715,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-08-18 19:29:26 +0000",
       "minecraft:skeleton": "2025-08-18 18:27:27 +0000",
+      "minecraft:hoglin": "2025-08-18 19:23:13 +0000",
       "minecraft:piglin_brute": "2025-08-18 18:33:12 +0000",
+      "minecraft:wither_skeleton": "2025-08-18 19:23:08 +0000",
       "minecraft:zombie": "2025-08-18 17:22:35 +0000"
     },
     "done": false
@@ -10251,12 +10266,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-08-18 19:24:57 +0000",
       "minecraft:forest": "2025-08-18 17:10:19 +0000",
       "minecraft:mountains": "2025-08-18 17:11:55 +0000",
       "minecraft:taiga": "2025-08-18 17:06:02 +0000",
+      "minecraft:desert_hills": "2025-08-18 19:22:32 +0000",
       "minecraft:taiga_hills": "2025-08-18 17:18:07 +0000",
       "minecraft:desert": "2025-08-18 19:17:29 +0000",
       "minecraft:birch_forest": "2025-08-18 18:26:53 +0000",
+      "minecraft:beach": "2025-08-18 19:22:13 +0000",
       "minecraft:river": "2025-08-18 17:10:15 +0000",
       "minecraft:birch_forest_hills": "2025-08-18 18:38:09 +0000",
       "minecraft:wooded_mountains": "2025-08-18 17:48:24 +0000",
@@ -10782,6 +10800,7 @@
       "porkchop": "2025-08-18 17:14:47 +0000",
       "mutton": "2025-08-18 17:14:17 +0000",
       "bread": "2025-08-18 18:27:37 +0000",
+      "golden_apple": "2025-08-18 19:25:18 +0000",
       "rotten_flesh": "2025-08-18 17:26:09 +0000",
       "salmon": "2025-08-18 17:48:03 +0000"
     },

@@ -13170,3 +13170,46 @@ java.lang.NullPointerException: null
 [18Aug2025 19:17:29.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Iron Maiden]
 [18Aug2025 19:20:42.501] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [18Aug2025 19:20:42.509] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 19:22:03.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Spectator Mode]
+[18Aug2025 19:22:27.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[18Aug2025 19:22:52.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 19:22:59.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[18Aug2025 19:24:46.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> eliseo
+[18Aug2025 19:24:49.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Iaqocraft> ??
+[18Aug2025 19:24:58.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> pq no hablas
+[18Aug2025 19:25:10.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was fireballed by Foundry Guardian
+[18Aug2025 19:25:14.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 19:25:16.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[18Aug2025 19:25:19.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 19:25:42.730] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 19:25:42.738] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 19:25:47.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 19:25:49.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Adventure Mode]
+[18Aug2025 19:25:50.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:27:42.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[18Aug2025 19:27:47.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 19:28:32.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[18Aug2025 19:28:38.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 19:28:44.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> mejor te regalo un poco de xp
+[18Aug2025 19:28:45.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Adventure Mode]
+[18Aug2025 19:28:46.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:28:46.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 19:28:51.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> me llamò una minita god
+[18Aug2025 19:28:52.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[18Aug2025 19:29:08.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set 30 experience levels on Iaqocraft]
+[18Aug2025 19:29:26.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Into Fire]
+[18Aug2025 19:29:47.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:29:53.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[18Aug2025 19:29:57.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ven zorrito
+[18Aug2025 19:29:59.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[18Aug2025 19:30:04.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 19:30:06.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Take Aim]
+[18Aug2025 19:30:15.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[18Aug2025 19:30:17.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[18Aug2025 19:30:21.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Possessed by an Evil Spirit]
+[18Aug2025 19:30:21.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Show Me Your Stand Ability!]
+[18Aug2025 19:30:42.648] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 19:30:42.656] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 19:31:07.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [It's Finally Shown Itself!]
+[18Aug2025 19:31:21.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> no quieres ese?
+[18Aug2025 19:31:36.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> es que mira bro
