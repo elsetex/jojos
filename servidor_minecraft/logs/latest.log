@@ -934,3 +934,22 @@ java.lang.NullPointerException: null
 [18Aug2025 19:08:37.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Chest Slayer]
 [18Aug2025 19:08:54.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [My Resolve Shall Clear the Path!]
 [18Aug2025 19:10:01.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 19:12:00.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:12:04.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Into Fire]
+[18Aug2025 19:12:04.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [This Trip Was Really Fun...]
+[18Aug2025 19:12:04.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Magma Cube
+[18Aug2025 19:13:31.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 19:13:52.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:13:54.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[18Aug2025 19:14:30.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[18Aug2025 19:17:19.507] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1dc2e7b5
+[18Aug2025 19:17:19.561] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Iaqocraft[/172.30.125.186:55703] logged in with entity id 75288 at (1331.5893399177266, 169.0, -3680.491564172593)
+[18Aug2025 19:17:19.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft joined the game
+[18Aug2025 19:17:19.625] [Server thread/INFO] [Waila/]: Syncing config to Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529)
+[18Aug2025 19:17:20.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Iaqocraft (18)
+[18Aug2025 19:17:20.014] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Iaqocraft
+[18Aug2025 19:17:24.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9dda6aa-f24b-3f04-a60f-3c70f15d1529
+[18Aug2025 19:17:25.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9dda6aa-f24b-3f04-a60f-3c70f15d1529
+[18Aug2025 19:17:25.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529) successfully connected to voice chat
+[18Aug2025 19:17:28.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[18Aug2025 19:17:29.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Iron Maiden]
