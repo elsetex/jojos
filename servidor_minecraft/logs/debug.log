@@ -13335,3 +13335,12 @@ java.lang.NullPointerException: null
 [18Aug2025 20:01:39.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cauldron'/98938, l='ServerLevel[world]', x=839.74, y=83.52, z=-3146.75]
 [18Aug2025 20:01:39.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/98939, l='ServerLevel[world]', x=837.53, y=83.51, z=-3148.33]
 [18Aug2025 20:01:46.731] [Worker-Main-209/DEBUG] [betterdungeons/]: Small Dungeon at 679 30 -3503
+[18Aug2025 20:04:56.880] [Worker-Main-206/DEBUG] [betterdungeons/]: Small Dungeon at 807 13 -3657
+[18Aug2025 20:05:05.844] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft lost connection: Disconnected
+[18Aug2025 20:05:05.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft left the game
+[18Aug2025 20:05:05.846] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Iaqocraft
+[18Aug2025 20:05:05.846] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iaqocraft
+[18Aug2025 20:05:42.349] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:05:42.358] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 20:10:42.345] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:10:42.353] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
