@@ -586,3 +586,12 @@ java.lang.NullPointerException: null
 [18Aug2025 17:15:08.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Stone Age]
 [18Aug2025 17:16:56.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Getting an Upgrade]
 [18Aug2025 17:17:58.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was shot by Skeleton
+[18Aug2025 17:19:29.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [JoJo]
+[18Aug2025 17:19:35.305] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
+[18Aug2025 17:19:35.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[18Aug2025 17:19:35.307] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[18Aug2025 17:22:35.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Monster Hunter]
+[18Aug2025 17:22:54.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Zombie
+[18Aug2025 17:24:32.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Acquire Hardware]
+[18Aug2025 17:24:39.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Isn't It Iron Pick]
+[18Aug2025 17:25:21.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Suit Up]

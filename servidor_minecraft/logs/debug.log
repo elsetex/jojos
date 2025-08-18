@@ -10676,3 +10676,27 @@ java.lang.NullPointerException: null
 [18Aug2025 17:18:00.875] [Server thread/DEBUG] [mixin/]: Mixing InventoryHelperMixin from mixins.jojo.json into net.minecraft.inventory.InventoryHelper
 [18Aug2025 17:18:49.449] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 687 23 -431
 [18Aug2025 17:19:08.787] [Worker-Main-17/DEBUG] [betterdungeons/]: Skeleton Dungeon at 39 11 -1881
+[18Aug2025 17:19:29.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [JoJo]
+[18Aug2025 17:19:35.305] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
+[18Aug2025 17:19:35.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[18Aug2025 17:19:35.306] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of gerR3219
+[18Aug2025 17:19:35.307] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[18Aug2025 17:20:34.847] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:20:34.857] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 17:21:17.377] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 855 32 -447
+[18Aug2025 17:22:35.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Monster Hunter]
+[18Aug2025 17:22:54.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Zombie
+[18Aug2025 17:24:32.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Acquire Hardware]
+[18Aug2025 17:24:39.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Isn't It Iron Pick]
+[18Aug2025 17:25:21.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Suit Up]
+[18Aug2025 17:25:34.962] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:25:34.975] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Aug2025 17:26:07.789] [Worker-Main-18/DEBUG] [betterdungeons/]: Spider Dungeon at 1018 42 -437
+[18Aug2025 17:28:20.877] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 1143 31 -321
+[18Aug2025 17:28:39.260] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 1153 14 55
+[18Aug2025 17:28:43.717] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 1169 29 -127
+[18Aug2025 17:28:44.092] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 1169 18 183
+[18Aug2025 17:29:14.368] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 1295 11 23
+[18Aug2025 17:29:14.380] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 1295 24 207
+[18Aug2025 17:29:17.014] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 1319 48 -121
+[18Aug2025 17:29:22.416] [Worker-Main-17/DEBUG] [betterdungeons/]: Small Dungeon at 1327 41 -265

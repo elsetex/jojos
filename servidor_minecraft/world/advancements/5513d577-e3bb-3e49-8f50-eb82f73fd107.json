@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-18 17:25:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_rope": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -950,6 +956,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/ender/congealed": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-18 17:24:39 +0000"
     },
     "done": true
   },
@@ -2897,6 +2909,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-18 17:24:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -3620,6 +3638,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-18 17:12:37 +0000",
+      "minecraft:spider": "2025-08-18 17:24:24 +0000",
       "minecraft:zombie": "2025-08-18 17:09:28 +0000"
     },
     "done": false
@@ -4929,6 +4948,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-18 17:25:06 +0000"
     },
     "done": true
   },
@@ -10597,6 +10622,12 @@
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-08-18 17:25:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
