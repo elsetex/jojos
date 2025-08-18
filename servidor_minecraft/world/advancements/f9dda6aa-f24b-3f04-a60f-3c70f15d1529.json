@@ -2801,6 +2801,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-18 23:31:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/chocolate_pie_from_slices": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:01 +0000"
