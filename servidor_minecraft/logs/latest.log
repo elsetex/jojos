@@ -5327,3 +5327,63 @@ java.lang.NullPointerException: null
 [19Aug2025 02:08:24.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [The Arrow is Drawn to Capable]
 [19Aug2025 02:08:36.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Ice Bucket Challenge]
 [19Aug2025 02:08:50.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 15 experience levels to setexgamer]
+[19Aug2025 02:09:52.506] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over moved too quickly! 1.8963960709031653,-1.0,9.804439305488472
+[19Aug2025 02:09:52.506] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft moved too quickly! -4.873954306476776,0.7508129212553172,9.124271223364303
+[19Aug2025 02:09:52.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Aug2025 02:11:26.429] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=328, y=0, z=-1264} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:26.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=328, y=0, z=-1264}
+[19Aug2025 02:11:26.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=330, y=0, z=-1278} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:26.431] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=330, y=0, z=-1278}
+[19Aug2025 02:11:26.431] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=334, y=0, z=-1266} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:26.431] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=334, y=0, z=-1266}
+[19Aug2025 02:11:26.431] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=327, y=0, z=-1276} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:26.431] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=327, y=0, z=-1276}
+[19Aug2025 02:11:26.431] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=325, y=0, z=-1278} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:26.431] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=325, y=0, z=-1278}
+[19Aug2025 02:11:26.431] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=332, y=0, z=-1276} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:26.431] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=332, y=0, z=-1276}
+[19Aug2025 02:11:33.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=505, y=26, z=-1366} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 02:11:33.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=505, y=26, z=-1366}
+[19Aug2025 02:11:33.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=507, y=26, z=-1362} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 02:11:33.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=507, y=26, z=-1362}
+[19Aug2025 02:11:33.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=508, y=29, z=-1373} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 02:11:33.519] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=508, y=29, z=-1373}
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=474, y=0, z=-1403} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=474, y=0, z=-1403}
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=474, y=0, z=-1406} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=474, y=0, z=-1406}
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=472, y=0, z=-1404} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=472, y=0, z=-1404}
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=476, y=0, z=-1403} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=476, y=0, z=-1403}
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=469, y=0, z=-1396} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:39.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=469, y=0, z=-1396}
+[19Aug2025 02:11:42.847] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=472, y=0, z=-1410} but found not block entity block Block{minecraft:bedrock} at location
+[19Aug2025 02:11:42.847] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=472, y=0, z=-1410}
+[19Aug2025 02:12:30.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Foreigner... I See Your Future...]
+[19Aug2025 02:12:36.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Iaqocraft to Nay_over]
+[19Aug2025 02:12:37.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Foreigner... I See Your Future...]
+[19Aug2025 02:13:00.336] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Aug2025 02:13:00.338] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Aug2025 02:13:14.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Where're we going with Piglet...]
+[19Aug2025 02:14:54.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! -3.106035830728132,2.6357913713012806,-9.750015555824575
+[19Aug2025 02:15:25.431] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/33234, l='ServerLevel[world]', x=-509.50, y=31.00, z=-2256.50] died, message: 'Villager suffocated in a wall'
+[19Aug2025 02:15:40.959] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-161, y=29, z=-2311} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 02:15:40.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-161, y=29, z=-2311}
+[19Aug2025 02:17:52.525] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@196c1b31
+[19Aug2025 02:17:52.529] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:52015] logged in with entity id 34849 at (-196.5, 79.0, 154.5)
+[19Aug2025 02:17:52.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
+[19Aug2025 02:17:52.597] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[19Aug2025 02:17:53.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Ice and Fire]
+[19Aug2025 02:17:53.899] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[19Aug2025 02:17:53.900] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[19Aug2025 02:17:59.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[19Aug2025 02:17:59.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 02:18:00.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[19Aug2025 02:18:00.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
+[19Aug2025 02:18:15.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 02:18:36.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has completed the challenge [Rude Awakening]
+[19Aug2025 02:18:36.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 02:18:38.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 02:19:03.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 02:19:06.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]

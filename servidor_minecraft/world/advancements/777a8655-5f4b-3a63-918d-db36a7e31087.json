@@ -2183,6 +2183,12 @@
     },
     "done": true
   },
+  "jojo:jojo/root": {
+    "criteria": {
+      "stand_afk": "2025-08-19 02:07:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/gabbro_pillar_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -8549,6 +8555,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-19 02:05:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -10193,10 +10205,15 @@
       "minecraft:mountains": "2025-08-19 02:00:39 +0000",
       "minecraft:desert_hills": "2025-08-19 01:57:57 +0000",
       "minecraft:desert": "2025-08-19 01:54:41 +0000",
+      "minecraft:birch_forest": "2025-08-19 02:10:38 +0000",
       "minecraft:savanna_plateau": "2025-08-19 01:50:12 +0000",
       "minecraft:beach": "2025-08-19 02:04:22 +0000",
+      "minecraft:dark_forest": "2025-08-19 02:06:44 +0000",
       "minecraft:river": "2025-08-19 01:51:15 +0000",
+      "minecraft:wooded_mountains": "2025-08-19 02:12:00 +0000",
+      "minecraft:stone_shore": "2025-08-19 02:11:32 +0000",
       "minecraft:swamp": "2025-08-19 02:02:17 +0000",
+      "minecraft:savanna": "2025-08-19 02:05:00 +0000",
       "minecraft:plains": "2025-08-19 01:49:52 +0000"
     },
     "done": false
@@ -11554,6 +11571,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/hamon_temple": {
+    "criteria": {
+      "in_temple": "2025-08-19 02:12:30 +0000"
     },
     "done": true
   },
