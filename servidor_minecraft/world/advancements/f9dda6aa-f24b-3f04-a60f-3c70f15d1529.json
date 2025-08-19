@@ -1331,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-19 03:34:55 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -2108,6 +2114,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-19 03:34:54 +0000"
     },
     "done": true
   },
@@ -7633,6 +7645,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-19 03:34:54 +0000"
     },
     "done": true
   },

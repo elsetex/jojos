@@ -1337,6 +1337,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-19 03:34:34 +0000",
+      "minecraft:soul_sand_valley": "2025-08-19 03:36:56 +0000",
+      "minecraft:warped_forest": "2025-08-19 03:34:46 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -2123,6 +2131,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-19 03:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -2759,6 +2773,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-19 03:37:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_cobblestone_wall_from_andesite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -3353,6 +3373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-19 03:35:45 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -3752,10 +3778,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-19 01:34:59 +0000",
+      "minecraft:blaze": "2025-08-19 03:37:09 +0000",
       "minecraft:skeleton": "2025-08-19 01:22:27 +0000",
+      "minecraft:ghast": "2025-08-19 03:39:45 +0000",
+      "minecraft:magma_cube": "2025-08-19 03:36:17 +0000",
       "minecraft:spider": "2025-08-19 01:15:26 +0000",
       "minecraft:creeper": "2025-08-19 01:56:44 +0000",
       "minecraft:witch": "2025-08-19 01:43:29 +0000",
+      "minecraft:wither_skeleton": "2025-08-19 03:35:09 +0000",
       "minecraft:husk": "2025-08-19 01:56:39 +0000",
       "minecraft:cave_spider": "2025-08-19 01:16:53 +0000",
       "minecraft:enderman": "2025-08-19 03:02:22 +0000",
@@ -7099,6 +7129,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-08-19 03:34:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/redstone_link": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -7723,6 +7759,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-19 03:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -8044,6 +8086,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-19 03:35:11 +0000"
     },
     "done": true
   },
@@ -11521,6 +11569,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-19 03:34:50 +0000"
     },
     "done": true
   },
