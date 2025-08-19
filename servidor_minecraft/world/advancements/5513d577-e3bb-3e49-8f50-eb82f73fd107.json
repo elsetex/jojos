@@ -3083,6 +3083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-19 01:07:56 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -3598,6 +3604,12 @@
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-08-19 01:10:52 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
@@ -8561,6 +8573,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-diamond": "2025-08-19 01:12:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -10019,6 +10037,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-08-19 01:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -10064,6 +10088,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-08-19 01:01:19 +0000",
+      "minecraft:savanna": "2025-08-19 01:08:16 +0000",
       "minecraft:plains": "2025-08-19 01:00:32 +0000"
     },
     "done": false
@@ -10574,7 +10599,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mutton": "2025-08-19 01:04:02 +0000"
+      "mutton": "2025-08-19 01:04:02 +0000",
+      "bread": "2025-08-19 01:10:17 +0000",
+      "rotten_flesh": "2025-08-19 01:11:13 +0000"
     },
     "done": false
   },
@@ -11037,6 +11064,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-19 01:12:51 +0000"
     },
     "done": true
   },

@@ -5151,3 +5151,18 @@ java.lang.NullPointerException: null
 [19Aug2025 01:04:42.756] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-209, y=74, z=152} BlockPos{x=-205, y=74, z=153}
 [19Aug2025 01:05:06.612] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-209, y=74, z=152} BlockPos{x=-201, y=75, z=152}
 [19Aug2025 01:05:45.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [JoJo]
+[19Aug2025 01:08:28.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Getting an Upgrade]
+[19Aug2025 01:09:27.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer tried to swim in lava
+[19Aug2025 01:09:43.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 01:09:45.346] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft moved too quickly! 9.27700083204843,-1.0724278036804407,3.778137260310814
+[19Aug2025 01:10:01.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Monster Hunter]
+[19Aug2025 01:10:07.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 01:10:08.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 01:10:14.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 01:10:15.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 01:10:52.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Monster Hunter]
+[19Aug2025 01:12:51.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Diamonds!]
+[19Aug2025 01:15:45.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Acquire Hardware]
+[19Aug2025 01:15:45.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Stealth boy]
+[19Aug2025 01:15:45.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Be obedient]
+[19Aug2025 01:18:34.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Suit Up]

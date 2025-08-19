@@ -17448,3 +17448,26 @@ java.lang.NullPointerException: null
 [19Aug2025 01:05:45.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [JoJo]
 [19Aug2025 01:06:28.840] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 161 18 359
 [19Aug2025 01:07:28.625] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -449 21 519
+[19Aug2025 01:08:28.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Getting an Upgrade]
+[19Aug2025 01:09:27.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer tried to swim in lava
+[19Aug2025 01:09:38.220] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -105 14 647
+[19Aug2025 01:09:38.867] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -291 16 637
+[19Aug2025 01:09:43.476] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 343 13 663
+[19Aug2025 01:09:43.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 01:09:45.294] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 01:09:45.305] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 01:09:45.346] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft moved too quickly! 9.27700083204843,-1.0724278036804407,3.778137260310814
+[19Aug2025 01:10:01.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Monster Hunter]
+[19Aug2025 01:10:07.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 01:10:08.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 01:10:14.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 01:10:15.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 01:10:52.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Monster Hunter]
+[19Aug2025 01:12:51.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Diamonds!]
+[19Aug2025 01:13:13.935] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 481 36 503
+[19Aug2025 01:14:44.863] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 01:14:44.874] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 01:15:45.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Acquire Hardware]
+[19Aug2025 01:15:45.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Stealth boy]
+[19Aug2025 01:15:45.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Be obedient]
+[19Aug2025 01:18:34.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Suit Up]
