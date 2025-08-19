@@ -2895,6 +2895,12 @@
     },
     "done": true
   },
+  "relics:obtain/blazing_flask": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 18:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -9386,7 +9392,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-08-19 01:23:14 +0000"
+      "in_better_spider_dungeon": "2025-08-19 01:23:14 +0000",
+      "in_better_skeleton_dungeon": "2025-08-19 18:15:15 +0000"
     },
     "done": false
   },
@@ -10185,6 +10192,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/lantern": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-08-19 18:15:15 +0000"
     },
     "done": true
   },

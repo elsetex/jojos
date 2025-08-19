@@ -468,3 +468,11 @@ java.lang.NullPointerException: null
 [19Aug2025 18:09:56.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
 [19Aug2025 18:09:57.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
 [19Aug2025 18:10:05.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 18:12:21.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [A Bone to Pick]
+[19Aug2025 18:15:15.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [A Bone to Pick]
+[19Aug2025 18:20:03.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Kaseki's pupil]
+[19Aug2025 18:21:53.062] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d2bb22d
+[19Aug2025 18:21:53.118] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Iaqocraft[/172.30.125.186:56617] logged in with entity id 17825 at (710.7467686414109, 74.0, -239.41263340905263)
+[19Aug2025 18:21:53.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft joined the game
+[19Aug2025 18:21:53.148] [Server thread/INFO] [Waila/]: Syncing config to Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529)
+[19Aug2025 18:21:53.752] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-234}
