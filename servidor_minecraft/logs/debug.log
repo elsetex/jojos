@@ -9363,3 +9363,14 @@ java.lang.NullPointerException: null
 [19Aug2025 18:54:24.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was burnt to a crisp whilst fighting Foxhound
 [19Aug2025 18:54:26.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 10 experience points to setexgamer]
 [19Aug2025 18:54:59.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 10 experience levels to setexgamer]
+[19Aug2025 18:56:26.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[19Aug2025 18:56:46.513] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 18:56:46.527] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 18:59:24.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[19Aug2025 19:00:26.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Power to Reign over the World!]
+[19Aug2025 19:01:48.986] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 19:01:48.997] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 19:01:50.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has reached the goal [My Stand Will Be the Judge!]
+[19Aug2025 19:01:50.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was shot by Magician's Red
+[19Aug2025 19:01:56.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported gerR3219 to setexgamer]
+[19Aug2025 19:01:59.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
