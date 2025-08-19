@@ -1331,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-19 04:39:56 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -2108,6 +2114,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-19 04:39:56 +0000"
     },
     "done": true
   },
@@ -7682,6 +7694,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-19 04:39:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -11101,6 +11119,12 @@
   "create:recipes/create.palettes/paved_scoria_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stand_max": {
+    "criteria": {
+      "stand_max": "2025-08-19 04:34:59 +0000"
     },
     "done": true
   },
