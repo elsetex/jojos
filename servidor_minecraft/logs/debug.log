@@ -20158,3 +20158,18 @@ java.lang.NullPointerException: null
 [19Aug2025 04:00:31.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to -2991.5, 128.0, -4879.5]
 [19Aug2025 04:00:33.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
 [19Aug2025 04:01:02.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 04:01:19.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 04:01:22.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 04:01:39.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Nay_over]
+[19Aug2025 04:02:47.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Dragonslayer]
+[19Aug2025 04:05:16.547] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 04:05:16.555] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 04:06:29.392] [Worker-Main-155/DEBUG] [betterdungeons/]: Small Dungeon at 957 38 -943
+[19Aug2025 04:09:55.448] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -145 46 -1121
+[19Aug2025 04:10:15.208] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -265 44 -1121
+[19Aug2025 04:10:16.561] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 04:10:16.570] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 04:11:13.240] [Worker-Main-161/DEBUG] [betterdungeons/]: Small Dungeon at -435 26 -1103
+[19Aug2025 04:11:16.482] [Worker-Main-161/DEBUG] [betterdungeons/]: Small Dungeon at -447 24 -921
+[19Aug2025 04:11:24.266] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -473 13 -1225
+[19Aug2025 04:11:24.271] [Worker-Main-155/DEBUG] [betterdungeons/]: Small Dungeon at -473 20 -785

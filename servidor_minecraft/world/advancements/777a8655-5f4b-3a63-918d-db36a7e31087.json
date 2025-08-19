@@ -959,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-19 04:03:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -7698,6 +7704,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-08-19 04:07:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -10266,6 +10278,7 @@
       "minecraft:dark_forest": "2025-08-19 02:06:44 +0000",
       "minecraft:river": "2025-08-19 01:51:15 +0000",
       "minecraft:wooded_mountains": "2025-08-19 02:12:00 +0000",
+      "minecraft:wooded_hills": "2025-08-19 04:01:18 +0000",
       "minecraft:stone_shore": "2025-08-19 02:11:32 +0000",
       "minecraft:swamp": "2025-08-19 02:02:17 +0000",
       "minecraft:savanna": "2025-08-19 02:05:00 +0000",
