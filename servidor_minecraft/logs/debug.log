@@ -8874,3 +8874,25 @@ java.lang.NullPointerException: null
 [19Aug2025 23:21:17.160] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [19Aug2025 23:25:11.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was killed by Ignis using magic
 [19Aug2025 23:25:36.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 23:25:45.026] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -1231 41 1959
+[19Aug2025 23:25:45.035] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -1251 44 1805
+[19Aug2025 23:25:45.037] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -1391 47 1959
+[19Aug2025 23:25:45.038] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -1393 14 1793
+[19Aug2025 23:25:45.127] [Worker-Main-4/DEBUG] [betterdungeons/]: Skeleton Dungeon at -1399 24 1783
+[19Aug2025 23:25:45.577] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -1427 14 2077
+[19Aug2025 23:26:17.091] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 23:26:17.103] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 23:26:17.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 23:26:18.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 23:26:20.006] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[19Aug2025 23:26:33.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 23:26:35.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 23:26:41.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 23:26:42.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 23:31:17.428] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 23:31:17.439] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 23:31:17.466] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 7.338322025847219,5.130883534460878,5.096030932052145
+[19Aug2025 23:31:33.397] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft moved too quickly! -2.0533118300344313,-1.5465926034865447,-9.818316977930067
+[19Aug2025 23:34:10.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Spooky Scary Skeletons]
+[19Aug2025 23:35:19.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 23:35:52.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
