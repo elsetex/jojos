@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 01:15:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/dough": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -134,6 +140,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-08-19 01:18:45 +0000"
     },
     "done": true
   },
@@ -437,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-19 01:18:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_rope": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -494,6 +512,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/spatial_sign": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 01:20:29 +0000"
     },
     "done": true
   },
@@ -2015,6 +2039,12 @@
     },
     "done": true
   },
+  "relics:obtain/leather_belt": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 01:15:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/palettes/copper_shingles": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -2402,6 +2432,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-08-19 01:22:01 +0000"
     },
     "done": true
   },
@@ -2882,6 +2918,12 @@
   "create:recipes/create.palettes/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-19 01:15:45 +0000"
     },
     "done": true
   },
@@ -3607,6 +3649,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-19 01:22:27 +0000",
+      "minecraft:spider": "2025-08-19 01:15:26 +0000",
+      "minecraft:cave_spider": "2025-08-19 01:16:53 +0000",
       "minecraft:zombie": "2025-08-19 01:10:52 +0000"
     },
     "done": false
@@ -5906,6 +5951,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/ichor/slimeblock": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/camouflage_ring": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 01:15:45 +0000"
     },
     "done": true
   },
@@ -8711,6 +8762,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-08-19 01:21:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -8986,6 +9043,12 @@
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-19 01:23:14 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/granite_cobblestone_slab_from_granite_cobblestone_stonecutting": {
     "criteria": {
@@ -10088,6 +10151,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-08-19 01:01:19 +0000",
+      "minecraft:river": "2025-08-19 01:15:20 +0000",
       "minecraft:savanna": "2025-08-19 01:08:16 +0000",
       "minecraft:plains": "2025-08-19 01:00:32 +0000"
     },
@@ -11103,6 +11167,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-19 01:23:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -11439,6 +11509,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-19 01:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -11724,6 +11800,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/green_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-08-19 01:21:56 +0000"
     },
     "done": true
   },
