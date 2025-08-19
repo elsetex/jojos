@@ -5069,6 +5069,12 @@
     },
     "done": true
   },
+  "jojo:jojo/resolve": {
+    "criteria": {
+      "resolve_effect": "2025-08-19 04:20:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -7805,6 +7811,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-08-19 04:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -9482,6 +9494,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/orange_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stand_arrow_shot": {
+    "criteria": {
+      "gave_stand": "2025-08-19 04:20:37 +0000"
     },
     "done": true
   },
@@ -11256,6 +11274,12 @@
   "create:recipes/create.palettes/paved_scoria_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stand_max": {
+    "criteria": {
+      "stand_max": "2025-08-19 04:26:44 +0000"
     },
     "done": true
   },

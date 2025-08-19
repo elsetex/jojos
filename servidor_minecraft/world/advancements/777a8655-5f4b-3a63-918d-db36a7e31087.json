@@ -3155,6 +3155,12 @@
     },
     "done": true
   },
+  "jojo:jojo/get_stand": {
+    "criteria": {
+      "get_stand": "2025-08-19 04:20:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_compacting_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -4184,6 +4190,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-08-19 04:20:37 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/sand_cast": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -4970,6 +4982,12 @@
     },
     "done": true
   },
+  "jojo:jojo/resolve": {
+    "criteria": {
+      "resolve_effect": "2025-08-19 04:23:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -5513,6 +5531,12 @@
   "create:recipes/create.palettes/paved_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stand_kill_stand": {
+    "criteria": {
+      "stand_user_killed": "2025-08-19 04:27:08 +0000"
     },
     "done": true
   },
@@ -7691,6 +7715,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stand_arrow": {
+    "criteria": {
+      "stand_arrow_normal": "2025-08-19 04:20:24 +0000"
     },
     "done": true
   },
@@ -10348,6 +10378,12 @@
     },
     "done": true
   },
+  "jojo:jojo/kill_pillarman": {
+    "criteria": {
+      "pillarman_killed": "2025-08-19 04:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -11491,6 +11527,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/summon_stand": {
+    "criteria": {
+      "summon_stand": "2025-08-19 04:20:51 +0000"
     },
     "done": true
   },

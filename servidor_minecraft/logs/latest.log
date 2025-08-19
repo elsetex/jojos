@@ -5674,3 +5674,13 @@ java.lang.NullPointerException: null
 [19Aug2025 04:20:37.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Show Me Your Stand Ability!]
 [19Aug2025 04:20:48.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [My Resolve Shall Clear the Path!]
 [19Aug2025 04:20:51.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [It's Finally Shown Itself!]
+[19Aug2025 04:23:03.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [My Resolve Shall Clear the Path!]
+[19Aug2025 04:23:03.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Book of Monsters]
+[19Aug2025 04:23:05.752] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/82778, l='ServerLevel[world]', x=168.51, y=73.00, z=-625.64] died, message: 'Scribe was slain by Zombie'
+[19Aug2025 04:26:44.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Now to Unleash My Stand's Power!]
+[19Aug2025 04:27:08.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has reached the goal [My Stand Will Be the Judge!]
+[19Aug2025 04:27:08.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has completed the challenge [Die with the Power You Stole!]
+[19Aug2025 04:27:08.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Cream
+[19Aug2025 04:27:14.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Nay_over]
+[19Aug2025 04:27:17.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 04:31:31.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> tardara un año
