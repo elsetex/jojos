@@ -427,3 +427,30 @@ java.lang.NullPointerException: null
 [19Aug2025 17:37:10.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
 [19Aug2025 17:39:34.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Take Aim]
 [19Aug2025 17:39:34.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Monster Hunter]
+[19Aug2025 17:43:40.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Cover Me With Diamonds]
+[19Aug2025 17:46:25.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> -450 80 -2154
+[19Aug2025 17:51:21.739] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-517, y=19, z=-1896}
+[19Aug2025 17:51:21.739] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-520, y=17, z=-1903}
+[19Aug2025 17:51:21.740] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-512, y=17, z=-1902}
+[19Aug2025 17:51:21.964] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-531, y=24, z=-1898}
+[19Aug2025 17:51:25.308] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 0.09083235084654007,1.0549549507639568,-11.706617345782433
+[19Aug2025 17:51:48.055] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved wrongly!
+[19Aug2025 17:53:06.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 17:53:13.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 17:53:33.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has dissipated under ultraviolet rays
+[19Aug2025 17:53:51.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported gerR3219 to setexgamer]
+[19Aug2025 17:54:37.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has dissipated under ultraviolet rays whilst fighting Wolf
+[19Aug2025 17:54:49.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to gerR3219]
+[19Aug2025 17:55:00.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 17:55:10.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported gerR3219 to setexgamer]
+[19Aug2025 17:55:11.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 17:55:23.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
+[19Aug2025 17:56:41.544] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 7.191098690033016,6.265000113874677,3.6292052268981934
+[19Aug2025 17:56:50.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was frozen by Ice Dragon
+[19Aug2025 17:56:52.319] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/11556, l='ServerLevel[world]', x=-504.13, y=42.00, z=-2303.13]
+[19Aug2025 17:57:26.346] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 6.125471591949463,6.265000113874677,5.230834484100342
+[19Aug2025 17:58:32.038] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! -0.5378671288490295,6.265000113874677,8.037022590637207
+[19Aug2025 17:58:35.289] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 1.5775115489959717,6.265000113874677,7.899017810821533
+[19Aug2025 17:58:56.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
+[19Aug2025 17:59:41.991] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 0.8740225434303284,6.265000113874677,-8.007440567016602
+[19Aug2025 17:59:55.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was turned to ice by setexgamer

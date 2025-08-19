@@ -8919,3 +8919,53 @@ java.lang.NullPointerException: null
 [19Aug2025 17:39:34.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Take Aim]
 [19Aug2025 17:39:34.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Monster Hunter]
 [19Aug2025 17:39:41.811] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[19Aug2025 17:41:24.656] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 17:41:24.671] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 17:43:40.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Cover Me With Diamonds]
+[19Aug2025 17:44:20.321] [Server thread/DEBUG] [net.lavabucket.hourglass.time.TimeService/hourglass]: Sleep cycle complete on dimension: minecraft:overworld.
+[19Aug2025 17:46:24.803] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 17:46:24.814] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 17:46:25.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> -450 80 -2154
+[19Aug2025 17:46:52.470] [Server thread/DEBUG] [mixin/]: Mixing InventoryHelperMixin from mixins.jojo.json into net.minecraft.inventory.InventoryHelper
+[19Aug2025 17:50:15.759] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -585 27 -1601
+[19Aug2025 17:50:17.328] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -753 18 -1121
+[19Aug2025 17:50:26.820] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -761 14 -1417
+[19Aug2025 17:50:30.728] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -785 38 -1583
+[19Aug2025 17:50:34.486] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -625 31 -1705
+[19Aug2025 17:50:34.497] [Worker-Main-6/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[19Aug2025 17:50:34.498] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdd7606f$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[19Aug2025 17:50:34.498] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdd7606f$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[19Aug2025 17:50:34.498] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdd7606f$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[19Aug2025 17:50:38.912] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -761 35 -1715
+[19Aug2025 17:50:45.022] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -793 44 -1273
+[19Aug2025 17:51:21.739] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-517, y=19, z=-1896}
+[19Aug2025 17:51:21.739] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-520, y=17, z=-1903}
+[19Aug2025 17:51:21.740] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-512, y=17, z=-1902}
+[19Aug2025 17:51:21.964] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-531, y=24, z=-1898}
+[19Aug2025 17:51:25.266] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 17:51:25.278] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 17:51:25.308] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 0.09083235084654007,1.0549549507639568,-11.706617345782433
+[19Aug2025 17:51:48.055] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved wrongly!
+[19Aug2025 17:53:06.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 17:53:13.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 17:53:33.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has dissipated under ultraviolet rays
+[19Aug2025 17:53:51.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported gerR3219 to setexgamer]
+[19Aug2025 17:54:37.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has dissipated under ultraviolet rays whilst fighting Wolf
+[19Aug2025 17:54:49.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to gerR3219]
+[19Aug2025 17:55:00.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 17:55:10.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported gerR3219 to setexgamer]
+[19Aug2025 17:55:11.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 17:55:23.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
+[19Aug2025 17:56:24.423] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 17:56:24.436] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 17:56:41.544] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 7.191098690033016,6.265000113874677,3.6292052268981934
+[19Aug2025 17:56:50.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was frozen by Ice Dragon
+[19Aug2025 17:56:52.319] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/11556, l='ServerLevel[world]', x=-504.13, y=42.00, z=-2303.13]
+[19Aug2025 17:57:26.346] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 6.125471591949463,6.265000113874677,5.230834484100342
+[19Aug2025 17:58:32.038] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! -0.5378671288490295,6.265000113874677,8.037022590637207
+[19Aug2025 17:58:35.289] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 1.5775115489959717,6.265000113874677,7.899017810821533
+[19Aug2025 17:58:56.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
+[19Aug2025 17:59:41.991] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 0.8740225434303284,6.265000113874677,-8.007440567016602
+[19Aug2025 17:59:55.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was turned to ice by setexgamer
+[19Aug2025 18:01:24.428] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 18:01:24.439] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
