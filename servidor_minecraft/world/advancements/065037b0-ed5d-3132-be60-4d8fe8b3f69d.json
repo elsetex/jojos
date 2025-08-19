@@ -1289,6 +1289,12 @@
     },
     "done": true
   },
+  "jojo:jojo/vampire_kill_hamon": {
+    "criteria": {
+      "hamon_user_killed": "2025-08-19 18:42:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-08-19 02:17:53 +0000"
@@ -3134,6 +3140,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 02:17:53 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/time_ability": {
+    "criteria": {
+      "sp_ts": "2025-08-19 18:45:45 +0000"
     },
     "done": true
   },
@@ -5539,6 +5551,12 @@
     },
     "done": true
   },
+  "jojo:jojo/stand_kill_stand": {
+    "criteria": {
+      "stand_user_killed": "2025-08-19 18:42:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_the_recipe": "2025-08-19 02:17:53 +0000"
@@ -7714,6 +7732,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
     "criteria": {
       "has_the_recipe": "2025-08-19 02:17:52 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stand_arrow": {
+    "criteria": {
+      "stand_arrow_normal": "2025-08-19 18:45:16 +0000"
     },
     "done": true
   },
@@ -11099,6 +11123,12 @@
   "create:recipes/create.palettes/paved_scoria_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 02:17:53 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stand_max": {
+    "criteria": {
+      "stand_max": "2025-08-19 18:43:21 +0000"
     },
     "done": true
   },

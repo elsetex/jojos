@@ -11064,6 +11064,12 @@
     },
     "done": true
   },
+  "jojo:jojo/stand_max": {
+    "criteria": {
+      "stand_max": "2025-08-19 18:42:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -11337,6 +11343,12 @@
   "create:recipes/create.base/crafting/logistics/stockpile_switch": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/soul": {
+    "criteria": {
+      "soul_ascension": "2025-08-19 18:42:15 +0000"
     },
     "done": true
   },

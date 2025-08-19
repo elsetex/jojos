@@ -9332,3 +9332,34 @@ java.lang.NullPointerException: null
 [19Aug2025 18:45:25.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
 [19Aug2025 18:45:45.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Power to Reign over the World!]
 [19Aug2025 18:46:05.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was burnt to a crisp whilst fighting Magician's Red
+[19Aug2025 18:46:12.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported gerR3219 to Iaqocraft]
+[19Aug2025 18:46:15.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
+[19Aug2025 18:46:46.243] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 18:46:46.252] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 18:49:08.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Crazy Diamond
+[19Aug2025 18:49:34.138] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of setexgamer: {disabled=false, disconnected=false, uuid=5513d577-e3bb-3e49-8f50-eb82f73fd107, name=setexgamer, group=null}
+[19Aug2025 18:49:39.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Iaqocraft to setexgamer]
+[19Aug2025 18:49:43.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[19Aug2025 18:49:44.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 timed out
+[19Aug2025 18:49:44.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player setexgamer
+[19Aug2025 18:49:44.476] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to setexgamer
+[19Aug2025 18:49:44.476] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with setexgamer
+[19Aug2025 18:49:44.476] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with setexgamer
+[19Aug2025 18:49:44.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to setexgamer
+[19Aug2025 18:49:44.477] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5513d577-e3bb-3e49-8f50-eb82f73fd107 to disconnected: {disabled=false, disconnected=true, uuid=5513d577-e3bb-3e49-8f50-eb82f73fd107, name=setexgamer, group=null}
+[19Aug2025 18:49:44.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[19Aug2025 18:49:45.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[19Aug2025 18:49:45.559] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of setexgamer to connected: {disabled=false, disconnected=false, uuid=5513d577-e3bb-3e49-8f50-eb82f73fd107, name=setexgamer, group=null}
+[19Aug2025 18:49:45.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
+[19Aug2025 18:49:45.637] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of setexgamer: {disabled=false, disconnected=false, uuid=5513d577-e3bb-3e49-8f50-eb82f73fd107, name=setexgamer, group=null}
+[19Aug2025 18:51:46.233] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 18:51:46.242] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 18:51:54.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by setexgamer
+[19Aug2025 18:52:28.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[19Aug2025 18:53:19.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [This is the Greatest High!]
+[19Aug2025 18:53:51.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 18:54:03.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Crazy Diamond from setexgamer]
+[19Aug2025 18:54:05.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 18:54:24.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was burnt to a crisp whilst fighting Foxhound
+[19Aug2025 18:54:26.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 10 experience points to setexgamer]
+[19Aug2025 18:54:59.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 10 experience levels to setexgamer]
