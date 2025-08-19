@@ -2861,6 +2861,12 @@
     },
     "done": true
   },
+  "jojo:jojo/pillarman_kill_hamon": {
+    "criteria": {
+      "hamon_killed": "2025-08-19 03:19:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
