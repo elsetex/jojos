@@ -5531,6 +5531,12 @@
     },
     "done": true
   },
+  "jojo:jojo/stand_kill_stand": {
+    "criteria": {
+      "stand_user_killed": "2025-08-19 19:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -10287,6 +10293,7 @@
       "minecraft:savanna_plateau": "2025-08-19 01:01:17 +0000",
       "minecraft:beach": "2025-08-19 01:13:15 +0000",
       "minecraft:river": "2025-08-19 01:06:49 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-19 19:10:04 +0000",
       "minecraft:wooded_mountains": "2025-08-19 02:03:56 +0000",
       "minecraft:wooded_hills": "2025-08-19 02:00:05 +0000",
       "minecraft:savanna": "2025-08-19 01:06:44 +0000",
@@ -10815,6 +10822,7 @@
       "porkchop": "2025-08-19 01:24:57 +0000",
       "mutton": "2025-08-19 01:31:25 +0000",
       "bread": "2025-08-19 01:38:08 +0000",
+      "golden_apple": "2025-08-19 19:03:10 +0000",
       "rotten_flesh": "2025-08-19 01:10:13 +0000"
     },
     "done": false
