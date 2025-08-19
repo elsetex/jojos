@@ -929,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-19 04:14:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -2969,6 +2975,12 @@
     },
     "done": true
   },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-08-19 04:13:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_cobblestone_wall_from_weathered_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -3697,7 +3709,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-19 04:14:23 +0000",
       "minecraft:skeleton": "2025-08-19 02:36:12 +0000",
+      "minecraft:vindicator": "2025-08-19 04:18:35 +0000",
       "minecraft:zombie": "2025-08-19 02:41:53 +0000"
     },
     "done": false
@@ -3777,6 +3791,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-19 04:19:25 +0000"
     },
     "done": true
   },
@@ -4659,6 +4679,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-19 04:19:46 +0000"
     },
     "done": true
   },

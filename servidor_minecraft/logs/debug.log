@@ -20173,3 +20173,40 @@ java.lang.NullPointerException: null
 [19Aug2025 04:11:16.482] [Worker-Main-161/DEBUG] [betterdungeons/]: Small Dungeon at -447 24 -921
 [19Aug2025 04:11:24.266] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -473 13 -1225
 [19Aug2025 04:11:24.271] [Worker-Main-155/DEBUG] [betterdungeons/]: Small Dungeon at -473 20 -785
+[19Aug2025 04:11:45.201] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -593 10 -1385
+[19Aug2025 04:11:49.176] [Worker-Main-161/DEBUG] [betterdungeons/]: Small Dungeon at -611 17 -959
+[19Aug2025 04:11:51.536] [Worker-Main-155/DEBUG] [betterdungeons/]: Zombie Dungeon at -529 49 -1449
+[19Aug2025 04:11:51.714] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -473 38 -1433
+[19Aug2025 04:12:00.731] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -617 27 -803
+[19Aug2025 04:12:05.179] [Worker-Main-161/DEBUG] [betterdungeons/]: Small Dungeon at -641 18 -1081
+[19Aug2025 04:12:05.189] [Worker-Main-161/DEBUG] [betterdungeons/]: Small Dungeon at -641 37 -1247
+[19Aug2025 04:12:10.980] [Worker-Main-161/DEBUG] [betterdungeons/]: Spider Dungeon at -679 42 -1299
+[19Aug2025 04:12:13.330] [Worker-Main-6/DEBUG] [betterdungeons/]: Skeleton Dungeon at -681 24 -1335
+[19Aug2025 04:13:17.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Cover Me In Emeralds]
+[19Aug2025 04:14:31.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Not Today, Thank You]
+[19Aug2025 04:14:32.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Voluntary Exile]
+[19Aug2025 04:15:16.918] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 04:15:16.925] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 04:17:44.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 04:17:45.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 04:17:52.451] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/82952, l='ServerLevel[world]', x=202.30, y=66.56, z=-682.60] died, message: 'Nitwit was slain by Vindicator'
+[19Aug2025 04:17:54.448] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/82951, l='ServerLevel[world]', x=203.65, y=66.00, z=-681.30] died, message: 'Farmer was slain by Vindicator'
+[19Aug2025 04:17:56.449] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/82777, l='ServerLevel[world]', x=203.13, y=66.00, z=-681.30] died, message: 'Villager was slain by Vindicator'
+[19Aug2025 04:17:59.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 04:18:00.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 04:18:01.198] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/82776, l='ServerLevel[world]', x=192.13, y=65.94, z=-678.36] died, message: 'Farmer was slain by Vindicator'
+[19Aug2025 04:18:02.498] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/82780, l='ServerLevel[world]', x=193.27, y=66.00, z=-679.70] died, message: 'Farmer was slain by Vindicator'
+[19Aug2025 04:18:42.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Possessed by an Evil Spirit]
+[19Aug2025 04:18:49.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [It's Finally Shown Itself!]
+[19Aug2025 04:19:25.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Voluntary Exile]
+[19Aug2025 04:19:46.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has completed the challenge [Hero of the Village]
+[19Aug2025 04:19:51.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 04:19:57.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 04:20:16.390] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 04:20:16.398] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 04:20:24.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [The Arrow is Drawn to Capable]
+[19Aug2025 04:20:37.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has reached the goal [Postmortal]
+[19Aug2025 04:20:37.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Possessed by an Evil Spirit]
+[19Aug2025 04:20:37.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Show Me Your Stand Ability!]
+[19Aug2025 04:20:48.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [My Resolve Shall Clear the Path!]
+[19Aug2025 04:20:51.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [It's Finally Shown Itself!]

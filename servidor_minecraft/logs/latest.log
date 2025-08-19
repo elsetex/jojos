@@ -5650,3 +5650,27 @@ java.lang.NullPointerException: null
 [19Aug2025 04:01:22.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
 [19Aug2025 04:01:39.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Nay_over]
 [19Aug2025 04:02:47.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Dragonslayer]
+[19Aug2025 04:13:17.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Cover Me In Emeralds]
+[19Aug2025 04:14:31.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Not Today, Thank You]
+[19Aug2025 04:14:32.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Voluntary Exile]
+[19Aug2025 04:17:44.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 04:17:45.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 04:17:52.451] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/82952, l='ServerLevel[world]', x=202.30, y=66.56, z=-682.60] died, message: 'Nitwit was slain by Vindicator'
+[19Aug2025 04:17:54.448] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/82951, l='ServerLevel[world]', x=203.65, y=66.00, z=-681.30] died, message: 'Farmer was slain by Vindicator'
+[19Aug2025 04:17:56.449] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/82777, l='ServerLevel[world]', x=203.13, y=66.00, z=-681.30] died, message: 'Villager was slain by Vindicator'
+[19Aug2025 04:17:59.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 04:18:00.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 04:18:01.198] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/82776, l='ServerLevel[world]', x=192.13, y=65.94, z=-678.36] died, message: 'Farmer was slain by Vindicator'
+[19Aug2025 04:18:02.498] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/82780, l='ServerLevel[world]', x=193.27, y=66.00, z=-679.70] died, message: 'Farmer was slain by Vindicator'
+[19Aug2025 04:18:42.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Possessed by an Evil Spirit]
+[19Aug2025 04:18:49.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [It's Finally Shown Itself!]
+[19Aug2025 04:19:25.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Voluntary Exile]
+[19Aug2025 04:19:46.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has completed the challenge [Hero of the Village]
+[19Aug2025 04:19:51.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 04:19:57.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 04:20:24.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [The Arrow is Drawn to Capable]
+[19Aug2025 04:20:37.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has reached the goal [Postmortal]
+[19Aug2025 04:20:37.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Possessed by an Evil Spirit]
+[19Aug2025 04:20:37.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Show Me Your Stand Ability!]
+[19Aug2025 04:20:48.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [My Resolve Shall Clear the Path!]
+[19Aug2025 04:20:51.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [It's Finally Shown Itself!]
