@@ -5191,3 +5191,59 @@ java.lang.NullPointerException: null
 [19Aug2025 01:48:15.715] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-33, y=65, z=22} BlockPos{x=-33, y=63, z=22}
 [19Aug2025 01:48:19.970] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-33, y=64, z=-9} BlockPos{x=-33, y=62, z=-8}
 [19Aug2025 01:48:20.458] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-33, y=64, z=-11} BlockPos{x=-33, y=62, z=-11}
+[19Aug2025 01:49:51.403] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@388ab082
+[19Aug2025 01:49:51.407] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:60964] logged in with entity id 13014 at (-201.5, 69.0, 147.5)
+[19Aug2025 01:49:51.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
+[19Aug2025 01:49:51.464] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
+[19Aug2025 01:49:52.350] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
+[19Aug2025 01:49:52.351] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
+[19Aug2025 01:49:52.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Ice and Fire]
+[19Aug2025 01:50:00.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
+[19Aug2025 01:50:01.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
+[19Aug2025 01:50:01.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
+[19Aug2025 01:50:37.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Isn't It Iron Pick]
+[19Aug2025 01:50:47.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Breath Causes Ripples in Your Body...]
+[19Aug2025 01:50:47.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave Hamon to Nay_over]
+[19Aug2025 01:50:58.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set breathing level of 20.0 on Nay_over]
+[19Aug2025 01:51:07.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Hamon control level of 10.0 on Nay_over]
+[19Aug2025 01:51:14.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Hamon strength level of 10.0 on Nay_over]
+[19Aug2025 01:51:24.113] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=26} BlockPos{x=31, y=70, z=25}
+[19Aug2025 01:51:42.456] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=44, y=71, z=51} BlockPos{x=42, y=71, z=46}
+[19Aug2025 01:51:42.504] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=44, y=71, z=51} BlockPos{x=42, y=71, z=46}
+[19Aug2025 01:51:42.604] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=44, y=71, z=51} BlockPos{x=42, y=71, z=46}
+[19Aug2025 01:51:42.617] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=44, y=71, z=51} BlockPos{x=42, y=71, z=46}
+[19Aug2025 01:52:01.667] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=28, y=72, z=63} BlockPos{x=30, y=71, z=61}
+[19Aug2025 01:52:01.707] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=28, y=72, z=63} BlockPos{x=30, y=71, z=61}
+[19Aug2025 01:52:01.761] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=28, y=72, z=63} BlockPos{x=30, y=71, z=61}
+[19Aug2025 01:52:26.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Suit Up]
+[19Aug2025 01:52:50.008] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=60, y=65, z=20} BlockPos{x=60, y=65, z=22}
+[19Aug2025 01:53:03.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [All Along The Watchtower]
+[19Aug2025 01:54:13.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 24 experience levels to setexgamer]
+[19Aug2025 01:54:22.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set 24 experience levels on setexgamer]
+[19Aug2025 01:55:47.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Time to roll the balls]
+[19Aug2025 01:55:57.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Amateur Archaeologist]
+[19Aug2025 01:56:17.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Acquire Hardware]
+[19Aug2025 01:56:17.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Time to roll the balls]
+[19Aug2025 01:56:22.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Amateur Archaeologist]
+[19Aug2025 01:56:28.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [The Beginning of An Adventure]
+[19Aug2025 01:56:28.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Fortune Seeker]
+[19Aug2025 01:58:12.771] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=115, y=21, z=-714} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 01:58:12.772] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=115, y=21, z=-714}
+[19Aug2025 01:58:12.772] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=116, y=26, z=-720} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 01:58:12.772] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=116, y=26, z=-720}
+[19Aug2025 01:58:12.772] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=105, y=21, z=-707} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 01:58:12.772] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=105, y=21, z=-707}
+[19Aug2025 01:58:12.773] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=111, y=21, z=-711} but found not block entity block Block{minecraft:coal_ore} at location
+[19Aug2025 01:58:12.773] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:coal_ore} but failed at location BlockPos{x=111, y=21, z=-711}
+[19Aug2025 01:58:12.773] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=99, y=21, z=-705} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 01:58:12.773] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=99, y=21, z=-705}
+[19Aug2025 01:58:12.773] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=97, y=21, z=-705} but found not block entity block Block{minecraft:dirt} at location
+[19Aug2025 01:58:12.773] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=97, y=21, z=-705}
+[19Aug2025 01:58:12.774] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=95, y=21, z=-707} but found not block entity block Block{minecraft:dirt} at location
+[19Aug2025 01:58:12.774] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=95, y=21, z=-707}
+[19Aug2025 01:58:25.371] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=104, y=28, z=-726} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 01:58:25.371] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=104, y=28, z=-726}
+[19Aug2025 01:58:25.371] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=102, y=21, z=-721} but found not block entity block Block{minecraft:water}[level=0] at location
+[19Aug2025 01:58:25.371] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=102, y=21, z=-721}
+[19Aug2025 01:58:43.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was doomed to fall by Hippogryph
+[19Aug2025 01:58:51.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Iaqocraft to setexgamer]

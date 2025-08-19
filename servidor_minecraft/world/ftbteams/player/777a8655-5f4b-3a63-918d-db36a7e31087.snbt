@@ -1,0 +1,20 @@
+{
+	id: "777a8655-5f4b-3a63-918d-db36a7e31087"
+	type: "player"
+	player_name: "Nay_over"
+	ranks: {
+		777a8655-5f4b-3a63-918d-db36a7e31087: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Nay_over"
+		"ftbteams:color": "#FF9259"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
