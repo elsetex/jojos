@@ -3393,6 +3393,12 @@
     },
     "done": true
   },
+  "jojo:jojo/time_stop_9": {
+    "criteria": {
+      "time_stop_effect": "2025-08-19 20:03:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"

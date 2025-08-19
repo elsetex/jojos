@@ -607,3 +607,13 @@ java.lang.NullPointerException: null
 [19Aug2025 19:15:31.185] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
 [19Aug2025 19:15:31.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
 [19Aug2025 19:15:31.190] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[19Aug2025 20:03:46.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [This is the Greatest High!]
+[19Aug2025 20:03:51.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by The World
+[19Aug2025 20:03:58.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Iaqocraft to setexgamer]
+[19Aug2025 20:04:02.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[19Aug2025 20:04:11.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Magician's Red from Iaqocraft]
+[19Aug2025 20:04:22.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 30 experience levels to Iaqocraft]
+[19Aug2025 20:05:08.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 20:05:35.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 20:05:40.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Stand data from Iaqocraft]
+[19Aug2025 20:05:59.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has reached the goal [Postmortal]
