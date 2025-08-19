@@ -1,0 +1,20 @@
+{
+	id: "065037b0-ed5d-3132-be60-4d8fe8b3f69d"
+	type: "player"
+	player_name: "gerR3219"
+	ranks: {
+		065037b0-ed5d-3132-be60-4d8fe8b3f69d: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "gerR3219"
+		"ftbteams:color": "#59F6FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

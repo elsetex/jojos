@@ -5387,3 +5387,34 @@ java.lang.NullPointerException: null
 [19Aug2025 02:18:38.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
 [19Aug2025 02:19:03.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
 [19Aug2025 02:19:06.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 02:20:53.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Stone Age]
+[19Aug2025 02:22:26.181] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
+[19Aug2025 02:22:26.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
+[19Aug2025 02:22:26.182] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
+[19Aug2025 02:22:26.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Getting an Upgrade]
+[19Aug2025 02:25:53.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [All Along The Watchtower]
+[19Aug2025 02:27:05.484] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
+[19Aug2025 02:27:05.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[19Aug2025 02:27:05.485] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[19Aug2025 02:27:42.390] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49e2588c
+[19Aug2025 02:27:42.427] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:63562] logged in with entity id 38844 at (719.3000000119209, 76.0, -231.30000001192093)
+[19Aug2025 02:27:42.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
+[19Aug2025 02:27:42.493] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
+[19Aug2025 02:27:42.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
+[19Aug2025 02:27:42.822] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
+[19Aug2025 02:27:51.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
+[19Aug2025 02:27:52.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
+[19Aug2025 02:27:52.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
+[19Aug2025 02:28:20.689] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6cec2a91
+[19Aug2025 02:28:20.724] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:52128] logged in with entity id 38996 at (29.043324502933274, 71.0, 26.803034428136016)
+[19Aug2025 02:28:20.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
+[19Aug2025 02:28:20.745] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[19Aug2025 02:28:21.187] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[19Aug2025 02:28:21.187] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[19Aug2025 02:28:24.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[19Aug2025 02:28:25.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[19Aug2025 02:28:25.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
+[19Aug2025 02:28:56.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Suit Up]
+[19Aug2025 02:29:04.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Acquire Hardware]
+[19Aug2025 02:29:28.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 02:29:28.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has dissipated under ultraviolet rays
