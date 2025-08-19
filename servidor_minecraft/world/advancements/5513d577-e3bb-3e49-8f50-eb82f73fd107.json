@@ -2117,6 +2117,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-08-19 01:39:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -2216,6 +2222,12 @@
   "farmersdelight:recipes/farmersdelight/jungle_pantry": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/root": {
+    "criteria": {
+      "stand_afk": "2025-08-19 01:37:42 +0000"
     },
     "done": true
   },
@@ -2786,6 +2798,12 @@
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-19 01:39:24 +0000"
     },
     "done": true
   },
@@ -3685,8 +3703,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-19 01:34:59 +0000",
       "minecraft:skeleton": "2025-08-19 01:22:27 +0000",
       "minecraft:spider": "2025-08-19 01:15:26 +0000",
+      "minecraft:witch": "2025-08-19 01:43:29 +0000",
       "minecraft:cave_spider": "2025-08-19 01:16:53 +0000",
       "minecraft:zombie": "2025-08-19 01:10:52 +0000"
     },
@@ -5657,6 +5677,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/white_clear_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-19 01:39:24 +0000"
     },
     "done": true
   },
@@ -10748,6 +10774,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-08-19 01:36:00 +0000",
       "mutton": "2025-08-19 01:04:02 +0000",
       "bread": "2025-08-19 01:10:17 +0000",
       "rotten_flesh": "2025-08-19 01:11:13 +0000"
@@ -10901,6 +10928,12 @@
   "create:recipes/create.palettes/overgrown_granite_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-08-19 01:35:46 +0000"
     },
     "done": true
   },

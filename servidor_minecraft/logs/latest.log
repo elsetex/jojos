@@ -5177,3 +5177,17 @@ java.lang.NullPointerException: null
 [19Aug2025 01:35:46.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [All Along The Watchtower]
 [19Aug2025 01:36:06.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [All Along The Watchtower]
 [19Aug2025 01:37:42.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [JoJo]
+[19Aug2025 01:39:24.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Ol' Betsy]
+[19Aug2025 01:39:24.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Take Aim]
+[19Aug2025 01:39:24.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Who's the Pillager Now?]
+[19Aug2025 01:39:34.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was killed by Witch using magic
+[19Aug2025 01:40:25.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 01:40:31.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was doomed to fall by Pillager
+[19Aug2025 01:41:14.619] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! -8.289523345630638,0.0,-6.565455627254952
+[19Aug2025 01:41:18.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[19Aug2025 01:45:29.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Diamonds!]
+[19Aug2025 01:47:50.411] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/12755, l='ServerLevel[world]', x=82.91, y=66.00, z=-61.09]
+[19Aug2025 01:48:13.108] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-33, y=65, z=38} BlockPos{x=-34, y=63, z=38}
+[19Aug2025 01:48:15.715] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-33, y=65, z=22} BlockPos{x=-33, y=63, z=22}
+[19Aug2025 01:48:19.970] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-33, y=64, z=-9} BlockPos{x=-33, y=62, z=-8}
+[19Aug2025 01:48:20.458] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-33, y=64, z=-11} BlockPos{x=-33, y=62, z=-11}
