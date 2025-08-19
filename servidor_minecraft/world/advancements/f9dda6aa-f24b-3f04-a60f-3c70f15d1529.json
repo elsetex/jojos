@@ -6713,6 +6713,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-19 20:16:31 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/manyullyn": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
