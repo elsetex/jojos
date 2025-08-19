@@ -1333,7 +1333,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-08-19 03:34:55 +0000"
+      "minecraft:nether_wastes": "2025-08-19 03:34:55 +0000",
+      "minecraft:warped_forest": "2025-08-19 23:13:08 +0000"
     },
     "done": false
   },
@@ -2804,6 +2805,12 @@
   "create:recipes/create.palettes/paved_granite_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-19 23:11:36 +0000"
     },
     "done": true
   },

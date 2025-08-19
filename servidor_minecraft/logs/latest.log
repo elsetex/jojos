@@ -410,3 +410,8 @@ java.lang.NullPointerException: null
 [19Aug2025 23:13:41.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft burned to death
 [19Aug2025 23:14:14.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
 [19Aug2025 23:15:00.513] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[19Aug2025 23:17:50.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to -1247.5, 82.0, 1872.5]
+[19Aug2025 23:18:26.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 23:18:31.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 23:25:11.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was killed by Ignis using magic
+[19Aug2025 23:25:36.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
