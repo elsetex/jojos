@@ -8467,6 +8467,12 @@
     },
     "done": true
   },
+  "jojo:jojo/pillarman_evolve": {
+    "criteria": {
+      "pillarman_evolve": "2025-08-19 03:27:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
