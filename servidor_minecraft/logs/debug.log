@@ -8896,3 +8896,28 @@ java.lang.NullPointerException: null
 [19Aug2025 23:34:10.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Spooky Scary Skeletons]
 [19Aug2025 23:35:19.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
 [19Aug2025 23:35:52.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 23:35:57.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 23:36:09.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 23:36:17.236] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 23:36:17.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 23:41:17.332] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 23:41:17.343] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 23:46:17.311] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 23:46:17.322] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 23:46:31.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 23:46:35.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 23:47:51.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Zombie
+[19Aug2025 23:48:28.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[19Aug2025 23:51:17.118] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 23:51:17.129] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 23:51:46.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 23:51:50.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 23:51:51.910] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[19Aug2025 23:52:24.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 23:52:29.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 23:52:42.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 23:52:49.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 23:52:52.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 23:53:03.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 23:56:17.160] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 23:56:17.169] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

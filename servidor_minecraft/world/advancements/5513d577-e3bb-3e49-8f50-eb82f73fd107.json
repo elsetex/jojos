@@ -3841,12 +3841,14 @@
       "minecraft:hoglin": "2025-08-19 03:58:15 +0000",
       "minecraft:magma_cube": "2025-08-19 03:36:17 +0000",
       "minecraft:spider": "2025-08-19 01:15:26 +0000",
+      "minecraft:piglin_brute": "2025-08-19 23:46:54 +0000",
       "minecraft:creeper": "2025-08-19 01:56:44 +0000",
       "minecraft:zombified_piglin": "2025-08-19 04:46:55 +0000",
       "minecraft:witch": "2025-08-19 01:43:29 +0000",
       "minecraft:wither_skeleton": "2025-08-19 03:35:09 +0000",
       "minecraft:husk": "2025-08-19 01:56:39 +0000",
       "minecraft:cave_spider": "2025-08-19 01:16:53 +0000",
+      "minecraft:piglin": "2025-08-19 23:46:48 +0000",
       "minecraft:enderman": "2025-08-19 03:02:22 +0000",
       "minecraft:zombie": "2025-08-19 01:10:52 +0000"
     },
@@ -4305,6 +4307,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/in_nether": {
+    "criteria": {
+      "end_crystal_fragment": "2025-08-19 23:46:42 +0000"
     },
     "done": true
   },
@@ -7044,6 +7052,12 @@
     },
     "done": true
   },
+  "relics:obtain/ghost_skin_talisman": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 23:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -8547,6 +8561,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/end_crystal_fragment": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-19 23:46:42 +0000"
     },
     "done": true
   },
