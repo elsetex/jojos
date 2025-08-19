@@ -977,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-19 18:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -10999,6 +11005,12 @@
   "create:recipes/create.palettes/paved_diorite_stairs_from_paved_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "sapphire": "2025-08-19 18:04:34 +0000"
     },
     "done": true
   },
