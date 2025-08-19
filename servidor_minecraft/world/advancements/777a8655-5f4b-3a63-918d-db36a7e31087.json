@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "relics:obtain/spatial_sign": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 03:04:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -1193,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:58:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dolomite_bricks_wall_from_fancy_dolomite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -1400,6 +1412,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:58:48 +0000"
     },
     "done": true
   },
@@ -1868,6 +1886,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-19 02:58:48 +0000"
     },
     "done": true
   },
@@ -3503,6 +3527,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-19 03:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -3658,6 +3688,13 @@
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-19 02:36:12 +0000",
+      "minecraft:zombie": "2025-08-19 02:41:53 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/world/common/slime/ender/slimeblock": {
     "criteria": {
@@ -7283,6 +7320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:58:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/schematicannon": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -10163,6 +10206,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-19 02:36:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -11064,6 +11113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:58:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_pulse_repeater": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -11439,6 +11494,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_tiled_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:58:48 +0000"
     },
     "done": true
   },

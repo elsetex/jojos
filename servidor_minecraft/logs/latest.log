@@ -5492,3 +5492,104 @@ java.lang.NullPointerException: null
 [19Aug2025 02:39:01.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ahora controlas las habilidades de la j
 [19Aug2025 02:39:10.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> con v y con z creo
 [19Aug2025 02:39:15.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> yo lo tengo cambiado
+[19Aug2025 02:39:55.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Aug2025 02:39:58.907] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 4.818129804126784,1.0784998498197353,-9.32802761342009
+[19Aug2025 02:40:15.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4900ms or 98 ticks behind
+[19Aug2025 02:40:40.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Aug2025 02:40:48.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Best Friends Forever]
+[19Aug2025 02:41:03.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Aug2025 02:42:01.955] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! 7.891804373293667,6.0166045439080165,-2.979211791772741
+[19Aug2025 02:42:01.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[19Aug2025 02:42:26.861] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Aug2025 02:42:26.861] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Aug2025 02:43:09.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[19Aug2025 02:43:12.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [A Nice-y Look]
+[19Aug2025 02:43:12.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [The Beginning of An Adventure]
+[19Aug2025 02:43:31.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19Aug2025 02:43:39.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> un dragon etpa 4 o 5 no se
+[19Aug2025 02:43:41.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> casi me meo
+[19Aug2025 02:43:48.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 timed out
+[19Aug2025 02:43:48.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player setexgamer
+[19Aug2025 02:43:48.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to setexgamer
+[19Aug2025 02:43:57.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> yo rompiendo los hielos pensando que habia algo
+[19Aug2025 02:44:06.472] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer lost connection: Timed out
+[19Aug2025 02:44:06.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer left the game
+[19Aug2025 02:44:06.473] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client setexgamer
+[19Aug2025 02:44:07.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> me cage
+[19Aug2025 02:44:09.191] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
+[19Aug2025 02:44:09.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[19Aug2025 02:44:09.192] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[19Aug2025 02:49:32.644] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/24339, l='ServerLevel[world]', x=622.89, y=75.00, z=-397.83] died, message: 'Farmer was slain by Fire Dragon'
+[19Aug2025 02:49:52.892] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/24298, l='ServerLevel[world]', x=619.50, y=73.00, z=-335.17] died, message: 'Farmer was slain by Fire Dragon'
+[19Aug2025 02:50:02.642] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/24297, l='ServerLevel[world]', x=621.32, y=72.00, z=-337.55] died, message: 'Farmer was turned into KFC by Fire Dragon'
+[19Aug2025 02:54:13.817] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@31c10c13
+[19Aug2025 02:54:13.852] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: setexgamer[/172.30.85.245:50868] logged in with entity id 52896 at (-30.199939734012734, 68.0, -3372.852451093162)
+[19Aug2025 02:54:13.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer joined the game
+[19Aug2025 02:54:13.898] [Server thread/INFO] [Waila/]: Syncing config to setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[19Aug2025 02:54:18.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has dissipated under ultraviolet rays
+[19Aug2025 02:54:18.823] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of setexgamer (18)
+[19Aug2025 02:54:18.823] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to setexgamer
+[19Aug2025 02:54:36.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[19Aug2025 02:54:37.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[19Aug2025 02:54:37.405] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
+[19Aug2025 02:55:23.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 02:56:01.314] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[19Aug2025 02:56:01.413] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[19Aug2025 02:56:01.413] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[19Aug2025 02:56:01.413] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[19Aug2025 02:56:01.413] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[19Aug2025 02:56:01.422] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[19Aug2025 02:56:01.422] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[19Aug2025 02:56:01.434] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[19Aug2025 02:56:01.434] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[19Aug2025 02:56:26.482] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-422, y=59, z=-3734} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 02:56:26.482] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-422, y=59, z=-3734}
+[19Aug2025 02:56:45.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 02:56:49.156] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/24266, l='ServerLevel[world]', x=618.80, y=69.76, z=-385.80] died, message: 'Villager was slain by Fire Dragon'
+[19Aug2025 02:56:53.496] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/24340, l='ServerLevel[world]', x=619.69, y=67.00, z=-391.47] died, message: 'Farmer was turned into KFC by Fire Dragon'
+[19Aug2025 02:57:08.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
+[19Aug2025 02:58:45.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Welcome To The Jungle]
+[19Aug2025 02:58:45.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Who respects the bees...]
+[19Aug2025 02:58:48.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Stone Age]
+[19Aug2025 02:59:20.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Santa's bag]
+[19Aug2025 02:59:34.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 02:59:49.344] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Aug2025 02:59:49.346] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Aug2025 02:59:49.464] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Aug2025 02:59:49.466] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Aug2025 02:59:55.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to -6639.5, 100.42650686836276, -10063.5]
+[19Aug2025 02:59:57.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[19Aug2025 02:59:57.497] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved too quickly! -4.13900647329956,7.687507709194946,5.840736749196367
+[19Aug2025 03:00:03.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 03:00:25.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [What is This Man in the Pillar?!]
+[19Aug2025 03:00:28.623] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6475, y=57, z=-9937} but found not block entity block Block{minecraft:dirt} at location
+[19Aug2025 03:00:28.623] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-6475, y=57, z=-9937}
+[19Aug2025 03:00:28.623] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6475, y=59, z=-9938} but found not block entity block Block{minecraft:dirt} at location
+[19Aug2025 03:00:28.623] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-6475, y=59, z=-9938}
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6477, y=61, z=-9928} but found not block entity block Block{minecraft:dirt} at location
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-6477, y=61, z=-9928}
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6477, y=56, z=-9935} but found not block entity block Block{minecraft:dirt} at location
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-6477, y=56, z=-9935}
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6479, y=63, z=-9930} but found not block entity block Block{minecraft:dirt} at location
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-6479, y=63, z=-9930}
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6476, y=56, z=-9929} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6476, y=56, z=-9929}
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6478, y=57, z=-9929} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6478, y=57, z=-9929}
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6471, y=58, z=-9934} but found not block entity block Block{minecraft:dirt} at location
+[19Aug2025 03:00:28.831] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-6471, y=58, z=-9934}
+[19Aug2025 03:00:34.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Sweet Dreams]
+[19Aug2025 03:00:43.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Sweet Dreams]
+[19Aug2025 03:01:03.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [What's the Purpose of This Mask?]
+[19Aug2025 03:02:03.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[19Aug2025 03:02:04.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Foreigner... I See Your Future...]
+[19Aug2025 03:03:22.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [/sethome]
+[19Aug2025 03:03:35.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus whilst fighting setexgamer
+[19Aug2025 03:03:43.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Iaqocraft to setexgamer]
+[19Aug2025 03:03:54.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[19Aug2025 03:04:10.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [/sethome]
+[19Aug2025 03:07:06.403] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=712, y=75, z=-223} BlockPos{x=713, y=73, z=-224}
+[19Aug2025 03:07:06.403] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=712, y=75, z=-223} BlockPos{x=713, y=73, z=-224}
+[19Aug2025 03:07:06.606] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=712, y=75, z=-223} BlockPos{x=713, y=73, z=-224}
+[19Aug2025 03:07:14.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [A Seedy Place]
+[19Aug2025 03:09:19.854] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=712, y=75, z=-229} BlockPos{x=712, y=73, z=-230}

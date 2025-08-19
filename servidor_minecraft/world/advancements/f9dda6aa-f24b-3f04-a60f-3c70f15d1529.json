@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 03:03:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/dough": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -512,6 +518,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/spatial_sign": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 03:03:22 +0000"
     },
     "done": true
   },
@@ -3527,6 +3539,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-19 03:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -5301,6 +5319,12 @@
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-08-19 03:07:14 +0000"
+    },
+    "done": false
   },
   "jojo:recipes/decoration/wooden_coffin_oak_red": {
     "criteria": {
@@ -10278,6 +10302,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-19 03:07:14 +0000"
     },
     "done": true
   },
