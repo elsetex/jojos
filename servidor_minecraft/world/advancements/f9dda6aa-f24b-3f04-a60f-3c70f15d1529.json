@@ -3161,6 +3161,12 @@
     },
     "done": true
   },
+  "jojo:jojo/get_stand": {
+    "criteria": {
+      "get_stand": "2025-08-19 18:35:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_compacting_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -4966,6 +4972,12 @@
     },
     "done": true
   },
+  "jojo:jojo/resolve": {
+    "criteria": {
+      "resolve_effect": "2025-08-19 18:37:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -5857,6 +5869,12 @@
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stone_mask": {
+    "criteria": {
+      "stone_mask": "2025-08-19 18:34:58 +0000"
     },
     "done": true
   },
@@ -11463,6 +11481,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/summon_stand": {
+    "criteria": {
+      "summon_stand": "2025-08-19 18:35:37 +0000"
     },
     "done": true
   },

@@ -5670,6 +5670,12 @@
     },
     "done": true
   },
+  "jojo:jojo/stand_kill_stand": {
+    "criteria": {
+      "stand_user_killed": "2025-08-19 18:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -10054,6 +10060,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/pillarman_kill_vampire": {
+    "criteria": {
+      "vampire_killed": "2025-08-19 18:40:56 +0000"
     },
     "done": true
   },

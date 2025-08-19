@@ -9241,3 +9241,94 @@ java.lang.NullPointerException: null
 [19Aug2025 18:35:28.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
 [19Aug2025 18:35:28.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
 [19Aug2025 18:35:29.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Possessed by an Evil Spirit]
+[19Aug2025 18:35:37.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [It's Finally Shown Itself!]
+[19Aug2025 18:36:20.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Possessed by an Evil Spirit]
+[19Aug2025 18:36:46.294] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 18:36:46.306] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 18:36:51.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [It's Finally Shown Itself!]
+[19Aug2025 18:37:37.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [My Resolve Shall Clear the Path!]
+[19Aug2025 18:39:54.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [My Resolve Shall Clear the Path!]
+[19Aug2025 18:40:56.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has reached the goal [You're Nothing but Food]
+[19Aug2025 18:40:56.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has reached the goal [My Stand Will Be the Judge!]
+[19Aug2025 18:40:56.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was slain by setexgamer
+[19Aug2025 18:41:10.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported gerR3219 to setexgamer]
+[19Aug2025 18:41:17.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
+[19Aug2025 18:41:46.235] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 18:41:46.252] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 18:42:02.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Now to Unleash My Stand's Power!]
+[19Aug2025 18:42:15.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has reached the goal [My Stand Will Be the Judge!]
+[19Aug2025 18:42:15.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has reached the goal [Your Hamon Training is USELESS!]
+[19Aug2025 18:42:15.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [This Trip Was Really Fun...]
+[19Aug2025 18:42:15.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Star Platinum
+[19Aug2025 18:42:26.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Iaqocraft to setexgamer]
+[19Aug2025 18:42:28.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[19Aug2025 18:43:21.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Now to Unleash My Stand's Power!]
+[19Aug2025 18:43:58.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set breathing level of 0.0 on Iaqocraft]
+[19Aug2025 18:44:04.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Hamon control level of 0.0 on Iaqocraft]
+[19Aug2025 18:44:11.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Hamon strength level of 0.0 on Iaqocraft]
+[19Aug2025 18:44:16.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Removed Hamon from Iaqocraft]
+[19Aug2025 18:44:22.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Diver Down from Iaqocraft]
+[19Aug2025 18:44:29.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was shot by Star Platinum
+[19Aug2025 18:44:35.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Iaqocraft to setexgamer]
+[19Aug2025 18:44:39.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Iaqocraft's game mode to Survival Mode]
+[19Aug2025 18:44:40.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was slain by setexgamer
+[19Aug2025 18:44:45.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported gerR3219 to setexgamer]
+[19Aug2025 18:44:48.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
+[19Aug2025 18:44:58.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus whilst fighting setexgamer
+[19Aug2025 18:44:58.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus whilst fighting setexgamer
+[19Aug2025 18:44:59.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus whilst fighting setexgamer
+[19Aug2025 18:44:59.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus whilst fighting setexgamer
+[19Aug2025 18:45:00.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:00.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:01.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:01.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:02.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:02.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:03.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:03.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:04.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:04.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:05.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:05.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:06.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:06.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:07.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:07.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:08.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:08.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:09.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:09.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:10.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:10.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:11.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:11.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:12.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:12.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:13.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:13.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:14.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:14.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:15.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:15.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:16.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:16.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [The Arrow is Drawn to Capable]
+[19Aug2025 18:45:16.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:17.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:17.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:18.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:18.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:19.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:19.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:20.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:20.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:21.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:21.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:22.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:22.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:23.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:23.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:24.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:24.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:25.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was exposed to a lethal virus
+[19Aug2025 18:45:45.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Power to Reign over the World!]
+[19Aug2025 18:46:05.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 was burnt to a crisp whilst fighting Magician's Red
