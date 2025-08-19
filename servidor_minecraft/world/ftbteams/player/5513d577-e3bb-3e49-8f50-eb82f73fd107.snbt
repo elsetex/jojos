@@ -8,7 +8,7 @@
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "setexgamer"
-		"ftbteams:color": "#FF5F59"
+		"ftbteams:color": "#FF595D"
 		"ftbchunks:block_edit_mode": "allies"
 		"ftbchunks:block_interact_mode": "allies"
 		"ftbteams:description": ""
