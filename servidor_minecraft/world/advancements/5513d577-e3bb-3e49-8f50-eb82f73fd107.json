@@ -3155,6 +3155,12 @@
     },
     "done": true
   },
+  "jojo:jojo/time_ability": {
+    "criteria": {
+      "tw_ts": "2025-08-18 23:59:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
