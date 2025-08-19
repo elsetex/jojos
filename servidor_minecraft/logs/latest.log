@@ -436,3 +436,73 @@ java.lang.NullPointerException: null
 [19Aug2025 00:30:47.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
 [19Aug2025 00:30:47.584] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5767, l='ServerLevel[world]', x=2434.82, y=68.56, z=-3423.96]
 [19Aug2025 00:31:00.741] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=2433, y=69, z=-3421} BlockPos{x=2432, y=68, z=-3422}
+[19Aug2025 00:31:43.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was shot by Crazy Diamond
+[19Aug2025 00:31:47.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[19Aug2025 00:32:24.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Foreigner... I See Your Future...]
+[19Aug2025 00:32:29.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Breath Causes Ripples in Your Body...]
+[19Aug2025 00:32:37.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by The World
+[19Aug2025 00:32:41.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:33:35.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by The World
+[19Aug2025 00:33:41.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:34:06.090] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a6e4921
+[19Aug2025 00:34:06.096] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:56826] logged in with entity id 8283 at (196.5, 75.0, -159.5)
+[19Aug2025 00:34:06.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
+[19Aug2025 00:34:06.171] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
+[19Aug2025 00:34:07.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Ice and Fire]
+[19Aug2025 00:34:08.001] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
+[19Aug2025 00:34:08.002] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
+[19Aug2025 00:34:17.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Made Nay_over a server operator]
+[19Aug2025 00:34:20.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
+[19Aug2025 00:34:21.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
+[19Aug2025 00:34:21.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
+[19Aug2025 00:34:32.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nay_over: Set own game mode to Creative Mode]
+[19Aug2025 00:34:41.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Nay_over to setexgamer]
+[19Aug2025 00:34:47.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nay_over: Set own game mode to Survival Mode]
+[19Aug2025 00:35:18.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by The World
+[19Aug2025 00:35:23.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:35:30.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Possessed by an Evil Spirit]
+[19Aug2025 00:35:44.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [It's Finally Shown Itself!]
+[19Aug2025 00:35:59.487] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
+[19Aug2025 00:36:11.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was struck by lightning whilst fighting Whitesnake
+[19Aug2025 00:36:17.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:36:43.538] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[19Aug2025 00:36:53.338] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:36:59.382] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:37:00.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was slain by The World
+[19Aug2025 00:37:03.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported Nay_over to setexgamer]
+[19Aug2025 00:37:04.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by The World
+[19Aug2025 00:37:09.091] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:37:09.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:37:11.342] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: false
+[19Aug2025 00:37:32.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has reached the goal [My Stand Will Be the Judge!]
+[19Aug2025 00:37:32.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Wonder Of You
+[19Aug2025 00:37:32.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [My Resolve Shall Clear the Path!]
+[19Aug2025 00:37:35.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:37:43.187] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:37:45.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was blown up by entity.rotp_wou.car_projectile
+[19Aug2025 00:37:45.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was blown up by entity.rotp_wou.car_projectile
+[19Aug2025 00:37:49.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Nay_over]
+[19Aug2025 00:37:51.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:38:13.498] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
+[19Aug2025 00:39:00.135] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
+[19Aug2025 00:39:09.139] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[19Aug2025 00:39:22.333] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
+[19Aug2025 00:39:34.136] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:39:35.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was blown up by entity.rotp_wou.car_projectile
+[19Aug2025 00:39:35.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was blown up by entity.rotp_wou.car_projectile
+[19Aug2025 00:39:39.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Nay_over]
+[19Aug2025 00:39:40.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:39:57.737] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:40:01.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was struck by lightning
+[19Aug2025 00:40:19.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nay_over: Teleported Nay_over to setexgamer]
+[19Aug2025 00:40:26.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was struck by lightning whilst fighting Crazy Diamond
+[19Aug2025 00:40:32.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[19Aug2025 00:40:36.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by The World
+[19Aug2025 00:40:42.140] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:40:43.839] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: false
+[19Aug2025 00:40:47.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:40:55.235] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:41:01.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was blown up by entity.rotp_wou.car_projectile
+[19Aug2025 00:41:06.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Nay_over]
+[19Aug2025 00:41:10.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Foreigner... I See Your Future...]
+[19Aug2025 00:41:53.136] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true

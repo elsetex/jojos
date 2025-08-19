@@ -10,5 +10,11 @@
     "name": "Iaqocraft",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "777a8655-5f4b-3a63-918d-db36a7e31087",
+    "name": "Nay_over",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
