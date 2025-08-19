@@ -11702,6 +11702,12 @@
     },
     "done": true
   },
+  "jojo:jojo/hamon_temple": {
+    "criteria": {
+      "in_temple": "2025-08-19 18:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2025-08-19 02:17:52 +0000"

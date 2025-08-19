@@ -101,15 +101,15 @@
     },
     "done": true
   },
-  "relics:obtain/root": {
-    "criteria": {
-      "obtain_relic": "2025-08-19 03:03:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/appliances/dough": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 03:03:22 +0000"
     },
     "done": true
   },
@@ -2849,15 +2849,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2025-08-19 01:03:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-19 01:03:54 +0000"
     },
     "done": true
   },
@@ -3701,17 +3701,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-08-19 01:36:11 +0000",
-      "minecraft:skeleton": "2025-08-19 02:05:06 +0000",
-      "minecraft:spider": "2025-08-19 01:54:31 +0000",
-      "minecraft:creeper": "2025-08-19 01:31:53 +0000",
-      "minecraft:witch": "2025-08-19 02:24:43 +0000",
-      "minecraft:zombie": "2025-08-19 01:10:01 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -3723,6 +3712,17 @@
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-08-19 01:36:11 +0000",
+      "minecraft:skeleton": "2025-08-19 02:05:06 +0000",
+      "minecraft:spider": "2025-08-19 01:54:31 +0000",
+      "minecraft:creeper": "2025-08-19 01:31:53 +0000",
+      "minecraft:witch": "2025-08-19 02:24:43 +0000",
+      "minecraft:zombie": "2025-08-19 01:10:01 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/world/common/slime/ender/slimeblock": {
     "criteria": {
@@ -5032,15 +5032,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-08-19 01:10:13 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-19 01:10:13 +0000"
     },
     "done": true
   },
@@ -5392,15 +5392,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_wool": {
-    "criteria": {
-      "has_white_wool": "2025-08-19 01:03:54 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/lime_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-19 01:03:54 +0000"
     },
     "done": true
   },
@@ -7720,15 +7720,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-08-19 02:06:55 +0000"
-    },
-    "done": true
-  },
   "jojo:recipes/misc/gloves": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-08-19 02:06:55 +0000"
     },
     "done": true
   },
@@ -9058,15 +9058,15 @@
     },
     "done": true
   },
-  "jojo:jojo/get_hamon": {
-    "criteria": {
-      "get_hamon": "2025-08-19 01:02:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/get_hamon": {
+    "criteria": {
+      "get_hamon": "2025-08-19 01:02:04 +0000"
     },
     "done": true
   },
@@ -10210,15 +10210,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-08-19 01:10:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-08-19 01:10:01 +0000"
     },
     "done": true
   },
@@ -10785,6 +10785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2025-08-19 01:24:57 +0000",
@@ -10793,12 +10799,6 @@
       "rotten_flesh": "2025-08-19 01:10:13 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_the_recipe": "2025-08-19 01:00:53 +0000"
-    },
-    "done": true
   },
   "farmersrespite:recipes/farmersrespite/rose_hip_pie_from_slices": {
     "criteria": {
@@ -11646,18 +11646,6 @@
     },
     "done": true
   },
-  "jojo:jojo/hamon_temple": {
-    "criteria": {
-      "in_temple": "2025-08-19 02:12:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-08-19 01:07:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -11667,6 +11655,18 @@
   "create:recipes/create.palettes/fancy_granite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-19 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/hamon_temple": {
+    "criteria": {
+      "in_temple": "2025-08-19 02:12:37 +0000"
     },
     "done": true
   },
