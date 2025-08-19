@@ -1342,9 +1342,10 @@
       "minecraft:crimson_forest": "2025-08-19 03:44:08 +0000",
       "minecraft:nether_wastes": "2025-08-19 03:34:34 +0000",
       "minecraft:soul_sand_valley": "2025-08-19 03:36:56 +0000",
-      "minecraft:warped_forest": "2025-08-19 03:34:46 +0000"
+      "minecraft:warped_forest": "2025-08-19 03:34:46 +0000",
+      "minecraft:basalt_deltas": "2025-08-19 03:56:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
@@ -3782,6 +3783,7 @@
       "minecraft:blaze": "2025-08-19 03:37:09 +0000",
       "minecraft:skeleton": "2025-08-19 01:22:27 +0000",
       "minecraft:ghast": "2025-08-19 03:39:45 +0000",
+      "minecraft:hoglin": "2025-08-19 03:58:15 +0000",
       "minecraft:magma_cube": "2025-08-19 03:36:17 +0000",
       "minecraft:spider": "2025-08-19 01:15:26 +0000",
       "minecraft:creeper": "2025-08-19 01:56:44 +0000",
@@ -4778,6 +4780,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-19 03:55:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_wall_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -5489,6 +5497,12 @@
   "create:recipes/create.base/crafting/kinetics/brown_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/rage_glove": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 03:57:42 +0000"
     },
     "done": true
   },
@@ -6983,6 +6997,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-08-19 03:51:14 +0000"
     },
     "done": true
   },
@@ -8876,6 +8896,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-08-19 03:57:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -10487,6 +10513,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-19 03:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -10898,6 +10930,12 @@
   "create:recipes/create.palettes/paved_diorite_stairs_from_paved_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-08-19 03:54:53 +0000"
     },
     "done": true
   },
