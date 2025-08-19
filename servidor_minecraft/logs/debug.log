@@ -9412,3 +9412,8 @@ java.lang.NullPointerException: null
 [19Aug2025 19:21:48.866] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [19Aug2025 19:26:48.863] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Aug2025 19:26:48.871] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 19:31:48.842] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 19:31:48.850] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Aug2025 19:32:52.068] [Server thread/DEBUG] [net.lavabucket.hourglass.time.TimeService/hourglass]: Sleep cycle complete on dimension: minecraft:overworld.
+[19Aug2025 19:36:48.826] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Aug2025 19:36:48.835] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
