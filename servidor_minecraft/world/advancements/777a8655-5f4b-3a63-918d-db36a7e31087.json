@@ -1333,6 +1333,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-19 04:43:27 +0000",
       "minecraft:nether_wastes": "2025-08-19 04:39:56 +0000"
     },
     "done": false
@@ -3326,6 +3327,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-19 04:40:54 +0000"
     },
     "done": true
   },
@@ -11491,6 +11498,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-19 04:40:37 +0000"
     },
     "done": true
   },

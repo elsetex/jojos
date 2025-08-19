@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "jojo:jojo/pillarman_heat_mode": {
+    "criteria": {
+      "pillarman_heat_mode": "2025-08-19 04:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -338,6 +344,12 @@
   "farmersdelight:recipes/food/bread_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/pillarman_light_mode": {
+    "criteria": {
+      "pillarman_light_mode": "2025-08-19 04:47:29 +0000"
     },
     "done": true
   },
@@ -2469,6 +2481,12 @@
     },
     "done": true
   },
+  "jojo:jojo/pillarman_evolve_aja": {
+    "criteria": {
+      "pillarman_evolve_aja": "2025-08-19 04:47:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -3794,6 +3812,7 @@
       "minecraft:magma_cube": "2025-08-19 03:36:17 +0000",
       "minecraft:spider": "2025-08-19 01:15:26 +0000",
       "minecraft:creeper": "2025-08-19 01:56:44 +0000",
+      "minecraft:zombified_piglin": "2025-08-19 04:46:55 +0000",
       "minecraft:witch": "2025-08-19 01:43:29 +0000",
       "minecraft:wither_skeleton": "2025-08-19 03:35:09 +0000",
       "minecraft:husk": "2025-08-19 01:56:39 +0000",
@@ -7142,6 +7161,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/pillarman_wind_mode": {
+    "criteria": {
+      "pillarman_wind_mode": "2025-08-19 04:46:47 +0000"
     },
     "done": true
   },
