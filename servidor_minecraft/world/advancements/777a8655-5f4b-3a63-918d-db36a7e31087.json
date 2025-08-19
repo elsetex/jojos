@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 01:56:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/dough": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -134,6 +140,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-08-19 01:54:51 +0000"
     },
     "done": true
   },
@@ -2903,6 +2915,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-19 01:56:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -4943,6 +4961,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-19 01:55:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -5903,6 +5927,12 @@
     },
     "done": true
   },
+  "relics:obtain/scarab_talisman": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 01:56:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rice_panicle": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -6212,6 +6242,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-08-19 01:59:49 +0000"
     },
     "done": true
   },
@@ -8207,6 +8243,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-08-19 01:56:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/painting_from_canvas": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -8609,6 +8651,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-diamond": "2025-08-19 02:00:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -8738,6 +8786,12 @@
   "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_block": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "old_eye": "2025-08-19 01:56:28 +0000"
     },
     "done": true
   },
@@ -9022,6 +9076,12 @@
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-19 01:59:20 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/granite_cobblestone_slab_from_granite_cobblestone_stonecutting": {
     "criteria": {
@@ -9368,6 +9428,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_cod_slice_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-19 02:03:38 +0000"
     },
     "done": true
   },
@@ -9989,6 +10055,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-19 01:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -10118,9 +10190,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-08-19 01:51:19 +0000",
+      "minecraft:mountains": "2025-08-19 02:00:39 +0000",
+      "minecraft:desert_hills": "2025-08-19 01:57:57 +0000",
       "minecraft:desert": "2025-08-19 01:54:41 +0000",
       "minecraft:savanna_plateau": "2025-08-19 01:50:12 +0000",
+      "minecraft:beach": "2025-08-19 02:04:22 +0000",
       "minecraft:river": "2025-08-19 01:51:15 +0000",
+      "minecraft:swamp": "2025-08-19 02:02:17 +0000",
       "minecraft:plains": "2025-08-19 01:49:52 +0000"
     },
     "done": false
@@ -10629,6 +10705,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-08-19 01:55:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
@@ -11091,6 +11173,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-19 02:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:51 +0000"
@@ -11118,6 +11206,12 @@
   "jojo:recipes/misc/polaroid": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:49:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-19 01:59:20 +0000"
     },
     "done": true
   },

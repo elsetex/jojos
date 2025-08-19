@@ -1109,6 +1109,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-08-19 01:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -3557,6 +3563,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-19 02:01:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -3706,7 +3718,9 @@
       "minecraft:pillager": "2025-08-19 01:34:59 +0000",
       "minecraft:skeleton": "2025-08-19 01:22:27 +0000",
       "minecraft:spider": "2025-08-19 01:15:26 +0000",
+      "minecraft:creeper": "2025-08-19 01:56:44 +0000",
       "minecraft:witch": "2025-08-19 01:43:29 +0000",
+      "minecraft:husk": "2025-08-19 01:56:39 +0000",
       "minecraft:cave_spider": "2025-08-19 01:16:53 +0000",
       "minecraft:zombie": "2025-08-19 01:10:52 +0000"
     },
@@ -6001,6 +6015,12 @@
   "tconstruct:recipes/tconstruct/world/world/wood/skyroot/stripped_log_to_wood": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/scarab_talisman": {
+    "criteria": {
+      "obtain_relic": "2025-08-19 01:55:47 +0000"
     },
     "done": true
   },
@@ -10126,6 +10146,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-19 01:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -10261,9 +10287,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-08-19 01:31:51 +0000",
+      "minecraft:mountains": "2025-08-19 02:03:21 +0000",
+      "minecraft:desert_hills": "2025-08-19 01:57:39 +0000",
       "minecraft:desert": "2025-08-19 01:53:46 +0000",
       "minecraft:savanna_plateau": "2025-08-19 01:01:19 +0000",
       "minecraft:river": "2025-08-19 01:15:20 +0000",
+      "minecraft:wooded_mountains": "2025-08-19 02:03:38 +0000",
+      "minecraft:wooded_hills": "2025-08-19 01:59:25 +0000",
       "minecraft:savanna": "2025-08-19 01:08:16 +0000",
       "minecraft:plains": "2025-08-19 01:00:32 +0000"
     },
