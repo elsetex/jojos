@@ -506,3 +506,86 @@ java.lang.NullPointerException: null
 [19Aug2025 00:41:06.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Nay_over]
 [19Aug2025 00:41:10.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Foreigner... I See Your Future...]
 [19Aug2025 00:41:53.136] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:42:48.941] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
+[19Aug2025 00:42:55.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has completed the challenge [Cover Me in Debris]
+[19Aug2025 00:43:06.185] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[19Aug2025 00:43:15.683] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
+[19Aug2025 00:43:24.182] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:43:45.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by The World
+[19Aug2025 00:43:49.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was slain by The World
+[19Aug2025 00:43:50.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:43:57.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nay_over: Teleported setexgamer to Nay_over]
+[19Aug2025 00:44:05.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nay_over: Teleported Nay_over to Iaqocraft]
+[19Aug2025 00:44:21.294] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[19Aug2025 00:44:27.492] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: false
+[19Aug2025 00:44:31.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 00:44:33.015] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2375, y=24, z=-3754} but found not block entity block Block{minecraft:stone} at location
+[19Aug2025 00:44:33.015] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2375, y=24, z=-3754}
+[19Aug2025 00:44:33.016] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2387, y=25, z=-3747} but found not block entity block Block{mekanism:fluorite_ore} at location
+[19Aug2025 00:44:33.016] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{mekanism:fluorite_ore} but failed at location BlockPos{x=2387, y=25, z=-3747}
+[19Aug2025 00:44:35.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 00:44:36.491] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
+[19Aug2025 00:44:47.544] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[19Aug2025 00:44:47.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[19Aug2025 00:44:51.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[19Aug2025 00:44:55.237] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
+[19Aug2025 00:45:22.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.asphyxia.player
+[19Aug2025 00:45:22.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Awaken]
+[19Aug2025 00:45:22.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[19Aug2025 00:45:28.547] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft lost connection: Disconnected
+[19Aug2025 00:45:28.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft left the game
+[19Aug2025 00:45:28.551] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iaqocraft
+[19Aug2025 00:45:30.558] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
+[19Aug2025 00:45:30.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
+[19Aug2025 00:45:30.559] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
+[19Aug2025 00:45:56.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Zombie
+[19Aug2025 00:46:05.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [The Power This Body Holds...]
+[19Aug2025 00:46:05.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [More... I Need More Power!]
+[19Aug2025 00:46:05.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 3 Pillar Man evolution stage to setexgamer]
+[19Aug2025 00:46:16.460] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@52c7e931
+[19Aug2025 00:46:16.511] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Iaqocraft[/172.30.125.186:60343] logged in with entity id 16346 at (2409.676091249927, 63.0, -3594.8700110251802)
+[19Aug2025 00:46:16.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft joined the game
+[19Aug2025 00:46:16.555] [Server thread/INFO] [Waila/]: Syncing config to Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529)
+[19Aug2025 00:46:17.459] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Iaqocraft (18)
+[19Aug2025 00:46:17.459] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Iaqocraft
+[19Aug2025 00:46:26.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Zombie
+[19Aug2025 00:46:27.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9dda6aa-f24b-3f04-a60f-3c70f15d1529
+[19Aug2025 00:46:28.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9dda6aa-f24b-3f04-a60f-3c70f15d1529
+[19Aug2025 00:46:28.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Iaqocraft (f9dda6aa-f24b-3f04-a60f-3c70f15d1529) successfully connected to voice chat
+[19Aug2025 00:46:34.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 1 Pillar Man evolution stage to setexgamer]
+[19Aug2025 00:46:38.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 00:46:39.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [What's the Purpose of This Mask?]
+[19Aug2025 00:46:42.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 00:46:47.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[19Aug2025 00:46:55.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [What's the Purpose of This Mask?]
+[19Aug2025 00:47:17.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[19Aug2025 00:47:35.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [I Reject My Humanity!]
+[19Aug2025 00:47:35.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Iaqocraft]
+[19Aug2025 00:48:15.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Primitive Human...]
+[19Aug2025 00:48:15.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft's brain couldn't take the power of Stone Mask's needles
+[19Aug2025 00:48:15.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Zombie
+[19Aug2025 00:48:20.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:48:32.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft's brain couldn't take the power of Stone Mask's needles
+[19Aug2025 00:48:32.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft was slain by Zombie
+[19Aug2025 00:48:35.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:48:46.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Erratic Blaze King]
+[19Aug2025 00:48:50.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]
+[19Aug2025 00:48:58.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19Aug2025 00:48:59.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 00:49:02.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 00:49:09.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Awaken]
+[19Aug2025 00:49:17.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Brilliant Bone Blade]
+[19Aug2025 00:49:17.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave LIGHT Pillar Man battle mode to setexgamer]
+[19Aug2025 00:49:30.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 00:49:38.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19Aug2025 00:49:39.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19Aug2025 00:49:51.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Survival Mode]
+[19Aug2025 00:49:55.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [The Power This Body Holds...]
+[19Aug2025 00:50:58.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has dissipated under ultraviolet rays
+[19Aug2025 00:51:01.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:51:23.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has dissipated under ultraviolet rays
+[19Aug2025 00:51:26.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:51:30.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has dissipated under ultraviolet rays
+[19Aug2025 00:51:32.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Teleported Iaqocraft to setexgamer]
+[19Aug2025 00:52:00.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Spectator Mode]
+[19Aug2025 00:52:03.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Iaqocraft: Set own game mode to Creative Mode]

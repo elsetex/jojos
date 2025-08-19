@@ -1637,6 +1637,12 @@
     },
     "done": true
   },
+  "jojo:jojo/get_vampirism": {
+    "criteria": {
+      "get_vampirism": "2025-08-19 00:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:01 +0000"
@@ -3727,6 +3733,7 @@
       "minecraft:hoglin": "2025-08-18 19:23:13 +0000",
       "minecraft:piglin_brute": "2025-08-18 18:33:12 +0000",
       "minecraft:spider": "2025-08-18 19:58:19 +0000",
+      "minecraft:creeper": "2025-08-19 00:44:35 +0000",
       "minecraft:witch": "2025-08-18 20:01:33 +0000",
       "minecraft:wither_skeleton": "2025-08-18 19:23:08 +0000",
       "minecraft:husk": "2025-08-18 19:44:33 +0000",
@@ -5887,6 +5894,12 @@
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:06:02 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stone_mask": {
+    "criteria": {
+      "stone_mask": "2025-08-19 00:46:55 +0000"
     },
     "done": true
   },

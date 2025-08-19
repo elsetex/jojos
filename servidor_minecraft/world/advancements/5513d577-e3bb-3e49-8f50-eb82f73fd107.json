@@ -2453,6 +2453,12 @@
     },
     "done": true
   },
+  "jojo:jojo/pillarman_evolve_aja": {
+    "criteria": {
+      "pillarman_evolve_aja": "2025-08-19 00:46:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -5883,6 +5889,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-08-19 00:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -5934,6 +5946,12 @@
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/stone_mask": {
+    "criteria": {
+      "stone_mask": "2025-08-19 00:46:39 +0000"
     },
     "done": true
   },
@@ -8493,6 +8511,12 @@
     },
     "done": true
   },
+  "jojo:jojo/pillarman_evolve": {
+    "criteria": {
+      "pillarman_evolve": "2025-08-19 00:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
@@ -8736,6 +8760,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/table": {
     "criteria": {
       "has_the_recipe": "2025-08-18 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/get_pillarman": {
+    "criteria": {
+      "get_pillarman": "2025-08-19 00:45:22 +0000"
     },
     "done": true
   },

@@ -10045,8 +10045,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-08-19 00:40:20 +0000",
+      "minecraft:mountains": "2025-08-19 00:41:11 +0000",
       "minecraft:taiga": "2025-08-19 00:34:07 +0000",
       "minecraft:taiga_hills": "2025-08-19 00:34:38 +0000",
+      "minecraft:river": "2025-08-19 00:41:09 +0000",
       "minecraft:plains": "2025-08-19 00:34:42 +0000"
     },
     "done": false
@@ -11374,6 +11377,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "jojo:jojo/hamon_temple": {
+    "criteria": {
+      "in_temple": "2025-08-19 00:41:10 +0000"
     },
     "done": true
   },
