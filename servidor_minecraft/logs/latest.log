@@ -248,3 +248,9 @@
 [20Aug2025 02:46:11.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
 [20Aug2025 02:46:11.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
 [20Aug2025 02:46:23.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Aug2025 02:52:05.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [My Name is Nobody]
+[20Aug2025 02:55:04.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Phantom
+[20Aug2025 02:55:07.960] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
+[20Aug2025 02:55:07.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[20Aug2025 02:55:07.961] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[20Aug2025 02:56:16.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> setex

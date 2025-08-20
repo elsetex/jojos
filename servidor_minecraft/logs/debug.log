@@ -10524,3 +10524,14 @@ java.lang.NullPointerException: null
 [20Aug2025 02:46:19.885] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [20Aug2025 02:46:23.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [20Aug2025 02:47:42.134] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at 1297 33 -1721
+[20Aug2025 02:51:21.507] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 02:51:21.517] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 02:52:05.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [My Name is Nobody]
+[20Aug2025 02:55:04.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Phantom
+[20Aug2025 02:55:07.960] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
+[20Aug2025 02:55:07.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[20Aug2025 02:55:07.961] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of gerR3219
+[20Aug2025 02:55:07.961] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[20Aug2025 02:56:16.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> setex
+[20Aug2025 02:56:21.188] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 02:56:21.197] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
