@@ -11006,3 +11006,47 @@ java.lang.NullPointerException: null
 [20Aug2025 03:39:07.055] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
 [20Aug2025 03:39:55.958] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
 [20Aug2025 03:40:32.308] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:41:03.864] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:41:20.905] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 03:41:20.912] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 03:42:07.607] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:43:35.565] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:43:45.308] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:44:04.117] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:44:13.872] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over moved wrongly!
+[20Aug2025 03:44:24.661] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:45:13.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 10 experience levels to setexgamer]
+[20Aug2025 03:45:49.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
+[20Aug2025 03:45:55.989] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at 1137 26 -1737
+[20Aug2025 03:45:56.083] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at 1457 27 -1737
+[20Aug2025 03:45:56.085] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at 1639 31 -1747
+[20Aug2025 03:45:57.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:45:58.156] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:45:59.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:46:21.198] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 03:46:21.207] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 03:46:43.856] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:46:58.453] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:47:03.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:47:10.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was burnt to a crisp whilst fighting Fire Dragon
+[20Aug2025 03:47:13.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> XD
+[20Aug2025 03:47:15.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [A Nice-y Look]
+[20Aug2025 03:47:23.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Trick-or-Treat?]
+[20Aug2025 03:47:36.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Arghh, Where be Me Ship?]
+[20Aug2025 03:47:46.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Fortune Seeker]
+[20Aug2025 03:48:00.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:48:00.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Fallen Sorcerer]
+[20Aug2025 03:48:06.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> revivime bro
+[20Aug2025 03:48:18.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:48:21.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:48:26.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:48:29.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:48:35.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 03:48:44.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:48:51.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:49:31.550] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:50:10.026] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at 1775 19 -1743
+[20Aug2025 03:50:14.442] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:50:19.428] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at 1319 19 -115
+[20Aug2025 03:50:19.429] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at 1311 17 7
+[20Aug2025 03:50:20.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Dragonslayer]
