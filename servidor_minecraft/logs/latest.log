@@ -255,3 +255,76 @@
 [20Aug2025 02:55:07.961] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
 [20Aug2025 02:56:16.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> setex
 [20Aug2025 03:09:53.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sexo
+[20Aug2025 03:11:29.753] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
+[20Aug2025 03:11:29.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
+[20Aug2025 03:11:29.753] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
+[20Aug2025 03:11:45.656] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ac1bd4a
+[20Aug2025 03:11:45.720] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:55609] logged in with entity id 58616 at (728.0697149631434, 74.0, -250.35084582942915)
+[20Aug2025 03:11:45.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
+[20Aug2025 03:11:45.747] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
+[20Aug2025 03:11:45.946] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 03:11:46.151] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
+[20Aug2025 03:11:46.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
+[20Aug2025 03:11:54.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
+[20Aug2025 03:11:55.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
+[20Aug2025 03:11:55.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
+[20Aug2025 03:13:37.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sexo
+[20Aug2025 03:13:52.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:13:55.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:14:01.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> q
+[20Aug2025 03:14:02.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> q
+[20Aug2025 03:14:15.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> cambiame el stand
+[20Aug2025 03:14:20.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> es muy peligroso
+[20Aug2025 03:14:24.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> jajaja pq
+[20Aug2025 03:14:28.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> es automatico
+[20Aug2025 03:14:31.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> no puedo sacarlo
+[20Aug2025 03:14:36.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> o estara bug
+[20Aug2025 03:14:41.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> pero ya me sali del server 3 veces
+[20Aug2025 03:14:42.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> capaz está bug
+[20Aug2025 03:14:46.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> esa vrg
+[20Aug2025 03:14:48.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sigue pasando
+[20Aug2025 03:14:50.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sacmelo
+[20Aug2025 03:14:56.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Purple Haze from Nay_over]
+[20Aug2025 03:15:07.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
+[20Aug2025 03:15:10.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> otro
+[20Aug2025 03:15:17.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hierophant Green from Nay_over]
+[20Aug2025 03:15:23.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
+[20Aug2025 03:15:28.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> mejor mierda otro
+[20Aug2025 03:15:39.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Harvest from Nay_over]
+[20Aug2025 03:15:44.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
+[20Aug2025 03:15:51.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> muy peligroso
+[20Aug2025 03:15:54.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Magician's Red from Nay_over]
+[20Aug2025 03:15:59.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
+[20Aug2025 03:16:04.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> repetido XD
+[20Aug2025 03:16:06.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Magician's Red from Nay_over]
+[20Aug2025 03:16:12.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
+[20Aug2025 03:16:18.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> breh
+[20Aug2025 03:16:28.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hierophant Green from Nay_over]
+[20Aug2025 03:16:49.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave Killer Queen to Nay_over]
+[20Aug2025 03:16:53.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> pasame el maldito wonder d e una
+[20Aug2025 03:17:02.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> bro este esta mas peligroso XD
+[20Aug2025 03:17:06.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Nay_over]
+[20Aug2025 03:17:30.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sacame el wonder plis
+[20Aug2025 03:17:30.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ven
+[20Aug2025 03:18:05.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:18:11.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:18:17.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Killer Queen from Nay_over]
+[20Aug2025 03:18:20.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:18:27.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:18:34.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> te voy a dar los totems q consegui
+[20Aug2025 03:18:37.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> perro
+[20Aug2025 03:18:41.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> yei
+[20Aug2025 03:18:59.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> saca
+[20Aug2025 03:19:01.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared The Hand from Nay_over]
+[20Aug2025 03:19:15.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Crazy Diamond from Nay_over]
+[20Aug2025 03:19:16.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> repetido
+[20Aug2025 03:19:23.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hermit Purple from Nay_over]
+[20Aug2025 03:19:31.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hierophant Green from Nay_over]
+[20Aug2025 03:19:37.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hierophant Green from Nay_over]
+[20Aug2025 03:19:45.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> XD
+[20Aug2025 03:19:49.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> me qede sin totem
+[20Aug2025 03:19:52.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ahora me das tu culo
+[20Aug2025 03:19:56.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Weather Report from Nay_over]
+[20Aug2025 03:20:02.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave Wonder Of You to Nay_over]
+[20Aug2025 03:20:06.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> listo
+[20Aug2025 03:20:13.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> me duele el culo pero valio la pena
