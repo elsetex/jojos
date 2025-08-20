@@ -11050,3 +11050,62 @@ java.lang.NullPointerException: null
 [20Aug2025 03:50:19.428] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at 1319 19 -115
 [20Aug2025 03:50:19.429] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at 1311 17 7
 [20Aug2025 03:50:20.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Dragonslayer]
+[20Aug2025 03:51:21.466] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 03:51:21.475] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 03:52:56.208] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/75242, l='ServerLevel[world]', x=1434.46, y=62.18, z=-1434.31]
+[20Aug2025 03:52:59.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Clash of the Titans]
+[20Aug2025 03:53:26.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Sea? Not a Problem]
+[20Aug2025 03:54:30.700] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:54:34.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> oe
+[20Aug2025 03:54:44.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> házme tu ataque más fuerte
+[20Aug2025 03:54:47.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> ya
+[20Aug2025 03:54:58.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> pegame
+[20Aug2025 03:55:03.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> espera el sol
+[20Aug2025 03:55:04.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:55:06.753] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:55:13.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:55:18.498] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
+[20Aug2025 03:55:21.434] [Server thread/DEBUG] [net.lavabucket.hourglass.time.TimeService/hourglass]: Sleep cycle complete on dimension: minecraft:overworld.
+[20Aug2025 03:55:24.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> veni
+[20Aug2025 03:55:39.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> pegame
+[20Aug2025 03:55:43.352] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:55:48.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> bro
+[20Aug2025 03:55:51.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> no me sacó nada
+[20Aug2025 03:55:58.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> a no
+[20Aug2025 03:56:02.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> cora y medio
+[20Aug2025 03:56:05.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> XD
+[20Aug2025 03:56:09.399] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
+[20Aug2025 03:56:17.848] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:56:21.016] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 03:56:21.024] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 03:56:24.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> este arco está op
+[20Aug2025 03:56:36.502] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:56:38.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> bueno, me largo
+[20Aug2025 03:57:03.015] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at 1613 38 -1875
+[20Aug2025 03:57:03.040] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at 1159 37 -1865
+[20Aug2025 03:57:04.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> q buena estatua coño
+[20Aug2025 03:57:05.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:57:07.937] [Worker-Main-158/DEBUG] [betterdungeons/]: Spider Dungeon at 1685 43 -1890
+[20Aug2025 03:57:08.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:57:10.861] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at 1287 10 -1921
+[20Aug2025 03:57:22.115] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at 1783 23 -1923
+[20Aug2025 03:57:29.969] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at 1793 19 -1551
+[20Aug2025 03:57:39.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> me ire a dormir bro
+[20Aug2025 03:57:46.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:57:54.059] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
+[20Aug2025 03:57:54.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
+[20Aug2025 03:57:54.060] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Nay_over
+[20Aug2025 03:57:54.060] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
+[20Aug2025 03:58:00.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:58:16.290] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 03:58:39.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 10000.5, 65.42, -232.41]
+[20Aug2025 03:58:41.215] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at 9783 42 -281
+[20Aug2025 03:58:42.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:58:45.198] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at 9783 38 39
+[20Aug2025 03:58:51.090] [Worker-Main-175/DEBUG] [betterdungeons/]: Skeleton Dungeon at 9641 26 -393
+[20Aug2025 03:58:52.468] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=9979, y=31, z=-80} but found not block entity block Block{minecraft:stone} at location
+[20Aug2025 03:58:52.468] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=9979, y=31, z=-80}
+[20Aug2025 03:58:55.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 100000.5, 54.78, -235.0]
+[20Aug2025 03:59:20.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 04:00:59.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 04:01:09.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
