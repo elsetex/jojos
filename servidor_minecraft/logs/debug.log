@@ -9394,3 +9394,11 @@ java.lang.NullPointerException: null
 [20Aug2025 00:46:16.729] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [20Aug2025 00:46:16.738] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [20Aug2025 00:46:19.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has dissipated under ultraviolet rays
+[20Aug2025 00:51:16.786] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 00:51:16.797] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 00:54:39.238] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
+[20Aug2025 00:54:39.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
+[20Aug2025 00:54:39.239] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Nay_over
+[20Aug2025 00:54:39.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
+[20Aug2025 00:56:16.549] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 00:56:16.560] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
