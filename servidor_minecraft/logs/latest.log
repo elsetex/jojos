@@ -134,3 +134,27 @@
 [20Aug2025 02:02:57.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
 [20Aug2025 02:03:36.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Getting an Upgrade]
 [20Aug2025 02:03:36.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Isn't It Iron Pick]
+[20Aug2025 02:19:25.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 80.5, 65.0, -1919.5]
+[20Aug2025 02:19:29.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 02:19:32.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Iron Maiden]
+[20Aug2025 02:19:36.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 02:23:01.307] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@341bf365
+[20Aug2025 02:23:01.406] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:50714] logged in with entity id 40339 at (724.1854898837411, 76.0, -233.5249848458944)
+[20Aug2025 02:23:01.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
+[20Aug2025 02:23:01.438] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[20Aug2025 02:23:01.965] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 02:23:02.873] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[20Aug2025 02:23:02.874] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[20Aug2025 02:23:08.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[20Aug2025 02:23:09.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[20Aug2025 02:23:09.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
+[20Aug2025 02:23:32.177] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8fa03ef
+[20Aug2025 02:23:32.240] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:54331] logged in with entity id 40625 at (702.778817005496, 76.9742012164241, -260.49086057609543)
+[20Aug2025 02:23:32.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
+[20Aug2025 02:23:32.285] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
+[20Aug2025 02:23:34.022] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
+[20Aug2025 02:23:34.022] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
+[20Aug2025 02:23:45.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
+[20Aug2025 02:23:46.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
+[20Aug2025 02:23:46.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
+[20Aug2025 02:25:31.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
