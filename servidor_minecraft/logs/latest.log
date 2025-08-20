@@ -365,3 +365,32 @@
 [20Aug2025 03:29:56.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
 [20Aug2025 03:30:05.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
 [20Aug2025 03:30:14.296] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
+[20Aug2025 03:31:20.989] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over moved too quickly! 7.174767541631468,2.412581438527681,-6.6266556416396725
+[20Aug2025 03:31:43.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 30 experience levels to setexgamer]
+[20Aug2025 03:31:57.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Enchanter]
+[20Aug2025 03:32:02.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:32:07.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:32:16.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 10 experience levels to setexgamer]
+[20Aug2025 03:32:54.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
+[20Aug2025 03:33:50.867] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=1554, y=29, z=-867}
+[20Aug2025 03:33:50.867] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=1558, y=27, z=-861}
+[20Aug2025 03:34:46.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:35:04.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:35:15.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [When in Rome]
+[20Aug2025 03:35:17.092] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:35:31.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
+[20Aug2025 03:35:38.407] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
+[20Aug2025 03:35:46.555] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: false
+[20Aug2025 03:35:52.457] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
+[20Aug2025 03:36:04.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
+[20Aug2025 03:36:07.202] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:36:22.813] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
+[20Aug2025 03:36:26.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 03:36:29.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 03:36:49.055] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:37:32.363] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:37:43.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
+[20Aug2025 03:37:59.112] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:39:07.055] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:39:55.958] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
+[20Aug2025 03:40:32.308] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
