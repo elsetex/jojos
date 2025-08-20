@@ -4279,6 +4279,12 @@
     },
     "done": true
   },
+  "relics:obtain/space_dissector": {
+    "criteria": {
+      "obtain_relic": "2025-08-20 04:25:02 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_ladder": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
@@ -9511,6 +9517,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-08-20 04:23:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -11213,6 +11225,12 @@
   "create:recipes/create.palettes/paved_dolomite_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/stellar_catalyst": {
+    "criteria": {
+      "obtain_relic": "2025-08-20 04:25:24 +0000"
     },
     "done": true
   },
