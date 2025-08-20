@@ -1,3 +1,22 @@
 [20Aug2025 00:09:18.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [no u]
 [20Aug2025 00:14:44.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
 [20Aug2025 00:14:45.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:19:30.689] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@396f2010
+[20Aug2025 00:19:30.830] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:51137] logged in with entity id 27195 at (710.4784539221779, 45.556769617964925, -222.2368356786966)
+[20Aug2025 00:19:30.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
+[20Aug2025 00:19:30.881] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
+[20Aug2025 00:19:32.218] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
+[20Aug2025 00:19:32.219] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
+[20Aug2025 00:19:36.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 00:19:44.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
+[20Aug2025 00:19:45.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
+[20Aug2025 00:19:45.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
+[20Aug2025 00:19:48.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over suffocated in a wall
+[20Aug2025 00:20:48.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 00:22:35.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was doomed to fall by Crazy Diamond
+[20Aug2025 00:23:32.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 00:23:43.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Cream from Nay_over]
+[20Aug2025 00:23:43.929] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 00:26:17.483] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft moved too quickly! -2.0637941469750842,-10.572894103966533,-0.24518409853415335
+[20Aug2025 00:26:23.802] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 00:26:56.916] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
