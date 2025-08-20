@@ -5642,6 +5642,12 @@
     },
     "done": true
   },
+  "relics:obtain/reflection_necklace": {
+    "criteria": {
+      "obtain_relic": "2025-08-20 00:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
