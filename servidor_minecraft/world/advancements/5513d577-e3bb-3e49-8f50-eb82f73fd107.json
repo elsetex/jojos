@@ -1019,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-20 02:03:36 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass_pane_from_panes": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -8555,6 +8561,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-20 02:03:36 +0000"
     },
     "done": true
   },

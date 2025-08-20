@@ -127,3 +127,10 @@
 [20Aug2025 00:54:39.238] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
 [20Aug2025 00:54:39.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
 [20Aug2025 00:54:39.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
+[20Aug2025 02:00:17.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 02:02:45.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 02:02:46.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 02:02:49.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 02:02:57.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 02:03:36.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Getting an Upgrade]
+[20Aug2025 02:03:36.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Isn't It Iron Pick]
