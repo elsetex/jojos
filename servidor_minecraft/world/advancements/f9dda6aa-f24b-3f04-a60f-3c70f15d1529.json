@@ -7734,6 +7734,12 @@
     },
     "done": true
   },
+  "jojo:jojo/stand_arrow": {
+    "criteria": {
+      "stand_arrow_normal": "2025-08-20 00:35:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
@@ -8673,6 +8679,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/table": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-20 00:33:37 +0000"
     },
     "done": true
   },
@@ -11461,6 +11473,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-20 00:33:06 +0000"
     },
     "done": true
   },

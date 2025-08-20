@@ -20,3 +20,41 @@
 [20Aug2025 00:26:17.483] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft moved too quickly! -2.0637941469750842,-10.572894103966533,-0.24518409853415335
 [20Aug2025 00:26:23.802] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
 [20Aug2025 00:26:56.916] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 00:27:26.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:27:32.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:27:42.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:27:49.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:28:06.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:28:12.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:28:19.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:28:25.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:28:33.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:28:45.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:28:49.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:29:00.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:29:05.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:29:32.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:29:43.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:29:47.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:30:13.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:30:20.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:30:30.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Hunt and Gather]
+[20Aug2025 00:30:31.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:30:51.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:31:00.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:31:05.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:31:27.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:31:58.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:33:06.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [A Terrible Fortress]
+[20Aug2025 00:33:37.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Ice Bucket Challenge]
+[20Aug2025 00:33:48.240] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 00:34:01.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Trust fall]
+[20Aug2025 00:34:09.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was slain by Crazy Diamond
+[20Aug2025 00:34:21.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 00:34:23.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over fell from a high place
+[20Aug2025 00:34:30.389] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 00:34:39.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 00:35:23.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [The Arrow is Drawn to Capable]
+[20Aug2025 00:36:44.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
+[20Aug2025 00:36:53.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 00:37:16.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer

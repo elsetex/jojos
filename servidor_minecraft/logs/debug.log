@@ -9266,3 +9266,60 @@ java.lang.NullPointerException: null
 [20Aug2025 00:26:17.483] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft moved too quickly! -2.0637941469750842,-10.572894103966533,-0.24518409853415335
 [20Aug2025 00:26:23.802] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
 [20Aug2025 00:26:56.916] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 00:27:26.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:27:32.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:27:42.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:27:49.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:28:06.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:28:12.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:28:19.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:28:25.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:28:33.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:28:45.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:28:49.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:29:00.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:29:05.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:29:32.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:29:43.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:29:47.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:30:13.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:30:20.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:30:30.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Hunt and Gather]
+[20Aug2025 00:30:31.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:30:51.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:31:00.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:31:05.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:31:17.492] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 00:31:17.503] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 00:31:27.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 00:31:58.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 00:33:06.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [A Terrible Fortress]
+[20Aug2025 00:33:37.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Ice Bucket Challenge]
+[20Aug2025 00:33:48.240] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 00:34:01.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Trust fall]
+[20Aug2025 00:34:09.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was slain by Crazy Diamond
+[20Aug2025 00:34:21.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 00:34:23.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over fell from a high place
+[20Aug2025 00:34:30.389] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 00:34:39.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 00:34:54.470] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -4281 23 2447
+[20Aug2025 00:34:54.599] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -4313 40 2583
+[20Aug2025 00:35:23.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [The Arrow is Drawn to Capable]
+[20Aug2025 00:35:27.169] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: f9dda6aa-f24b-3f04-a60f-3c70f15d1529 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=dce616d8-809a-4b39-8648-f6d433f338b8, length=92, extra={valid=true}}, startingAt=0, player=null}
+[20Aug2025 00:35:33.049] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: f9dda6aa-f24b-3f04-a60f-3c70f15d1529 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=dce616d8-809a-4b39-8648-f6d433f338b8, emoteData=null, startingAt=0, player=null}
+[20Aug2025 00:35:40.605] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 5513d577-e3bb-3e49-8f50-eb82f73fd107 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=91d120d6-0000-0000-0000-000000000000, length=118, extra={valid=false}}, startingAt=0, player=null}
+[20Aug2025 00:35:42.402] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: f9dda6aa-f24b-3f04-a60f-3c70f15d1529 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=54c67a77-599a-4b3b-9f25-0d69937d3437, length=55, extra={valid=true}}, startingAt=0, player=null}
+[20Aug2025 00:35:44.516] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 5513d577-e3bb-3e49-8f50-eb82f73fd107 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=91d120d6-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[20Aug2025 00:35:45.898] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: f9dda6aa-f24b-3f04-a60f-3c70f15d1529 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=54c67a77-599a-4b3b-9f25-0d69937d3437, emoteData=null, startingAt=0, player=null}
+[20Aug2025 00:35:50.908] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: f9dda6aa-f24b-3f04-a60f-3c70f15d1529 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=bd57f644-9c76-4400-89da-59bc48712724, length=366, extra={valid=true}}, startingAt=0, player=null}
+[20Aug2025 00:36:01.433] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: f9dda6aa-f24b-3f04-a60f-3c70f15d1529 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=bd57f644-9c76-4400-89da-59bc48712724, emoteData=null, startingAt=0, player=null}
+[20Aug2025 00:36:02.516] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: f9dda6aa-f24b-3f04-a60f-3c70f15d1529 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=58171ff8-16f8-4def-ac13-99fdd4d44544, length=61, extra={valid=true}}, startingAt=0, player=null}
+[20Aug2025 00:36:16.892] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 00:36:16.902] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 00:36:30.710] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 5513d577-e3bb-3e49-8f50-eb82f73fd107 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=5e9b9a85-0000-0000-0000-000000000000, length=61, extra={valid=false}}, startingAt=0, player=null}
+[20Aug2025 00:36:39.215] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 5513d577-e3bb-3e49-8f50-eb82f73fd107 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=5e9b9a85-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[20Aug2025 00:36:44.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
+[20Aug2025 00:36:44.254] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: f9dda6aa-f24b-3f04-a60f-3c70f15d1529 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=58171ff8-16f8-4def-ac13-99fdd4d44544, emoteData=null, startingAt=0, player=null}
+[20Aug2025 00:36:53.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
+[20Aug2025 00:37:16.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
+[20Aug2025 00:37:20.285] [Server thread/DEBUG] [net.lavabucket.hourglass.time.TimeService/hourglass]: Sleep cycle complete on dimension: minecraft:overworld.

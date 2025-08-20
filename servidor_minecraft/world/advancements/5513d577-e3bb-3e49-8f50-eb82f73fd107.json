@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "relics:obtain/magma_walker": {
+    "criteria": {
+      "obtain_relic": "2025-08-20 00:34:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -10765,6 +10771,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-08-20 00:30:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_the_recipe": "2025-08-19 01:00:31 +0000"
@@ -11133,7 +11145,8 @@
       "mutton": "2025-08-19 01:04:02 +0000",
       "bread": "2025-08-19 01:10:17 +0000",
       "golden_apple": "2025-08-19 02:17:54 +0000",
-      "rotten_flesh": "2025-08-19 01:11:13 +0000"
+      "rotten_flesh": "2025-08-19 01:11:13 +0000",
+      "golden_carrot": "2025-08-20 00:29:55 +0000"
     },
     "done": false
   },
