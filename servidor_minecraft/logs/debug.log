@@ -11109,3 +11109,86 @@ java.lang.NullPointerException: null
 [20Aug2025 03:59:20.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
 [20Aug2025 04:00:59.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
 [20Aug2025 04:01:09.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 04:01:21.221] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 04:01:21.232] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 04:02:06.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Tie me to the Mast]
+[20Aug2025 04:03:06.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 50000.5, 62.13238351749426, -265.01115161003645]
+[20Aug2025 04:03:07.248] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at 50135 40 -457
+[20Aug2025 04:03:08.139] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at 49773 47 -289
+[20Aug2025 04:03:12.684] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at 49937 26 23
+[20Aug2025 04:03:14.041] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at 49757 27 29
+[20Aug2025 04:03:15.689] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at 49969 39 -585
+[20Aug2025 04:03:15.689] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at 50087 20 -595
+[20Aug2025 04:03:15.691] [Worker-Main-159/DEBUG] [betterdungeons/]: Spider Dungeon at 50108 42 -586
+[20Aug2025 04:03:17.422] [Worker-Main-159/DEBUG] [betterdungeons/]: Skeleton Dungeon at 50055 20 -601
+[20Aug2025 04:03:17.879] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at 50239 36 -601
+[20Aug2025 04:03:43.391] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 04:04:25.167] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[20Aug2025 04:04:25.300] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.301] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.394] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.395] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.400] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.400] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.408] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.409] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.452] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.452] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.480] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.480] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.551] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.552] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.593] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:25.593] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[20Aug2025 04:04:28.499] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at -1385 22 -2705
+[20Aug2025 04:04:28.534] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at -1401 22 -2883
+[20Aug2025 04:04:28.538] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at -1273 48 -2841
+[20Aug2025 04:04:28.545] [Worker-Main-159/DEBUG] [betterdungeons/]: Spider Dungeon at -1336 42 -2647
+[20Aug2025 04:04:28.869] [Worker-Main-159/DEBUG] [betterdungeons/]: Skeleton Dungeon at -1225 18 -2809
+[20Aug2025 04:04:28.870] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at -1225 43 -2713
+[20Aug2025 04:04:28.872] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at -1577 23 -2857
+[20Aug2025 04:04:28.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to -1399.5, 76.0, -2762.5]
+[20Aug2025 04:04:28.940] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at -1577 30 -2697
+[20Aug2025 04:04:32.684] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at -1417 17 -2985
+[20Aug2025 04:04:32.984] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at -1593 27 -2537
+[20Aug2025 04:04:34.020] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at -1273 45 -2521
+[20Aug2025 04:04:34.300] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at -1267 40 -3007
+[20Aug2025 04:04:35.146] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at -1391 48 -2505
+[20Aug2025 04:04:36.594] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at -1545 40 -3033
+[20Aug2025 04:04:37.857] [Worker-Main-175/DEBUG] [betterdungeons/]: Zombie Dungeon at -1209 49 -3033
+[20Aug2025 04:04:40.455] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at -1105 33 -2849
+[20Aug2025 04:04:40.457] [Worker-Main-159/DEBUG] [betterdungeons/]: Small Dungeon at -1097 38 -2671
+[20Aug2025 04:04:40.488] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at -1705 15 -3025
+[20Aug2025 04:04:42.804] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at -1103 47 -3033
+[20Aug2025 04:04:44.503] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at -1727 23 -2873
+[20Aug2025 04:04:48.257] [Worker-Main-175/DEBUG] [betterdungeons/]: Small Dungeon at -1737 13 -2553
+[20Aug2025 04:05:16.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 04:05:17.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 04:05:22.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 04:05:46.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 04:05:47.427] [Worker-Main-158/DEBUG] [betterdungeons/]: Small Dungeon at -1385 28 -2403
+[20Aug2025 04:05:53.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 04:05:58.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 04:06:21.095] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 04:06:21.104] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Aug2025 04:06:26.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 04:06:28.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 04:06:44.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Cover Me In Emeralds]
+[20Aug2025 04:06:55.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Crystal Clear]
+[20Aug2025 04:07:06.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Who's Guarding The Temple Now?]
+[20Aug2025 04:07:14.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Wither You Want It Or Not]
+[20Aug2025 04:07:33.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 04:07:34.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 04:07:38.621] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 5513d577-e3bb-3e49-8f50-eb82f73fd107 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=34d2a835-9c40-415d-b679-44ec31507a39, length=31, extra={valid=true}}, startingAt=0, player=null}
+[20Aug2025 04:07:43.303] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 5513d577-e3bb-3e49-8f50-eb82f73fd107 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=34d2a835-9c40-415d-b679-44ec31507a39, emoteData=null, startingAt=0, player=null}
+[20Aug2025 04:07:46.659] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 5513d577-e3bb-3e49-8f50-eb82f73fd107 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=34d2a835-9c40-415d-b679-44ec31507a39, length=31, extra={valid=true}}, startingAt=0, player=null}
+[20Aug2025 04:07:49.593] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 5513d577-e3bb-3e49-8f50-eb82f73fd107 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=34d2a835-9c40-415d-b679-44ec31507a39, emoteData=null, startingAt=0, player=null}
+[20Aug2025 04:08:05.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [The End?]
+[20Aug2025 04:08:06.683] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Scanning for legacy world dragon fight...
+[20Aug2025 04:08:06.698] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Found that the dragon has not yet been killed in this world.
+[20Aug2025 04:08:26.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 04:08:27.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20Aug2025 04:08:31.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20Aug2025 04:08:32.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20Aug2025 04:11:21.059] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Aug2025 04:11:21.069] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
