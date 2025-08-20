@@ -197,3 +197,54 @@
 [20Aug2025 02:38:50.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> es automatico
 [20Aug2025 02:38:51.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ya vuelvo
 [20Aug2025 02:38:55.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> cambiame al wonder
+[20Aug2025 02:40:13.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> SACAME ESTA COCHINADA
+[20Aug2025 02:40:21.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> ya se vue a comer xd
+[20Aug2025 02:41:07.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> bro este stand esta horrible
+[20Aug2025 02:41:22.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Aug2025 02:43:53.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> vuelve al ataud nay
+[20Aug2025 02:43:55.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> pls
+[20Aug2025 02:43:58.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> que el sol me viola
+[20Aug2025 02:44:44.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> NAYY
+[20Aug2025 02:44:49.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> DUERMETE EN EL ATAUD
+[20Aug2025 02:44:58.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> NO PUEDO ENTRAR AL A CASA
+[20Aug2025 02:45:01.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> MI STAND NO ME DEJA
+[20Aug2025 02:45:08.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> aplasta m
+[20Aug2025 02:45:10.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> y se sale
+[20Aug2025 02:45:11.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> NO PUEDOOO
+[20Aug2025 02:45:14.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> ES AUTOMATICOO
+[20Aug2025 02:45:19.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> bro respeta
+[20Aug2025 02:45:23.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> tonces
+[20Aug2025 02:45:24.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> salte
+[20Aug2025 02:45:26.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> 5seg
+[20Aug2025 02:45:29.183] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
+[20Aug2025 02:45:29.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
+[20Aug2025 02:45:29.184] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
+[20Aug2025 02:45:41.425] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=989, y=0, z=-1326} but found not block entity block Block{minecraft:bedrock} at location
+[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=989, y=0, z=-1326}
+[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=987, y=0, z=-1324} but found not block entity block Block{minecraft:bedrock} at location
+[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=987, y=0, z=-1324}
+[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=981, y=0, z=-1317} but found not block entity block Block{minecraft:bedrock} at location
+[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=981, y=0, z=-1317}
+[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=987, y=0, z=-1321} but found not block entity block Block{minecraft:bedrock} at location
+[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=987, y=0, z=-1321}
+[20Aug2025 02:45:41.427] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=990, y=0, z=-1323} but found not block entity block Block{minecraft:bedrock} at location
+[20Aug2025 02:45:41.427] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=990, y=0, z=-1323}
+[20Aug2025 02:45:41.524] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=990, y=0, z=-1360} but found not block entity block Block{minecraft:bedrock} at location
+[20Aug2025 02:45:41.524] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=990, y=0, z=-1360}
+[20Aug2025 02:45:41.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=989, y=0, z=-1329} but found not block entity block Block{minecraft:bedrock} at location
+[20Aug2025 02:45:41.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=989, y=0, z=-1329}
+[20Aug2025 02:45:41.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=987, y=0, z=-1334} but found not block entity block Block{minecraft:bedrock} at location
+[20Aug2025 02:45:41.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=987, y=0, z=-1334}
+[20Aug2025 02:45:41.876] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=970, y=0, z=-1317} but found not block entity block Block{minecraft:bedrock} at location
+[20Aug2025 02:45:41.876] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=970, y=0, z=-1317}
+[20Aug2025 02:46:01.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@eb472a7
+[20Aug2025 02:46:01.662] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:54961] logged in with entity id 51860 at (726.8884244223668, 74.0, -257.02691772189024)
+[20Aug2025 02:46:01.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
+[20Aug2025 02:46:01.691] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
+[20Aug2025 02:46:02.254] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
+[20Aug2025 02:46:02.254] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
+[20Aug2025 02:46:04.002] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[20Aug2025 02:46:10.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
+[20Aug2025 02:46:11.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
+[20Aug2025 02:46:11.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
+[20Aug2025 02:46:23.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind

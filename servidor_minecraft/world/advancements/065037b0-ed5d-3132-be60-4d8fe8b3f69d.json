@@ -7783,6 +7783,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-08-20 02:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_the_recipe": "2025-08-19 02:17:53 +0000"
@@ -10348,8 +10354,10 @@
       "minecraft:snowy_tundra": "2025-08-19 02:42:29 +0000",
       "minecraft:savanna_plateau": "2025-08-19 02:17:53 +0000",
       "minecraft:beach": "2025-08-19 02:30:04 +0000",
+      "minecraft:dark_forest": "2025-08-20 02:37:40 +0000",
       "minecraft:river": "2025-08-19 02:25:46 +0000",
       "minecraft:wooded_mountains": "2025-08-19 17:51:09 +0000",
+      "minecraft:wooded_hills": "2025-08-20 02:40:38 +0000",
       "minecraft:savanna": "2025-08-19 02:30:07 +0000",
       "minecraft:plains": "2025-08-19 02:18:05 +0000"
     },
