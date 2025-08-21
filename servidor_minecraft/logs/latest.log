@@ -1,554 +1,418 @@
-[20Aug2025 00:09:18.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [no u]
-[20Aug2025 00:14:44.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:14:45.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:19:30.689] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@396f2010
-[20Aug2025 00:19:30.830] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:51137] logged in with entity id 27195 at (710.4784539221779, 45.556769617964925, -222.2368356786966)
-[20Aug2025 00:19:30.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
-[20Aug2025 00:19:30.881] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
-[20Aug2025 00:19:32.218] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
-[20Aug2025 00:19:32.219] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
-[20Aug2025 00:19:36.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
-[20Aug2025 00:19:44.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
-[20Aug2025 00:19:45.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
-[20Aug2025 00:19:45.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
-[20Aug2025 00:19:48.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over suffocated in a wall
-[20Aug2025 00:20:48.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
-[20Aug2025 00:22:35.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was doomed to fall by Crazy Diamond
-[20Aug2025 00:23:32.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
-[20Aug2025 00:23:43.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Cream from Nay_over]
-[20Aug2025 00:23:43.929] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 00:26:17.483] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft moved too quickly! -2.0637941469750842,-10.572894103966533,-0.24518409853415335
-[20Aug2025 00:26:23.802] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 00:26:56.916] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 00:27:26.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:27:32.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:27:42.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:27:49.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:28:06.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:28:12.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:28:19.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:28:25.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:28:33.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:28:45.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:28:49.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:29:00.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:29:05.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:29:32.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:29:43.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:29:47.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:30:13.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:30:20.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:30:30.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Hunt and Gather]
-[20Aug2025 00:30:31.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:30:51.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:31:00.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:31:05.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:31:27.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 00:31:58.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 00:33:06.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [A Terrible Fortress]
-[20Aug2025 00:33:37.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [Ice Bucket Challenge]
-[20Aug2025 00:33:48.240] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 00:34:01.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Trust fall]
-[20Aug2025 00:34:09.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was slain by Crazy Diamond
-[20Aug2025 00:34:21.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
-[20Aug2025 00:34:23.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over fell from a high place
-[20Aug2025 00:34:30.389] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 00:34:39.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
-[20Aug2025 00:35:23.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft has made the advancement [The Arrow is Drawn to Capable]
-[20Aug2025 00:36:44.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:36:53.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
-[20Aug2025 00:37:16.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:24.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
-[20Aug2025 00:37:29.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:30.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:30.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:31.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:31.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:32.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:32.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:33.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus whilst fighting setexgamer
-[20Aug2025 00:37:34.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:34.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:35.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:35.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:36.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:36.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:37.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:37.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:38.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:38.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:39.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:39.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:40.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:40.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:41.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:41.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:42.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:42.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:43.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:43.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:44.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:44.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:45.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:45.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:46.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:46.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:47.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:47.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:48.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:48.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:49.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:49.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:50.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:50.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:51.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:51.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:52.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:52.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:53.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:53.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:54.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:54.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:55.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:55.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:56.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:56.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:57.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:57.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:58.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:58.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:37:59.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was exposed to a lethal virus
-[20Aug2025 00:38:54.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was slain by Crazy Diamond
-[20Aug2025 00:46:00.956] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iaqocraft lost connection: Disconnected
-[20Aug2025 00:46:00.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iaqocraft left the game
-[20Aug2025 00:46:00.962] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iaqocraft
-[20Aug2025 00:46:19.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has dissipated under ultraviolet rays
-[20Aug2025 00:54:39.238] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
-[20Aug2025 00:54:39.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
-[20Aug2025 00:54:39.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
-[20Aug2025 02:00:17.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 02:02:45.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 02:02:46.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 02:02:49.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 02:02:57.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 02:03:36.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Getting an Upgrade]
-[20Aug2025 02:03:36.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Isn't It Iron Pick]
-[20Aug2025 02:19:25.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 80.5, 65.0, -1919.5]
-[20Aug2025 02:19:29.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 02:19:32.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Iron Maiden]
-[20Aug2025 02:19:36.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 02:23:01.307] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@341bf365
-[20Aug2025 02:23:01.406] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:50714] logged in with entity id 40339 at (724.1854898837411, 76.0, -233.5249848458944)
-[20Aug2025 02:23:01.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
-[20Aug2025 02:23:01.438] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
-[20Aug2025 02:23:01.965] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 02:23:02.873] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
-[20Aug2025 02:23:02.874] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
-[20Aug2025 02:23:08.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
-[20Aug2025 02:23:09.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
-[20Aug2025 02:23:09.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
-[20Aug2025 02:23:32.177] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8fa03ef
-[20Aug2025 02:23:32.240] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:54331] logged in with entity id 40625 at (702.778817005496, 76.9742012164241, -260.49086057609543)
-[20Aug2025 02:23:32.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
-[20Aug2025 02:23:32.285] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
-[20Aug2025 02:23:34.022] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
-[20Aug2025 02:23:34.022] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
-[20Aug2025 02:23:45.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
-[20Aug2025 02:23:46.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
-[20Aug2025 02:23:46.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
-[20Aug2025 02:25:31.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
-[20Aug2025 02:35:43.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sexo cuando puedas me cambias el stand
-[20Aug2025 02:35:45.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> porfa
-[20Aug2025 02:35:52.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Gold Experience from Nay_over]
-[20Aug2025 02:35:54.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> nay andate al atau de abajo pls
-[20Aug2025 02:36:32.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 02:36:45.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> bro
-[20Aug2025 02:36:50.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> te puse stand al azar
-[20Aug2025 02:36:53.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> con comando
-[20Aug2025 02:37:00.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sigo con ge
-[20Aug2025 02:37:03.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> y te salió ge denuevo JAJAJAJ
-[20Aug2025 02:37:07.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> XD
-[20Aug2025 02:37:09.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> a ver otra
-[20Aug2025 02:37:13.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Gold Experience from Nay_over]
-[20Aug2025 02:37:19.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 02:37:22.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> the hand
-[20Aug2025 02:37:33.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> XD mucha mariconada
-[20Aug2025 02:37:33.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> te doy 3 chances desde ahorita
-[20Aug2025 02:37:44.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared The Hand from Nay_over]
-[20Aug2025 02:37:44.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> dale
-[20Aug2025 02:37:47.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 02:37:50.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> otro mas
-[20Aug2025 02:37:55.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Soft-and-Wet from Nay_over]
-[20Aug2025 02:37:58.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 02:38:02.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> UYY
-[20Aug2025 02:38:03.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Take Aim]
-[20Aug2025 02:38:08.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> TENTADOR
-[20Aug2025 02:38:08.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hermit Purple from Nay_over]
-[20Aug2025 02:38:11.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 02:38:13.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> ta madre
-[20Aug2025 02:38:15.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Soft-and-Wet from Nay_over]
-[20Aug2025 02:38:20.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 02:38:21.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> me cambiaste el hermit XD
-[20Aug2025 02:38:31.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> quieres hermit?
-[20Aug2025 02:38:39.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> BRO el
-[20Aug2025 02:38:47.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> el purple haze
-[20Aug2025 02:38:48.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> me voy a comer
-[20Aug2025 02:38:50.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> es automatico
-[20Aug2025 02:38:51.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ya vuelvo
-[20Aug2025 02:38:55.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> cambiame al wonder
-[20Aug2025 02:40:13.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> SACAME ESTA COCHINADA
-[20Aug2025 02:40:21.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> ya se vue a comer xd
-[20Aug2025 02:41:07.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> bro este stand esta horrible
-[20Aug2025 02:41:22.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20Aug2025 02:43:53.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> vuelve al ataud nay
-[20Aug2025 02:43:55.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> pls
-[20Aug2025 02:43:58.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> que el sol me viola
-[20Aug2025 02:44:44.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> NAYY
-[20Aug2025 02:44:49.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> DUERMETE EN EL ATAUD
-[20Aug2025 02:44:58.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> NO PUEDO ENTRAR AL A CASA
-[20Aug2025 02:45:01.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> MI STAND NO ME DEJA
-[20Aug2025 02:45:08.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> aplasta m
-[20Aug2025 02:45:10.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> y se sale
-[20Aug2025 02:45:11.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> NO PUEDOOO
-[20Aug2025 02:45:14.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> ES AUTOMATICOO
-[20Aug2025 02:45:19.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> bro respeta
-[20Aug2025 02:45:23.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> tonces
-[20Aug2025 02:45:24.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> salte
-[20Aug2025 02:45:26.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gerR3219> 5seg
-[20Aug2025 02:45:29.183] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
-[20Aug2025 02:45:29.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
-[20Aug2025 02:45:29.184] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
-[20Aug2025 02:45:41.425] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=989, y=0, z=-1326} but found not block entity block Block{minecraft:bedrock} at location
-[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=989, y=0, z=-1326}
-[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=987, y=0, z=-1324} but found not block entity block Block{minecraft:bedrock} at location
-[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=987, y=0, z=-1324}
-[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=981, y=0, z=-1317} but found not block entity block Block{minecraft:bedrock} at location
-[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=981, y=0, z=-1317}
-[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=987, y=0, z=-1321} but found not block entity block Block{minecraft:bedrock} at location
-[20Aug2025 02:45:41.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=987, y=0, z=-1321}
-[20Aug2025 02:45:41.427] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=990, y=0, z=-1323} but found not block entity block Block{minecraft:bedrock} at location
-[20Aug2025 02:45:41.427] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=990, y=0, z=-1323}
-[20Aug2025 02:45:41.524] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=990, y=0, z=-1360} but found not block entity block Block{minecraft:bedrock} at location
-[20Aug2025 02:45:41.524] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=990, y=0, z=-1360}
-[20Aug2025 02:45:41.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=989, y=0, z=-1329} but found not block entity block Block{minecraft:bedrock} at location
-[20Aug2025 02:45:41.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=989, y=0, z=-1329}
-[20Aug2025 02:45:41.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=987, y=0, z=-1334} but found not block entity block Block{minecraft:bedrock} at location
-[20Aug2025 02:45:41.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=987, y=0, z=-1334}
-[20Aug2025 02:45:41.876] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=970, y=0, z=-1317} but found not block entity block Block{minecraft:bedrock} at location
-[20Aug2025 02:45:41.876] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=970, y=0, z=-1317}
-[20Aug2025 02:46:01.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@eb472a7
-[20Aug2025 02:46:01.662] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:54961] logged in with entity id 51860 at (726.8884244223668, 74.0, -257.02691772189024)
-[20Aug2025 02:46:01.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
-[20Aug2025 02:46:01.691] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
-[20Aug2025 02:46:02.254] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
-[20Aug2025 02:46:02.254] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
-[20Aug2025 02:46:04.002] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 02:46:10.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
-[20Aug2025 02:46:11.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
-[20Aug2025 02:46:11.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
-[20Aug2025 02:46:23.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20Aug2025 02:52:05.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [My Name is Nobody]
-[20Aug2025 02:55:04.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer was slain by Phantom
-[20Aug2025 02:55:07.960] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
-[20Aug2025 02:55:07.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
-[20Aug2025 02:55:07.961] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
-[20Aug2025 02:56:16.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> setex
-[20Aug2025 03:09:53.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sexo
-[20Aug2025 03:11:29.753] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
-[20Aug2025 03:11:29.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
-[20Aug2025 03:11:29.753] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
-[20Aug2025 03:11:45.656] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ac1bd4a
-[20Aug2025 03:11:45.720] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nay_over[/172.30.86.61:55609] logged in with entity id 58616 at (728.0697149631434, 74.0, -250.35084582942915)
-[20Aug2025 03:11:45.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over joined the game
-[20Aug2025 03:11:45.747] [Server thread/INFO] [Waila/]: Syncing config to Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087)
-[20Aug2025 03:11:45.946] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 03:11:46.151] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nay_over (18)
-[20Aug2025 03:11:46.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nay_over
-[20Aug2025 03:11:54.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 777a8655-5f4b-3a63-918d-db36a7e31087
-[20Aug2025 03:11:55.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 777a8655-5f4b-3a63-918d-db36a7e31087
-[20Aug2025 03:11:55.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nay_over (777a8655-5f4b-3a63-918d-db36a7e31087) successfully connected to voice chat
-[20Aug2025 03:13:37.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sexo
-[20Aug2025 03:13:52.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:13:55.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:14:01.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> q
-[20Aug2025 03:14:02.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> q
-[20Aug2025 03:14:15.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> cambiame el stand
-[20Aug2025 03:14:20.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> es muy peligroso
-[20Aug2025 03:14:24.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> jajaja pq
-[20Aug2025 03:14:28.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> es automatico
-[20Aug2025 03:14:31.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> no puedo sacarlo
-[20Aug2025 03:14:36.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> o estara bug
-[20Aug2025 03:14:41.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> pero ya me sali del server 3 veces
-[20Aug2025 03:14:42.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> capaz está bug
-[20Aug2025 03:14:46.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> esa vrg
-[20Aug2025 03:14:48.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sigue pasando
-[20Aug2025 03:14:50.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sacmelo
-[20Aug2025 03:14:56.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Purple Haze from Nay_over]
-[20Aug2025 03:15:07.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 03:15:10.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> otro
-[20Aug2025 03:15:17.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hierophant Green from Nay_over]
-[20Aug2025 03:15:23.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 03:15:28.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> mejor mierda otro
-[20Aug2025 03:15:39.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Harvest from Nay_over]
-[20Aug2025 03:15:44.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 03:15:51.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> muy peligroso
-[20Aug2025 03:15:54.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Magician's Red from Nay_over]
-[20Aug2025 03:15:59.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 03:16:04.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> repetido XD
-[20Aug2025 03:16:06.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Magician's Red from Nay_over]
-[20Aug2025 03:16:12.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave a random Stand to Nay_over]
-[20Aug2025 03:16:18.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> breh
-[20Aug2025 03:16:28.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hierophant Green from Nay_over]
-[20Aug2025 03:16:49.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave Killer Queen to Nay_over]
-[20Aug2025 03:16:53.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> pasame el maldito wonder d e una
-[20Aug2025 03:17:02.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> bro este esta mas peligroso XD
-[20Aug2025 03:17:06.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to Nay_over]
-[20Aug2025 03:17:30.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> sacame el wonder plis
-[20Aug2025 03:17:30.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ven
-[20Aug2025 03:18:05.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:18:11.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:18:17.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Killer Queen from Nay_over]
-[20Aug2025 03:18:20.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:18:27.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:18:34.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> te voy a dar los totems q consegui
-[20Aug2025 03:18:37.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> perro
-[20Aug2025 03:18:41.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> yei
-[20Aug2025 03:18:59.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> saca
-[20Aug2025 03:19:01.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared The Hand from Nay_over]
-[20Aug2025 03:19:15.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Crazy Diamond from Nay_over]
-[20Aug2025 03:19:16.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> repetido
-[20Aug2025 03:19:23.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hermit Purple from Nay_over]
-[20Aug2025 03:19:31.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hierophant Green from Nay_over]
-[20Aug2025 03:19:37.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Hierophant Green from Nay_over]
-[20Aug2025 03:19:45.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> XD
-[20Aug2025 03:19:49.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> me qede sin totem
-[20Aug2025 03:19:52.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ahora me das tu culo
-[20Aug2025 03:19:56.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Cleared Weather Report from Nay_over]
-[20Aug2025 03:20:02.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave Wonder Of You to Nay_over]
-[20Aug2025 03:20:06.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> listo
-[20Aug2025 03:20:13.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> me duele el culo pero valio la pena
-[20Aug2025 03:20:29.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> como se hacen las mochilas
-[20Aug2025 03:20:36.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> por algo tenemos el jei
-[20Aug2025 03:20:37.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> sonso
-[20Aug2025 03:21:38.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> cuero
-[20Aug2025 03:21:39.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> hilo
-[20Aug2025 03:21:55.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> get out
-[20Aug2025 03:21:58.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> bitch
-[20Aug2025 03:22:13.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> padre saca a hijo 20 años de su casa
-[20Aug2025 03:22:18.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> JAJAJA
-[20Aug2025 03:23:04.700] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
-[20Aug2025 03:24:11.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> mira y aprende perrita
-[20Aug2025 03:24:30.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has completed the challenge [Cover Me in Debris]
-[20Aug2025 03:24:41.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> mucha exploracion bro
-[20Aug2025 03:24:53.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> esa perra mamadaq
-[20Aug2025 03:25:04.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> es de un boss
-[20Aug2025 03:25:05.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> del nether
-[20Aug2025 03:25:10.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> me lo violé con ts
-[20Aug2025 03:25:14.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> gg ez
-[20Aug2025 03:25:17.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> ire a hacer mi vida
-[20Aug2025 03:25:29.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> eso mijito
-[20Aug2025 03:25:42.205] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:25:45.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> oye
-[20Aug2025 03:25:47.051] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
-[20Aug2025 03:25:48.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> dime
-[20Aug2025 03:25:55.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> ven te regalo cosas
-[20Aug2025 03:26:00.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> para q te independices
-[20Aug2025 03:26:31.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> alguien me robó
-[20Aug2025 03:26:34.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> los voy a matar
-[20Aug2025 03:26:36.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> gerardo
-[20Aug2025 03:26:50.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Splintering II]
-[20Aug2025 03:26:53.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Splintering II]
-[20Aug2025 03:29:24.000] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:29:33.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:29:41.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:29:56.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:30:05.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:30:14.296] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
-[20Aug2025 03:31:20.989] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over moved too quickly! 7.174767541631468,2.412581438527681,-6.6266556416396725
-[20Aug2025 03:31:43.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 30 experience levels to setexgamer]
-[20Aug2025 03:31:57.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Enchanter]
-[20Aug2025 03:32:02.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:32:07.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:32:16.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 10 experience levels to setexgamer]
-[20Aug2025 03:32:54.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
-[20Aug2025 03:33:50.867] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=1554, y=29, z=-867}
-[20Aug2025 03:33:50.867] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=1558, y=27, z=-861}
-[20Aug2025 03:34:46.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:35:04.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:35:15.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [When in Rome]
-[20Aug2025 03:35:17.092] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:35:31.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
-[20Aug2025 03:35:38.407] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
-[20Aug2025 03:35:46.555] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: false
-[20Aug2025 03:35:52.457] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityPassive:standPerform:34]: Calamity Passive: true
-[20Aug2025 03:36:04.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
-[20Aug2025 03:36:07.202] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:36:22.813] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
-[20Aug2025 03:36:26.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:36:29.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:36:49.055] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:37:32.363] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:37:43.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
-[20Aug2025 03:37:59.112] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:39:07.055] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:39:55.958] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:40:32.308] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:41:03.864] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:42:07.607] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:43:35.565] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:43:45.308] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:44:04.117] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:44:13.872] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over moved wrongly!
-[20Aug2025 03:44:24.661] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:45:13.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 10 experience levels to setexgamer]
-[20Aug2025 03:45:49.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 20 experience levels to setexgamer]
-[20Aug2025 03:45:57.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:45:58.156] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:45:59.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:46:43.856] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:46:58.453] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:47:03.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:47:10.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over was burnt to a crisp whilst fighting Fire Dragon
-[20Aug2025 03:47:13.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> XD
-[20Aug2025 03:47:15.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [A Nice-y Look]
-[20Aug2025 03:47:23.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Trick-or-Treat?]
-[20Aug2025 03:47:36.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Arghh, Where be Me Ship?]
-[20Aug2025 03:47:46.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Fortune Seeker]
-[20Aug2025 03:48:00.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:48:00.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Fallen Sorcerer]
-[20Aug2025 03:48:06.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> revivime bro
-[20Aug2025 03:48:18.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:48:21.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:48:26.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:48:29.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:48:35.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set Nay_over's game mode to Survival Mode]
-[20Aug2025 03:48:44.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:48:51.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:49:31.550] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:50:14.442] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:50:20.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over has made the advancement [Dragonslayer]
-[20Aug2025 03:52:56.208] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/75242, l='ServerLevel[world]', x=1434.46, y=62.18, z=-1434.31]
-[20Aug2025 03:52:59.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Clash of the Titans]
-[20Aug2025 03:53:26.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Sea? Not a Problem]
-[20Aug2025 03:54:30.700] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:54:34.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> oe
-[20Aug2025 03:54:44.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> házme tu ataque más fuerte
-[20Aug2025 03:54:47.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> ya
-[20Aug2025 03:54:58.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> pegame
-[20Aug2025 03:55:03.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> espera el sol
-[20Aug2025 03:55:04.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:55:06.753] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:55:13.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:55:18.498] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: false
-[20Aug2025 03:55:24.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> veni
-[20Aug2025 03:55:39.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> pegame
-[20Aug2025 03:55:43.352] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:55:48.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> bro
-[20Aug2025 03:55:51.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> no me sacó nada
-[20Aug2025 03:55:58.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> a no
-[20Aug2025 03:56:02.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> cora y medio
-[20Aug2025 03:56:05.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> XD
-[20Aug2025 03:56:09.399] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityAttack:standPerform:37]: Calamity Attack: true
-[20Aug2025 03:56:17.848] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:56:24.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> este arco está op
-[20Aug2025 03:56:36.502] [Server thread/INFO] [STDOUT/]: [com.filipegamer12br.rotp_wou.action.CalamityActive:standPerform:33]: Calamity Active: true
-[20Aug2025 03:56:38.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> bueno, me largo
-[20Aug2025 03:57:04.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <setexgamer> q buena estatua coño
-[20Aug2025 03:57:05.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:57:08.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:57:39.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nay_over> me ire a dormir bro
-[20Aug2025 03:57:46.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:57:54.059] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nay_over lost connection: Disconnected
-[20Aug2025 03:57:54.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nay_over left the game
-[20Aug2025 03:57:54.060] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nay_over
-[20Aug2025 03:58:00.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 03:58:16.290] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 03:58:39.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 10000.5, 65.42, -232.41]
-[20Aug2025 03:58:42.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 03:58:52.468] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=9979, y=31, z=-80} but found not block entity block Block{minecraft:stone} at location
-[20Aug2025 03:58:52.468] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=9979, y=31, z=-80}
-[20Aug2025 03:58:55.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 100000.5, 54.78, -235.0]
-[20Aug2025 03:59:20.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:00:59.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:01:09.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:02:06.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Tie me to the Mast]
-[20Aug2025 04:03:06.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to 50000.5, 62.13238351749426, -265.01115161003645]
-[20Aug2025 04:03:43.391] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 04:04:25.167] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
-[20Aug2025 04:04:25.300] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.301] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.394] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.395] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.400] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.400] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.408] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.409] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.452] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.452] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.480] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.480] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.551] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.552] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.593] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:25.593] [Worker-Main-175/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[20Aug2025 04:04:28.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to -1399.5, 76.0, -2762.5]
-[20Aug2025 04:05:16.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 04:05:17.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:05:22.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:05:46.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:05:53.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:05:58.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:06:26.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:06:28.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 04:06:44.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Cover Me In Emeralds]
-[20Aug2025 04:06:55.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Crystal Clear]
-[20Aug2025 04:07:06.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Who's Guarding The Temple Now?]
-[20Aug2025 04:07:14.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Wither You Want It Or Not]
-[20Aug2025 04:07:33.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:07:34.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:08:05.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [The End?]
-[20Aug2025 04:08:06.683] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Scanning for legacy world dragon fight...
-[20Aug2025 04:08:06.698] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Found that the dragon has not yet been killed in this world.
-[20Aug2025 04:08:26.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:08:27.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 04:08:31.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:08:32.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:13:22.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Free the End]
-[20Aug2025 04:14:25.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:14:26.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 04:14:51.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has reached the goal [The Next Generation]
-[20Aug2025 04:14:51.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 1    [Dragon Egg] to setexgamer]
-[20Aug2025 04:14:55.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:15:34.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Remote Getaway]
-[20Aug2025 04:17:03.238] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/83832, l='ServerLevel[world]', x=-299.28, y=42.34, z=2021.42]
-[20Aug2025 04:17:59.193] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer moved wrongly!
-[20Aug2025 04:18:29.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 04:18:48.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:19:24.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [The City at the End of the Game]
-[20Aug2025 04:22:18.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Teleported setexgamer to -623.5, 65.0, 3264.5]
-[20Aug2025 04:22:18.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2869ms or 57 ticks behind
-[20Aug2025 04:22:52.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 04:23:04.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:23:18.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has reached the goal [Sky's the Limit]
-[20Aug2025 04:23:50.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave 1    [Dragon Head] to setexgamer]
-[20Aug2025 04:23:54.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:24:14.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:24:25.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:24:46.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:25:02.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [Warrior Princess]
-[20Aug2025 04:25:06.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:25:14.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:25:24.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer has made the advancement [This is a rain of stars]
-[20Aug2025 04:25:25.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Spectator Mode]
-[20Aug2025 04:25:56.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:26:01.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 04:26:10.091] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
-[20Aug2025 04:26:12.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:27:55.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 04:27:59.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:32:08.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
-[20Aug2025 04:32:19.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
-[20Aug2025 04:34:15.595] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer lost connection: Disconnected
-[20Aug2025 04:34:15.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer left the game
-[20Aug2025 04:34:15.596] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client setexgamer
+[21Aug2025 01:12:05.919] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[21Aug2025 01:12:05.924] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.28 by Ubuntu
+[21Aug2025 01:12:06.393] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[21Aug2025 01:12:06.475] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/jojos/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[21Aug2025 01:12:07.243] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21Aug2025 01:12:07.337] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21Aug2025 01:12:07.345] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21Aug2025 01:12:07.352] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21Aug2025 01:12:07.359] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21Aug2025 01:12:07.364] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21Aug2025 01:12:07.369] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21Aug2025 01:12:07.374] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21Aug2025 01:12:07.545] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[21Aug2025 01:12:08.888] [main/ERROR] [mixin/]: Mixin config rotp_zhp.mixin.json does not specify "minVersion" property
+[21Aug2025 01:12:08.946] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[21Aug2025 01:12:08.950] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[21Aug2025 01:12:09.092] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Aug2025 01:12:09.095] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Aug2025 01:12:09.132] [main/WARN] [mixin/]: Reference map 'mixins.stone_legacy.refmap.json' for mixins.stone_legacy.json could not be read. If this is a development environment you can ignore this message
+[21Aug2025 01:12:09.134] [main/WARN] [mixin/]: Reference map 'mixins.rotp_harvest.refmap.json' for mixins.rotp_harvest.json could not be read. If this is a development environment you can ignore this message
+[21Aug2025 01:12:09.136] [main/WARN] [mixin/]: Reference map 'rotp_mih.mixins.refmap.json' for rotp_mih.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Aug2025 01:12:10.286] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER
+[21Aug2025 01:12:10.286] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/entity/player/ClientPlayerEntity (java.lang.RuntimeException: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER)
+[21Aug2025 01:12:10.287] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.entity.player.ClientPlayerEntity was not found ars_nouveau.mixins.json:ClientElytraMixin
+[21Aug2025 01:12:10.777] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via virtuoel.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[21Aug2025 01:12:12.598] [main/WARN] [mixin/]: Mixin apply failed mixins.stone_legacy.json:FruitEatingMixin -> net.minecraft.entity.LivingEntity: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException @Shadow method isUsingItem in mixins.stone_legacy.json:FruitEatingMixin was not located in the target class net.minecraft.entity.LivingEntity. No refMap loaded.
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: @Shadow method isUsingItem in mixins.stone_legacy.json:FruitEatingMixin was not located in the target class net.minecraft.entity.LivingEntity. No refMap loaded.
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachSpecialMethod(MixinPreProcessorStandard.java:442) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachShadowMethod(MixinPreProcessorStandard.java:415) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachMethods(MixinPreProcessorStandard.java:343) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:302) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:280) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1288) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:292) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:154) ~[modlauncher-8.1.3.jar:8.1.3+8.1.3+main-8.1.x.c94d18ec]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at net.minecraft.block.Blocks.<clinit>(Blocks.java:30) ~[?:?]
+	at net.minecraft.world.gen.surfacebuilders.SurfaceBuilder.<clinit>(SurfaceBuilder.java:12) ~[?:?]
+	at net.minecraft.world.gen.surfacebuilders.ConfiguredSurfaceBuilders.<clinit>(SourceFile:11) ~[?:?]
+	at net.minecraft.util.registry.WorldGenRegistries.func_243674_g(WorldGenRegistries.java:33) ~[?:?]
+	at net.minecraft.util.registry.WorldGenRegistries.func_243668_a(WorldGenRegistries.java:89) ~[?:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684) ~[?:?]
+	at net.minecraft.util.registry.WorldGenRegistries.<clinit>(WorldGenRegistries.java:88) ~[?:?]
+	at net.minecraft.util.registry.Registry.<clinit>(Registry.java:464) ~[?:?]
+	at net.minecraft.util.registry.Bootstrap.func_151354_b(Bootstrap.java:38) ~[?:?]
+	at net.minecraft.server.Main.main(Main.java:92) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+[21Aug2025 01:12:20.279] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21Aug2025 01:12:20.281] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21Aug2025 01:12:20.281] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21Aug2025 01:12:20.282] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21Aug2025 01:12:22.198] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[21Aug2025 01:12:22.202] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[21Aug2025 01:12:23.348] [modloading-worker-0/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[21Aug2025 01:12:24.966] [modloading-worker-1/INFO] [expandability/]: ExpandAbility here, who dis?
+[21Aug2025 01:12:39.615] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 122 ms
+[21Aug2025 01:12:41.329] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[21Aug2025 01:12:41.329] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[21Aug2025 01:12:41.731] [main/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.client.particle.ModParticles:registerParticles:23]: Rendering particles
+[21Aug2025 01:12:42.502] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[21Aug2025 01:12:42.507] [Thread-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[21Aug2025 01:12:42.736] [main/INFO] [quark/]: Loading Module Chain Linkage
+[21Aug2025 01:12:42.738] [main/INFO] [quark/]: Loading Module Chains Connect Blocks
+[21Aug2025 01:12:42.739] [main/INFO] [quark/]: Loading Module Chute
+[21Aug2025 01:12:42.739] [main/INFO] [quark/]: Loading Module Color Slime
+[21Aug2025 01:12:42.740] [main/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[21Aug2025 01:12:42.740] [main/INFO] [quark/]: Loading Module Ender Watcher
+[21Aug2025 01:12:42.741] [main/INFO] [quark/]: Loading Module Endermites Form Shulkers
+[21Aug2025 01:12:42.742] [main/INFO] [quark/]: Loading Module Feeding Trough
+[21Aug2025 01:12:42.743] [main/INFO] [quark/]: Loading Module Gravisand
+[21Aug2025 01:12:42.744] [main/INFO] [quark/]: Loading Module Iron Rod
+[21Aug2025 01:12:42.744] [main/INFO] [quark/]: Loading Module Jukebox Automation
+[21Aug2025 01:12:42.749] [main/INFO] [quark/]: Loading Module Metal Buttons
+[21Aug2025 01:12:42.750] [main/INFO] [quark/]: Loading Module Obsidian Plate
+[21Aug2025 01:12:42.750] [main/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[21Aug2025 01:12:42.752] [main/INFO] [quark/]: Loading Module Redstone Circuit
+[21Aug2025 01:12:42.752] [main/INFO] [quark/]: Loading Module Weather Sensor
+[21Aug2025 01:12:42.753] [main/INFO] [quark/]: Loading Module Bamboo Mat
+[21Aug2025 01:12:42.753] [main/INFO] [quark/]: Loading Module Burn Vines
+[21Aug2025 01:12:42.754] [main/INFO] [quark/]: Loading Module Celebratory Lamps
+[21Aug2025 01:12:42.754] [main/INFO] [quark/]: Loading Module Cobblestone Bricks
+[21Aug2025 01:12:42.755] [main/INFO] [quark/]: Loading Module Compressed Blocks
+[21Aug2025 01:12:42.755] [main/INFO] [quark/]: Loading Module Duskbound Blocks
+[21Aug2025 01:12:42.755] [main/INFO] [quark/]: Loading Module Framed Glass
+[21Aug2025 01:12:42.756] [main/INFO] [quark/]: Loading Module Gold Bars
+[21Aug2025 01:12:42.757] [main/INFO] [quark/]: Loading Module Grate
+[21Aug2025 01:12:42.757] [main/INFO] [quark/]: Loading Module Hedges
+[21Aug2025 01:12:42.757] [main/INFO] [quark/]: Loading Module Iron Plates
+[21Aug2025 01:12:42.758] [main/INFO] [quark/]: Loading Module Item Frames
+[21Aug2025 01:12:42.758] [main/INFO] [quark/]: Loading Module Leaf Carpet
+[21Aug2025 01:12:42.758] [main/INFO] [quark/]: Loading Module Lit Lamp
+[21Aug2025 01:12:42.759] [main/INFO] [quark/]: Loading Module Midori
+[21Aug2025 01:12:42.759] [main/INFO] [quark/]: Loading Module More Brick Types
+[21Aug2025 01:12:42.759] [main/INFO] [quark/]: Loading Module More Potted Plants
+[21Aug2025 01:12:42.760] [main/INFO] [quark/]: Loading Module More Stone Variants
+[21Aug2025 01:12:42.760] [main/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[21Aug2025 01:12:42.761] [main/INFO] [quark/]: Loading Module Paper Decor
+[21Aug2025 01:12:42.762] [main/INFO] [quark/]: Loading Module Quilted Wool
+[21Aug2025 01:12:42.762] [main/INFO] [quark/]: Loading Module Rope
+[21Aug2025 01:12:42.762] [main/INFO] [quark/]: Loading Module Shallow Dirt
+[21Aug2025 01:12:42.763] [main/INFO] [quark/]: Loading Module Shingles
+[21Aug2025 01:12:42.764] [main/INFO] [quark/]: Loading Module Soul Sandstone
+[21Aug2025 01:12:42.764] [main/INFO] [quark/]: Loading Module Stained Planks
+[21Aug2025 01:12:42.765] [main/INFO] [quark/]: Loading Module Stools
+[21Aug2025 01:12:42.765] [main/INFO] [quark/]: Loading Module Sturdy Stone
+[21Aug2025 01:12:42.766] [main/INFO] [quark/]: Loading Module Tallow And Candles
+[21Aug2025 01:12:42.767] [main/INFO] [quark/]: Loading Module Thatch
+[21Aug2025 01:12:42.767] [main/INFO] [quark/]: Loading Module Tie Leads To Fences
+[21Aug2025 01:12:42.768] [main/INFO] [quark/]: Loading Module Turf
+[21Aug2025 01:12:42.769] [main/INFO] [quark/]: Loading Module Variant Bookshelves
+[21Aug2025 01:12:42.769] [main/INFO] [quark/]: Loading Module Variant Chests
+[21Aug2025 01:12:42.772] [main/INFO] [quark/]: Loading Module Variant Ladders
+[21Aug2025 01:12:42.772] [main/INFO] [quark/]: Loading Module Vertical Planks
+[21Aug2025 01:12:42.773] [main/INFO] [quark/]: Loading Module Vertical Slabs
+[21Aug2025 01:12:42.773] [main/INFO] [quark/]: Loading Module Wooden Posts
+[21Aug2025 01:12:42.774] [main/INFO] [quark/]: Loading Module Chests In Boats
+[21Aug2025 01:12:42.775] [main/INFO] [quark/]: Loading Module Easy Transfering
+[21Aug2025 01:12:42.775] [main/INFO] [quark/]: Loading Module Hotbar Changer
+[21Aug2025 01:12:42.775] [main/INFO] [quark/]: Loading Module Inventory Sorting
+[21Aug2025 01:12:42.776] [main/INFO] [quark/]: Loading Module Item Sharing
+[21Aug2025 01:12:42.776] [main/INFO] [quark/]: Loading Module Right Click Armor
+[21Aug2025 01:12:42.777] [main/INFO] [quark/]: Loading Module Shulker Box Right Click
+[21Aug2025 01:12:42.778] [main/INFO] [quark/]: Loading Module Endermosh Music Disc
+[21Aug2025 01:12:42.778] [main/INFO] [quark/]: Loading Module Abacus
+[21Aug2025 01:12:42.779] [main/INFO] [quark/]: Loading Module Ambient Discs
+[21Aug2025 01:12:42.780] [main/INFO] [quark/]: Loading Module Ancient Tomes
+[21Aug2025 01:12:42.781] [main/INFO] [quark/]: Loading Module Bottled Cloud
+[21Aug2025 01:12:42.782] [main/INFO] [quark/]: Loading Module Camera
+[21Aug2025 01:12:42.782] [main/INFO] [quark/]: Loading Module Color Runes
+[21Aug2025 01:12:42.784] [main/INFO] [quark/]: Loading Module Pathfinder Maps
+[21Aug2025 01:12:42.785] [main/INFO] [quark/]: Loading Module Pickarang
+[21Aug2025 01:12:42.785] [main/INFO] [quark/]: Loading Module Seed Pouch
+[21Aug2025 01:12:42.787] [main/INFO] [quark/]: Loading Module Slime In A Bucket
+[21Aug2025 01:12:42.787] [main/INFO] [quark/]: Loading Module Trowel
+[21Aug2025 01:12:42.788] [main/INFO] [quark/]: Loading Module Skull Pikes
+[21Aug2025 01:12:42.789] [main/INFO] [quark/]: Loading Module Armed Armor Stands
+[21Aug2025 01:12:42.790] [main/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[21Aug2025 01:12:42.791] [main/INFO] [quark/]: Loading Module Axe Leaf Harvesting
+[21Aug2025 01:12:42.792] [main/INFO] [quark/]: Loading Module Better Elytra Rocket
+[21Aug2025 01:12:42.792] [main/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[21Aug2025 01:12:42.793] [main/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[21Aug2025 01:12:42.794] [main/INFO] [quark/]: Loading Module Dirt To Path
+[21Aug2025 01:12:42.795] [main/INFO] [quark/]: Loading Module Double Door Opening
+[21Aug2025 01:12:42.795] [main/INFO] [quark/]: Loading Module Dragon Scales
+[21Aug2025 01:12:42.796] [main/INFO] [quark/]: Loading Module Emotes
+[21Aug2025 01:12:42.797] [main/INFO] [quark/]: Loading Module Enhanced Ladders
+[21Aug2025 01:12:42.798] [main/INFO] [quark/]: Loading Module Glass Shard
+[21Aug2025 01:12:42.799] [main/INFO] [quark/]: Loading Module Hoe Harvesting
+[21Aug2025 01:12:42.799] [main/INFO] [quark/]: Loading Module Improved Sleeping
+[21Aug2025 01:12:42.801] [main/INFO] [quark/]: Loading Module Infinity Bucket
+[21Aug2025 01:12:42.802] [main/INFO] [quark/]: Loading Module Lava Bucket As Trash
+[21Aug2025 01:12:42.803] [main/INFO] [quark/]: Loading Module Lock Rotation
+[21Aug2025 01:12:42.805] [main/INFO] [quark/]: Loading Module More Banner Layers
+[21Aug2025 01:12:42.806] [main/INFO] [quark/]: Loading Module Note Block Mob Sounds
+[21Aug2025 01:12:42.809] [main/INFO] [quark/]: Loading Module Pat The Dogs
+[21Aug2025 01:12:42.811] [main/INFO] [quark/]: Loading Module Poison Potato Usage
+[21Aug2025 01:12:42.812] [main/INFO] [quark/]: Loading Module Reacharound Placing
+[21Aug2025 01:12:42.813] [main/INFO] [quark/]: Loading Module Replace Scaffolding
+[21Aug2025 01:12:42.814] [main/INFO] [quark/]: Loading Module Sign Editing
+[21Aug2025 01:12:42.816] [main/INFO] [quark/]: Loading Module Simple Harvest
+[21Aug2025 01:12:42.817] [main/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[21Aug2025 01:12:42.818] [main/INFO] [quark/]: Loading Module Springy Slime
+[21Aug2025 01:12:42.819] [main/INFO] [quark/]: Loading Module Utility Recipes
+[21Aug2025 01:12:42.820] [main/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[21Aug2025 01:12:42.821] [main/INFO] [quark/]: Loading Module Big Dungeon
+[21Aug2025 01:12:42.822] [main/INFO] [quark/]: Loading Module Big Stone Clusters
+[21Aug2025 01:12:42.823] [main/INFO] [quark/]: Loading Module Biotite
+[21Aug2025 01:12:42.823] [main/INFO] [quark/]: Loading Module Blossom Trees
+[21Aug2025 01:12:42.825] [main/INFO] [quark/]: Loading Module Cave Roots
+[21Aug2025 01:12:42.825] [main/INFO] [quark/]: Loading Module Chorus Vegetation
+[21Aug2025 01:12:42.826] [main/INFO] [quark/]: Loading Module Crevices
+[21Aug2025 01:12:42.826] [main/INFO] [quark/]: Loading Module Deepslate
+[21Aug2025 01:12:42.826] [main/INFO] [quark/]: Loading Module Fairy Rings
+[21Aug2025 01:12:42.827] [main/INFO] [quark/]: Loading Module Mega Caves
+[21Aug2025 01:12:42.827] [main/INFO] [quark/]: Loading Module Monster Box
+[21Aug2025 01:12:42.828] [main/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[21Aug2025 01:12:42.829] [main/INFO] [quark/]: Loading Module New Stone Types
+[21Aug2025 01:12:42.830] [main/INFO] [quark/]: Loading Module Realistic World Gen
+[21Aug2025 01:12:42.830] [main/INFO] [quark/]: Loading Module Speleothems
+[21Aug2025 01:12:42.832] [main/INFO] [quark/]: Loading Module Spiral Spires
+[21Aug2025 01:12:42.834] [main/INFO] [quark/]: Loading Module Underground Clay
+[21Aug2025 01:12:42.834] [main/INFO] [quark/]: Loading Module Brimstone Underground Biome
+[21Aug2025 01:12:42.835] [main/INFO] [quark/]: Loading Module Cave Crystal Underground Biome
+[21Aug2025 01:12:42.835] [main/INFO] [quark/]: Loading Module Elder Prismarine Underground Biome
+[21Aug2025 01:12:42.836] [main/INFO] [quark/]: Loading Module Glowshroom Underground Biome
+[21Aug2025 01:12:42.836] [main/INFO] [quark/]: Loading Module Lush Underground Biome
+[21Aug2025 01:12:42.836] [main/INFO] [quark/]: Loading Module Overgrown Underground Biome
+[21Aug2025 01:12:42.837] [main/INFO] [quark/]: Loading Module Permafrost Underground Biome
+[21Aug2025 01:12:42.837] [main/INFO] [quark/]: Loading Module Sandstone Underground Biome
+[21Aug2025 01:12:42.838] [main/INFO] [quark/]: Loading Module Slime Underground Biome
+[21Aug2025 01:12:42.838] [main/INFO] [quark/]: Loading Module Spider Nest Underground Biome
+[21Aug2025 01:12:42.839] [main/INFO] [quark/]: Loading Module Crabs
+[21Aug2025 01:12:42.840] [main/INFO] [quark/]: Loading Module Forgotten
+[21Aug2025 01:12:42.841] [main/INFO] [quark/]: Loading Module Foxhound
+[21Aug2025 01:12:42.842] [main/INFO] [quark/]: Loading Module Frogs
+[21Aug2025 01:12:42.844] [main/INFO] [quark/]: Loading Module Stonelings
+[21Aug2025 01:12:42.845] [main/INFO] [quark/]: Loading Module Toretoise
+[21Aug2025 01:12:42.846] [main/INFO] [quark/]: Loading Module Wraith
+[21Aug2025 01:12:42.846] [main/INFO] [quark/]: Loading Module Auto Walk Keybind
+[21Aug2025 01:12:42.847] [main/INFO] [quark/]: Loading Module Back Button Keybind
+[21Aug2025 01:12:42.847] [main/INFO] [quark/]: Loading Module Chest Searching
+[21Aug2025 01:12:42.847] [main/INFO] [quark/]: Loading Module Greener Grass
+[21Aug2025 01:12:42.848] [main/INFO] [quark/]: Loading Module Improved Mount Hud
+[21Aug2025 01:12:42.848] [main/INFO] [quark/]: Loading Module Improved Tooltips
+[21Aug2025 01:12:42.848] [main/INFO] [quark/]: Loading Module Usage Ticker
+[21Aug2025 01:12:42.849] [main/INFO] [quark/]: Loading Module Variant Animal Textures
+[21Aug2025 01:12:42.849] [main/INFO] [quark/]: Loading Module Backpack
+[21Aug2025 01:12:42.849] [main/INFO] [quark/]: Loading Module Crate
+[21Aug2025 01:12:42.850] [main/INFO] [quark/]: Loading Module Magnets
+[21Aug2025 01:12:42.851] [main/INFO] [quark/]: Loading Module Matrix Enchanting
+[21Aug2025 01:12:42.851] [main/INFO] [quark/]: Loading Module Pipes
+[21Aug2025 01:12:42.851] [main/INFO] [quark/]: Loading Module Totem Of Holding
+[21Aug2025 01:12:42.851] [main/INFO] [quark/]: Loading Module Adjustable Chat
+[21Aug2025 01:12:42.853] [main/INFO] [quark/]: Loading Module Custom Underground Biome
+[21Aug2025 01:12:42.853] [main/INFO] [quark/]: Loading Module Game Nerfs
+[21Aug2025 01:12:42.853] [main/INFO] [quark/]: Loading Module Microcrafting Helper
+[21Aug2025 01:12:42.854] [main/INFO] [quark/]: Loading Module Narrator Readout
+[21Aug2025 01:12:42.854] [main/INFO] [quark/]: Loading Module Overlay Shader
+[21Aug2025 01:12:42.854] [main/INFO] [quark/]: Loading Module Pallet
+[21Aug2025 01:12:42.855] [main/INFO] [quark/]: Loading Module Shiba
+[21Aug2025 01:12:43.026] [modloading-worker-0/INFO] [Mekanism/]: Version 10.1.2 initializing...
+[21Aug2025 01:12:43.171] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[21Aug2025 01:12:43.171] [modloading-worker-0/INFO] [Mekanism/]: Loading complete.
+[21Aug2025 01:12:43.171] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
+[21Aug2025 01:12:43.193] [modloading-worker-1/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[21Aug2025 01:12:43.195] [modloading-worker-1/INFO] [com.glektarssza.creategogglescurio.CreateGogglesCurio/]: Initializing CreateGogglesCurio...
+[21Aug2025 01:12:43.195] [modloading-worker-1/WARN] [com.glektarssza.creategogglescurio.CreateGogglesCurio/]: CreateGogglesCurio only provides a datapack for servers!
+[21Aug2025 01:12:43.196] [modloading-worker-1/WARN] [com.glektarssza.creategogglescurio.CreateGogglesCurio/]: Skipping initialization!
+[21Aug2025 01:12:43.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hourglass] Starting version check at https://raw.githubusercontent.com/DuckyCrayfish/hourglass/main/res/versions.json
+[21Aug2025 01:12:43.302] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[21Aug2025 01:12:43.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hourglass] Found status: UP_TO_DATE Current: 1.2.1.0 Target: null
+[21Aug2025 01:12:43.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[21Aug2025 01:12:43.697] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[21Aug2025 01:12:43.754] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[21Aug2025 01:12:43.756] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[21Aug2025 01:12:43.757] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[21Aug2025 01:12:43.836] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
+[21Aug2025 01:12:43.836] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[21Aug2025 01:12:43.840] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[21Aug2025 01:12:43.858] [modloading-worker-2/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.common.capability.ManaCapability:register:62]: Finished Registering ManaCapability
+[21Aug2025 01:12:43.862] [modloading-worker-2/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.api.familiar.FamiliarCap:register:97]: Finished Registering FamiliarCap
+[21Aug2025 01:12:43.881] [modloading-worker-2/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.common.network.Networking:registerMessages:27]: Registering packets!!
+[21Aug2025 01:12:43.898] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:leash_knot_fake, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:43.931] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wraith, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:43.945] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wrapped, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:43.953] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:toretoise, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:43.963] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:crab, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:43.964] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:foxhound, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:43.970] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:stoneling, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:43.991] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:shiba, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:44.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.8.6 Target: null
+[21Aug2025 01:12:44.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [creategogglescurio] Starting version check at https://raw.githubusercontent.com/glektarssza/minecraft-create-goggles-curio/master/forge-update.json
+[21Aug2025 01:12:44.040] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:forgotten, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:44.060] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:frog, use EntityAttributeCreationEvent instead.
+[21Aug2025 01:12:44.073] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [creategogglescurio] Found status: UP_TO_DATE Current: 0.0.4 Target: null
+[21Aug2025 01:12:44.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Aug2025 01:12:44.111] [main/INFO] [journeymap/]: Initializing Packet Registries
+[21Aug2025 01:12:44.541] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[21Aug2025 01:12:44.541] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[21Aug2025 01:12:45.153] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mekanism.common.integration.lookingat.hwyla.MekanismHwylaPlugin
+[21Aug2025 01:12:45.155] [modloading-worker-1/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
+[21Aug2025 01:12:45.173] [modloading-worker-1/INFO] [Waila/]: Registered plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[21Aug2025 01:12:45.225] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
+[21Aug2025 01:12:45.228] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
+[21Aug2025 01:12:45.240] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[21Aug2025 01:12:45.925] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[21Aug2025 01:12:45.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[21Aug2025 01:12:46.233] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[21Aug2025 01:12:46.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[21Aug2025 01:12:46.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.2.24 Target: 1.2.24
+[21Aug2025 01:12:46.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jojo] Starting version check at https://raw.githubusercontent.com/StandoByte/Ripples-of-the-Past/1.16.5-0.2.2/update.json
+[21Aug2025 01:12:46.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jojo] Found status: OUTDATED Current: 0.2.2 Target: 0.2.2-pre3
+[21Aug2025 01:12:46.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rotp_mih] Starting version check at https://raw.githubusercontent.com/Weever1337/MadeInHeavenRotpAddon/main/update.json
+[21Aug2025 01:12:46.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rotp_mih] Found status: AHEAD Current: 1.2.5-1 Target: null
+[21Aug2025 01:12:54.046] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Aug2025 01:12:55.148] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bone, full] and [bone, targets] with inputs: [true, false]
+[21Aug2025 01:12:55.221] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, cart1] and [c, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21Aug2025 01:12:55.222] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, carts] and [c, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21Aug2025 01:12:55.228] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, cart1] and [c, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21Aug2025 01:12:55.229] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, carts] and [c, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21Aug2025 01:12:55.235] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21Aug2025 01:12:55.244] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [ftbchunks, admin, view_loaded_chunks, reset] and [ftbchunks, admin, view_loaded_chunks, dimension] with inputs: [reset]
+[21Aug2025 01:12:55.251] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [ftbteams, info, server_id] and [ftbteams, info, team] with inputs: [server_id]
+[21Aug2025 01:12:55.264] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, aim] and [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, target] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21Aug2025 01:12:55.269] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [mahousummon, wepproj, stack, pos, proj_speed, acc, aim] and [mahousummon, wepproj, stack, pos, proj_speed, acc, target] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21Aug2025 01:12:55.275] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+[21Aug2025 01:12:55.277] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[21Aug2025 01:12:55.283] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+[21Aug2025 01:12:55.287] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+[21Aug2025 01:12:55.293] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+[21Aug2025 01:12:55.294] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+[21Aug2025 01:12:55.299] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+[21Aug2025 01:12:55.303] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+[21Aug2025 01:12:55.305] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+[21Aug2025 01:12:55.310] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[21Aug2025 01:12:55.312] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[21Aug2025 01:12:55.317] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+[21Aug2025 01:12:55.321] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+[21Aug2025 01:12:55.338] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21Aug2025 01:12:55.342] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21Aug2025 01:12:55.344] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21Aug2025 01:12:55.349] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21Aug2025 01:12:55.352] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21Aug2025 01:12:55.356] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21Aug2025 01:12:55.360] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[21Aug2025 01:12:55.361] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[21Aug2025 01:12:55.385] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, create-stuff-additions1.16.5_v1.1.6.jar, mowziesmobs-1.5.27.jar, BetterDungeons-1.16.4-1.2.1.jar, RotP-Metallica-1.0.5 (1).jar, supermartijn642configlib-1.1.8-forge-mc1.16.jar, player-animation-lib-forge-0.4.0+1.16.5.jar, CustomSkinLoader_ForgeV1-14.24.jar, jei-1.16.5-7.8.0.1009.jar, HealthOverlay-1.16.5-3.0.1.jar, Pehkui-3.8.2+1.16.5-forge (1).jar, Mekanism-1.16.5-10.1.2.457.jar, hourglass-1.16.5-1.2.1.0.jar, Waystones_1.16.5-7.6.4.jar, journeymap-1.16.5-5.8.6.jar, citadel-1.8.1-1.16.5.jar, Artifacts-1.16.5-2.10.6.jar, YungsApi-1.16.4-Forge-13.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, mahoutsukai-1.16.5-v1.34.62.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, MekanismGenerators-1.16.5-10.1.2.457.jar, carryon-1.16.5-1.15.6.24.jar, creategogglescurio-1.16.5-0.0.4.jar, skinlayers3d-forge-1.7.5-mc1.16.5.jar, dummmmmmy-1.16.5-1.3.3.jar, tl_skin_cape_forge_1.16.5-1.19.jar, durabilitytooltip-1.1.5-forge-mc1.16.jar, emotecraft-for-MC1.16.5-2.2.5-forge.jar, selene-1.16.5-1.9.0.jar, corpse-1.16.5-1.0.6.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, TConstruct-1.16.5-3.3.4.335.jar, FarmersDelight-1.16.5-0.6.0.jar, voicechat-forge-1.16.5-2.5.30.jar, EasierSleeping-1.16.5-2.0.0.jar, Jade-1.16.4-2.8.3.jar, endrem-5.0.3-R-1.16.5.jar, L_Enders Cataclysm-0.48 Changed Theme -1.16.5.jar, flywheel-1.16-0.2.5.jar, create-mc1.16.5_v0.3.2g.jar, farmersrespite-1.16.5-1.1.jar, curios-forge-1.16.5-4.1.0.0.jar, relics-1.16.5-0.3.4.4.jar, Patchouli-1.16.4-53.3.jar, Mantle-1.16.5-1.6.157.jar, polymorph-forge-1.16.5-0.41.jar, AutoRegLib-1.6-49.jar, Quark-r2.4-322.jar, sit-1.16.5-v1.3.2.jar, worldedit-mod-7.2.5-dist.jar, architectury-1.32.68.jar, ftb-library-forge-1605.3.4-build.90.jar, ftb-teams-forge-1605.2.3-build.40.jar, ftb-chunks-forge-1605.3.4-build.220.jar, appleskin-forge-mc1.16.x-2.5.1.jar, toms_storage-1.16.5-1.2.24.jar, expandability-2.0.1-forge.jar, CosmeticArmorReworked-1.16.5-v5a.jar, geckolib-forge-1.16.5-3.0.106.jar, ars_nouveau-1.16.5-1.25.10.jar, JJBA-RipplesOfThePast-1.16.5-0.2.2 (1).jar, RotP-DiverDown-1.1.2-hotfix1.jar, RotP-Bad_Company-1.0.8.jar, RotP-StoneLegacy-1.2.1.jar, RotP-White Album-1.1.6 (1).jar, RotP-WonderOfYou-1.0.2c.jar, RotP-KingCrimson-1.0.2 (1).jar, RotP-Harvest-1.0.1-1-250321 (1).jar, RotP-Cream-1.1.1.jar, RotP-Stone-Free-1.4.2d.jar, RotP-Hermit Purple-1.2.12 (1).jar, RotP-MadeInHeaven-1.2.5-1 (2).jar, RotP-WeatherReport-1.4.1 (1).jar, RotP-Whitesnake-BETA-1.0.9 (2).jar, RotP-Soft-And-Wet-1.1 (1).jar, RotP-ChariotRequiem-1.2.1 (1).jar, RotP-Tusk-1.0.1 (1).jar, RotP-CMoon-1.4.3 (3).jar, RotP-WayToHeaven-1.3.3 (1).jar, RotP-PurpleHaze-1.0.4 (1).jar, RotP-Killer_Queen-1.6.7 (1).jar, RotP-The-Hand-1.1.8b.jar
+[21Aug2025 01:12:59.628] [Worker-Main-5/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load entity_type tag rotp_zwa:irreflectable as it is missing following references: ropt_zhp:hp_grab_vine (from RotP-White Album-1.1.6 (1).jar)
+[21Aug2025 01:13:00.499] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 67 recipes
+[21Aug2025 01:13:02.836] [Worker-Main-5/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement toms_storage:unlock_netherite: Unknown item id 'minecraft:netherite'
+[21Aug2025 01:13:03.008] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2483 advancements
+[21Aug2025 01:13:03.375] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 60 materials in 16.290888 ms
+[21Aug2025 01:13:03.463] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 128 stats loaded for 67 materials in 87.688286 ms
+[21Aug2025 01:13:03.544] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 56 traits loaded for 67 materials in 80.22186 ms
+[21Aug2025 01:13:03.585] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 15 station slot layouts in 35.615067 ms
+[21Aug2025 01:13:08.610] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [create:non_movable, minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, forge:ores/biotite, farmersdelight:unaffected_by_rich_soil, quark:planks_vertical_slab, forge:wooden_fences, ars_nouveau:sylph/greatly_likes, cataclysm:netherite_monstrosity_break, quark:stools, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, toms_storage:remote_activate, tconstruct:slimy_leaves, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, ars_nouveau:harvest/stems, forge:ores/mana_gem, tconstruct:harvestable/stackable, forge:glass_panes/light_blue, minecraft:beehives, tconstruct:slimy_nylium, minecraft:ice, quark:candles, forge:ores/zinc, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, quark:quilted_wools, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, tconstruct:harvestable, tconstruct:foundry/floor, forge:storage_blocks/uranium, tconstruct:foundry/tanks, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, create:seats, ftbchunks:interact_whitelist, tconstruct:smeltery/tanks, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, create:wrench_pickup, minecraft:prevent_mob_spawning_inside, minecraft:climbable, minecraft:leaves/archwood_leaves, forge:chests/trapped, forge:fence_gates, cataclysm:altar_destroy_immune, minecraft:dark_oak_logs, farmersdelight:compost_activators, forge:storage_blocks/steel, ars_nouveau:magic_saplings, quark:ladders, tconstruct:scorched_blocks, forge:planks, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, ceramics:cistern_connections, forge:storage_blocks/copper, forge:glass_panes/colorless, tconstruct:chrysophilite_ores, ars_nouveau:an_decorative/stone, forge:ores/fluorite, forge:storage_blocks/refined_glowstone, tconstruct:seared_blocks, forge:storage_blocks/bronze, tconstruct:slimy_soil/earth, forge:storage_blocks/soulsteel, create:safe_nbt, minecraft:fences, minecraft:saplings, forge:storage_blocks/tin, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, tconstruct:seared_bricks, forge:ores/diamond, minecraft:unstable_bottom_center, forge:ores/lead, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, tconstruct:slimy_soil/vanilla, forge:relocation_not_supported, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, forge:storage_blocks/knightslime, minecraft:wall_post_override, tconstruct:anvil_metal, toms_storage:trims, forge:obsidian, tconstruct:slimy_nylium/ichor, forge:enderman_place_on_blacklist, forge:chests/electric, forge:ores/tin, forge:glass/white, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:storage_blocks/osmium, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, mekanism:cardboard_blacklist, minecraft:base_stone_nether, minecraft:wall_signs, tconstruct:seared_tanks, create:fan_transparent, carryon:block_whitelist, forge:storage_blocks/end_crystal, minecraft:logs/archwood, forge:sand/colorless, minecraft:trapdoors, ars_nouveau:harvest/fellable, tconstruct:smeltery/floor, tconstruct:slimy_grass/sky, forge:glass/cyan, quark:crab_spawnable, forge:glass, tconstruct:harvestable/crops, minecraft:soul_speed_blocks, forge:storage_blocks/charcoal, tconstruct:skyroot_logs, forge:wooden_doors, tconstruct:slimy_soil/sky, minecraft:leaves, minecraft:walls, tconstruct:slimy_logs, minecraft:coral_blocks, tconstruct:slimy_grass, forge:storage_blocks/rose_gold, forge:storage_blocks/brass, forge:glass/green, forge:storage_blocks/lead, forge:ores/end_crystal, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, tconstruct:slimy_soil/ender, cataclysm:ignis_can_destroy_cracked_block, forge:storage_blocks/silicon_bronze, tconstruct:slimy_tree_trunks, forge:stained_glass_panes, rotp_zwa:ice_layer_speed, minecraft:underwater_bonemeals, forge:storage_blocks/queens_slime, forge:storage_blocks/zinc, forge:sand/red, ftbchunks:edit_whitelist, minecraft:impermeable, forge:workbenches, minecraft:sand, forge:end_stones, forge:storage_blocks/fluorite, forge:glass/brown, create:sails, minecraft:logs_that_burn, forge:wg_stone, forge:fences/wooden, sereneseasons:summer_crops, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, tconstruct:fuel_tanks, ars_nouveau:an_decorative, forge:glass_panes/orange, forge:glass/light_gray, tconstruct:slimy_soil, forge:ores/quartz, forge:ores/cobalt, minecraft:wooden_slabs, forge:glass/blue, create:toolboxes, minecraft:small_flowers, ars_nouveau:harvest/foliage, forge:storage_blocks/refined_obsidian, mekanism:atomic_disassembler_ore, minecraft:wooden_trapdoors, create:valve_handles, forge:ores/osmium, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, farmersdelight:wild_crops, jade:pick, forge:storage_blocks/redstone, sereneseasons:winter_crops, forge:glass_panes/blue, minecraft:stairs, forge:logs/archwood, quark:underground_biome_replaceable, sereneseasons:unbreakable_infertile_crops, tconstruct:slimy_nylium/blood, tconstruct:bloodshroom_logs, minecraft:logs, tconstruct:tables, tconstruct:slimy_saplings, forge:stone, mekanism:miner_blacklist, minecraft:valid_spawn, minecraft:mushroom_grow_block, quark:wraith_spawnable, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, tconstruct:planklike, forge:glass/purple, ars_nouveau:magic_plants, quark:slime_blocks, minecraft:fences/wooden, minecraft:crimson_stems, quark:vertical_slab, minecraft:wart_blocks, minecraft:planks/archwood, quark:hedges, farmersdelight:heat_conductors, tconstruct:tree_log, cataclysm:ender_guardian_can_destroy, tconstruct:slime_block, minecraft:beacon_base_blocks, tconstruct:scorched_tanks, minecraft:shulker_boxes, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, tconstruct:slimy_planks, tconstruct:slimy_grass/ender, forge:sand, minecraft:wall_corals, create:fan_heaters, iceandfire:myrmex_harvestables, forge:glass_panes/purple, tconstruct:slimy_soil/ichor, forge:glass/yellow, quark:pike_trophies, minecraft:oak_logs, forge:ores/gold, forge:storage_blocks/hepatizon, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, forge:storage_blocks/slimesteel, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, quark:lead_connectable, forge:storage_blocks/pig_iron, minecraft:pressure_plates, create:windowable, forge:storage_blocks/biotite, minecraft:jungle_logs, forge:chests/ender, cataclysm:netherite_monstrosity_immune, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, quark:crystal, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, ars_nouveau:sylph/kinda_likes, forge:ores/uranium, forge:glass/orange, forge:glass_panes/lime, forge:storage_blocks/manyullyn, create:windmill_sails, sereneseasons:spring_crops, forge:planks/archwood, endrem:end_crystal_gen, tconstruct:foundry/wall, tconstruct:smeltery/wall, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:logs, rotp_zwa:ice_break, tconstruct:greenheart_logs, tconstruct:congealed_slime, cataclysm:ender_golem_can_destroy, cataclysm:ignis_immune, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:storage_blocks/cobalt, quark:foxhound_spawnable, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, tconstruct:harvestable/interact, tconstruct:slimy_grass/earth, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, tconstruct:foundry, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, tconstruct:alloyer_tanks, create:brittle, minecraft:tall_flowers, cataclysm:endermaptera_can_not_spawn, forge:fences, forge:doors, tconstruct:heater_controllers, forge:bookshelves, minecraft:stone_pressure_plates, forge:storage_blocks/diamond, minecraft:nylium, minecraft:gold_ores, forge:glass_panes/pink, rotp_zwa:ice_speed, tconstruct:smeltery, forge:chests/personal, forge:netherrack]
+[21Aug2025 01:13:08.614] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [create:non_movable, minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, forge:ores/biotite, farmersdelight:unaffected_by_rich_soil, quark:planks_vertical_slab, forge:wooden_fences, ars_nouveau:sylph/greatly_likes, cataclysm:netherite_monstrosity_break, quark:stools, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, toms_storage:remote_activate, tconstruct:slimy_leaves, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, ars_nouveau:harvest/stems, forge:ores/mana_gem, tconstruct:harvestable/stackable, forge:glass_panes/light_blue, minecraft:beehives, tconstruct:slimy_nylium, minecraft:ice, quark:candles, forge:ores/zinc, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, quark:quilted_wools, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, tconstruct:harvestable, tconstruct:foundry/floor, forge:storage_blocks/uranium, tconstruct:foundry/tanks, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, create:seats, ftbchunks:interact_whitelist, tconstruct:smeltery/tanks, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, create:wrench_pickup, minecraft:prevent_mob_spawning_inside, minecraft:climbable, minecraft:leaves/archwood_leaves, forge:chests/trapped, forge:fence_gates, cataclysm:altar_destroy_immune, minecraft:dark_oak_logs, farmersdelight:compost_activators, forge:storage_blocks/steel, ars_nouveau:magic_saplings, quark:ladders, tconstruct:scorched_blocks, forge:planks, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, ceramics:cistern_connections, forge:storage_blocks/copper, forge:glass_panes/colorless, tconstruct:chrysophilite_ores, ars_nouveau:an_decorative/stone, forge:ores/fluorite, forge:storage_blocks/refined_glowstone, tconstruct:seared_blocks, forge:storage_blocks/bronze, tconstruct:slimy_soil/earth, forge:storage_blocks/soulsteel, create:safe_nbt, minecraft:fences, minecraft:saplings, forge:storage_blocks/tin, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, tconstruct:seared_bricks, forge:ores/diamond, minecraft:unstable_bottom_center, forge:ores/lead, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, tconstruct:slimy_soil/vanilla, forge:relocation_not_supported, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, forge:storage_blocks/knightslime, minecraft:wall_post_override, tconstruct:anvil_metal, toms_storage:trims, forge:obsidian, tconstruct:slimy_nylium/ichor, forge:enderman_place_on_blacklist, forge:chests/electric, forge:ores/tin, forge:glass/white, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:storage_blocks/osmium, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, mekanism:cardboard_blacklist, minecraft:base_stone_nether, minecraft:wall_signs, tconstruct:seared_tanks, create:fan_transparent, carryon:block_whitelist, forge:storage_blocks/end_crystal, minecraft:logs/archwood, forge:sand/colorless, minecraft:trapdoors, ars_nouveau:harvest/fellable, tconstruct:smeltery/floor, tconstruct:slimy_grass/sky, forge:glass/cyan, quark:crab_spawnable, forge:glass, tconstruct:harvestable/crops, minecraft:soul_speed_blocks, forge:storage_blocks/charcoal, tconstruct:skyroot_logs, forge:wooden_doors, tconstruct:slimy_soil/sky, minecraft:leaves, minecraft:walls, tconstruct:slimy_logs, minecraft:coral_blocks, tconstruct:slimy_grass, forge:storage_blocks/rose_gold, forge:storage_blocks/brass, forge:glass/green, forge:storage_blocks/lead, forge:ores/end_crystal, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, tconstruct:slimy_soil/ender, cataclysm:ignis_can_destroy_cracked_block, forge:storage_blocks/silicon_bronze, tconstruct:slimy_tree_trunks, forge:stained_glass_panes, rotp_zwa:ice_layer_speed, minecraft:underwater_bonemeals, forge:storage_blocks/queens_slime, forge:storage_blocks/zinc, forge:sand/red, ftbchunks:edit_whitelist, minecraft:impermeable, forge:workbenches, minecraft:sand, forge:end_stones, forge:storage_blocks/fluorite, forge:glass/brown, create:sails, minecraft:logs_that_burn, forge:wg_stone, forge:fences/wooden, sereneseasons:summer_crops, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, tconstruct:fuel_tanks, ars_nouveau:an_decorative, forge:glass_panes/orange, forge:glass/light_gray, tconstruct:slimy_soil, forge:ores/quartz, forge:ores/cobalt, minecraft:wooden_slabs, forge:glass/blue, create:toolboxes, minecraft:small_flowers, ars_nouveau:harvest/foliage, forge:storage_blocks/refined_obsidian, mekanism:atomic_disassembler_ore, minecraft:wooden_trapdoors, create:valve_handles, forge:ores/osmium, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, farmersdelight:wild_crops, jade:pick, forge:storage_blocks/redstone, sereneseasons:winter_crops, forge:glass_panes/blue, minecraft:stairs, forge:logs/archwood, quark:underground_biome_replaceable, sereneseasons:unbreakable_infertile_crops, tconstruct:slimy_nylium/blood, tconstruct:bloodshroom_logs, minecraft:logs, tconstruct:tables, tconstruct:slimy_saplings, forge:stone, mekanism:miner_blacklist, minecraft:valid_spawn, minecraft:mushroom_grow_block, quark:wraith_spawnable, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, tconstruct:planklike, forge:glass/purple, ars_nouveau:magic_plants, quark:slime_blocks, minecraft:fences/wooden, minecraft:crimson_stems, quark:vertical_slab, minecraft:wart_blocks, minecraft:planks/archwood, quark:hedges, farmersdelight:heat_conductors, tconstruct:tree_log, cataclysm:ender_guardian_can_destroy, tconstruct:slime_block, minecraft:beacon_base_blocks, tconstruct:scorched_tanks, minecraft:shulker_boxes, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, tconstruct:slimy_planks, tconstruct:slimy_grass/ender, forge:sand, minecraft:wall_corals, create:fan_heaters, iceandfire:myrmex_harvestables, forge:glass_panes/purple, tconstruct:slimy_soil/ichor, forge:glass/yellow, quark:pike_trophies, minecraft:oak_logs, forge:ores/gold, forge:storage_blocks/hepatizon, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, forge:storage_blocks/slimesteel, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, quark:lead_connectable, forge:storage_blocks/pig_iron, minecraft:pressure_plates, create:windowable, forge:storage_blocks/biotite, minecraft:jungle_logs, forge:chests/ender, cataclysm:netherite_monstrosity_immune, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, quark:crystal, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, ars_nouveau:sylph/kinda_likes, forge:ores/uranium, forge:glass/orange, forge:glass_panes/lime, forge:storage_blocks/manyullyn, create:windmill_sails, sereneseasons:spring_crops, forge:planks/archwood, endrem:end_crystal_gen, tconstruct:foundry/wall, tconstruct:smeltery/wall, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:logs, rotp_zwa:ice_break, tconstruct:greenheart_logs, tconstruct:congealed_slime, cataclysm:ender_golem_can_destroy, cataclysm:ignis_immune, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:storage_blocks/cobalt, quark:foxhound_spawnable, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, tconstruct:harvestable/interact, tconstruct:slimy_grass/earth, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, tconstruct:foundry, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, tconstruct:alloyer_tanks, create:brittle, minecraft:tall_flowers, cataclysm:endermaptera_can_not_spawn, forge:fences, forge:doors, tconstruct:heater_controllers, forge:bookshelves, minecraft:stone_pressure_plates, forge:storage_blocks/diamond, minecraft:nylium, minecraft:gold_ores, forge:glass_panes/pink, rotp_zwa:ice_speed, tconstruct:smeltery, forge:chests/personal, forge:netherrack]
+[21Aug2025 01:13:11.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[21Aug2025 01:13:11.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Aug2025 01:13:11.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Aug2025 01:13:11.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Aug2025 01:13:11.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Aug2025 01:13:11.972] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[21Aug2025 01:13:12.047] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Aug2025 01:13:12.048] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Aug2025 01:13:12.048] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Aug2025 01:13:12.048] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Aug2025 01:13:12.085] [Thread-0/INFO] [net.lavabucket.hourglass.config.ConfigSynchronizer/]: Synchronizing server config with clients.
+[21Aug2025 01:13:12.088] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Aug2025 01:13:12.103] [Thread-0/INFO] [net.lavabucket.hourglass.config.ConfigSynchronizer/]: Synchronizing server config with clients.
+[21Aug2025 01:13:12.109] [Server thread/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [create:non_movable, minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, forge:ores/biotite, farmersdelight:unaffected_by_rich_soil, quark:planks_vertical_slab, forge:wooden_fences, ars_nouveau:sylph/greatly_likes, cataclysm:netherite_monstrosity_break, quark:stools, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, toms_storage:remote_activate, tconstruct:slimy_leaves, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, ars_nouveau:harvest/stems, forge:ores/mana_gem, tconstruct:harvestable/stackable, forge:glass_panes/light_blue, minecraft:beehives, tconstruct:slimy_nylium, minecraft:ice, quark:candles, forge:ores/zinc, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, quark:quilted_wools, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, tconstruct:harvestable, tconstruct:foundry/floor, forge:storage_blocks/uranium, tconstruct:foundry/tanks, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, create:seats, ftbchunks:interact_whitelist, tconstruct:smeltery/tanks, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, create:wrench_pickup, minecraft:prevent_mob_spawning_inside, minecraft:climbable, minecraft:leaves/archwood_leaves, forge:chests/trapped, forge:fence_gates, cataclysm:altar_destroy_immune, minecraft:dark_oak_logs, farmersdelight:compost_activators, forge:storage_blocks/steel, ars_nouveau:magic_saplings, quark:ladders, tconstruct:scorched_blocks, forge:planks, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, ceramics:cistern_connections, forge:storage_blocks/copper, forge:glass_panes/colorless, tconstruct:chrysophilite_ores, ars_nouveau:an_decorative/stone, forge:ores/fluorite, forge:storage_blocks/refined_glowstone, tconstruct:seared_blocks, forge:storage_blocks/bronze, tconstruct:slimy_soil/earth, forge:storage_blocks/soulsteel, create:safe_nbt, minecraft:fences, minecraft:saplings, forge:storage_blocks/tin, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, tconstruct:seared_bricks, forge:ores/diamond, minecraft:unstable_bottom_center, forge:ores/lead, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, tconstruct:slimy_soil/vanilla, forge:relocation_not_supported, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, forge:storage_blocks/knightslime, minecraft:wall_post_override, tconstruct:anvil_metal, toms_storage:trims, forge:obsidian, tconstruct:slimy_nylium/ichor, forge:enderman_place_on_blacklist, forge:chests/electric, forge:ores/tin, forge:glass/white, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:storage_blocks/osmium, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, mekanism:cardboard_blacklist, minecraft:base_stone_nether, minecraft:wall_signs, tconstruct:seared_tanks, create:fan_transparent, carryon:block_whitelist, forge:storage_blocks/end_crystal, minecraft:logs/archwood, forge:sand/colorless, minecraft:trapdoors, ars_nouveau:harvest/fellable, tconstruct:smeltery/floor, tconstruct:slimy_grass/sky, forge:glass/cyan, quark:crab_spawnable, forge:glass, tconstruct:harvestable/crops, minecraft:soul_speed_blocks, forge:storage_blocks/charcoal, tconstruct:skyroot_logs, forge:wooden_doors, tconstruct:slimy_soil/sky, minecraft:leaves, minecraft:walls, tconstruct:slimy_logs, minecraft:coral_blocks, tconstruct:slimy_grass, forge:storage_blocks/rose_gold, forge:storage_blocks/brass, forge:glass/green, forge:storage_blocks/lead, forge:ores/end_crystal, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, tconstruct:slimy_soil/ender, cataclysm:ignis_can_destroy_cracked_block, forge:storage_blocks/silicon_bronze, tconstruct:slimy_tree_trunks, forge:stained_glass_panes, rotp_zwa:ice_layer_speed, minecraft:underwater_bonemeals, forge:storage_blocks/queens_slime, forge:storage_blocks/zinc, forge:sand/red, ftbchunks:edit_whitelist, minecraft:impermeable, forge:workbenches, minecraft:sand, forge:end_stones, forge:storage_blocks/fluorite, forge:glass/brown, create:sails, minecraft:logs_that_burn, forge:wg_stone, forge:fences/wooden, sereneseasons:summer_crops, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, tconstruct:fuel_tanks, ars_nouveau:an_decorative, forge:glass_panes/orange, forge:glass/light_gray, tconstruct:slimy_soil, forge:ores/quartz, forge:ores/cobalt, minecraft:wooden_slabs, forge:glass/blue, create:toolboxes, minecraft:small_flowers, ars_nouveau:harvest/foliage, forge:storage_blocks/refined_obsidian, mekanism:atomic_disassembler_ore, minecraft:wooden_trapdoors, create:valve_handles, forge:ores/osmium, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, farmersdelight:wild_crops, jade:pick, forge:storage_blocks/redstone, sereneseasons:winter_crops, forge:glass_panes/blue, minecraft:stairs, forge:logs/archwood, quark:underground_biome_replaceable, sereneseasons:unbreakable_infertile_crops, tconstruct:slimy_nylium/blood, tconstruct:bloodshroom_logs, minecraft:logs, tconstruct:tables, tconstruct:slimy_saplings, forge:stone, mekanism:miner_blacklist, minecraft:valid_spawn, minecraft:mushroom_grow_block, quark:wraith_spawnable, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, tconstruct:planklike, forge:glass/purple, ars_nouveau:magic_plants, quark:slime_blocks, minecraft:fences/wooden, minecraft:crimson_stems, quark:vertical_slab, minecraft:wart_blocks, minecraft:planks/archwood, quark:hedges, farmersdelight:heat_conductors, tconstruct:tree_log, cataclysm:ender_guardian_can_destroy, tconstruct:slime_block, minecraft:beacon_base_blocks, tconstruct:scorched_tanks, minecraft:shulker_boxes, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, tconstruct:slimy_planks, tconstruct:slimy_grass/ender, forge:sand, minecraft:wall_corals, create:fan_heaters, iceandfire:myrmex_harvestables, forge:glass_panes/purple, tconstruct:slimy_soil/ichor, forge:glass/yellow, quark:pike_trophies, minecraft:oak_logs, forge:ores/gold, forge:storage_blocks/hepatizon, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, forge:storage_blocks/slimesteel, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, quark:lead_connectable, forge:storage_blocks/pig_iron, minecraft:pressure_plates, create:windowable, forge:storage_blocks/biotite, minecraft:jungle_logs, forge:chests/ender, cataclysm:netherite_monstrosity_immune, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, quark:crystal, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, ars_nouveau:sylph/kinda_likes, forge:ores/uranium, forge:glass/orange, forge:glass_panes/lime, forge:storage_blocks/manyullyn, create:windmill_sails, sereneseasons:spring_crops, forge:planks/archwood, endrem:end_crystal_gen, tconstruct:foundry/wall, tconstruct:smeltery/wall, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:logs, rotp_zwa:ice_break, tconstruct:greenheart_logs, tconstruct:congealed_slime, cataclysm:ender_golem_can_destroy, cataclysm:ignis_immune, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:storage_blocks/cobalt, quark:foxhound_spawnable, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, tconstruct:harvestable/interact, tconstruct:slimy_grass/earth, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, tconstruct:foundry, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, tconstruct:alloyer_tanks, create:brittle, minecraft:tall_flowers, cataclysm:endermaptera_can_not_spawn, forge:fences, forge:doors, tconstruct:heater_controllers, forge:bookshelves, minecraft:stone_pressure_plates, forge:storage_blocks/diamond, minecraft:nylium, minecraft:gold_ores, forge:glass_panes/pink, rotp_zwa:ice_speed, tconstruct:smeltery, forge:chests/personal, forge:netherrack]
+[21Aug2025 01:13:12.113] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: Loading "Easier Sleeping" Server Config
+[21Aug2025 01:13:12.113] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [sleep_percent] = 50
+[21Aug2025 01:13:12.113] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [sleep_message] = is now in bed.
+[21Aug2025 01:13:12.113] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [wake_message] = stood up.
+[21Aug2025 01:13:12.114] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [morning_message] = Good Morning
+[21Aug2025 01:13:12.114] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [dimensions] = [minecraft:overworld]
+[21Aug2025 01:13:12.114] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [dimension_list_type] = SLEEP_ACTIVE
+[21Aug2025 01:13:12.114] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: "Easier Sleeping" Server Config loaded
+[21Aug2025 01:13:12.115] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [create:non_movable, minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, forge:ores/biotite, farmersdelight:unaffected_by_rich_soil, quark:planks_vertical_slab, forge:wooden_fences, ars_nouveau:sylph/greatly_likes, cataclysm:netherite_monstrosity_break, quark:stools, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, toms_storage:remote_activate, tconstruct:slimy_leaves, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, ars_nouveau:harvest/stems, forge:ores/mana_gem, tconstruct:harvestable/stackable, forge:glass_panes/light_blue, minecraft:beehives, tconstruct:slimy_nylium, minecraft:ice, quark:candles, forge:ores/zinc, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, quark:quilted_wools, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, tconstruct:harvestable, tconstruct:foundry/floor, forge:storage_blocks/uranium, tconstruct:foundry/tanks, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, create:seats, ftbchunks:interact_whitelist, tconstruct:smeltery/tanks, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, create:wrench_pickup, minecraft:prevent_mob_spawning_inside, minecraft:climbable, minecraft:leaves/archwood_leaves, forge:chests/trapped, forge:fence_gates, cataclysm:altar_destroy_immune, minecraft:dark_oak_logs, farmersdelight:compost_activators, forge:storage_blocks/steel, ars_nouveau:magic_saplings, quark:ladders, tconstruct:scorched_blocks, forge:planks, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, ceramics:cistern_connections, forge:storage_blocks/copper, forge:glass_panes/colorless, tconstruct:chrysophilite_ores, ars_nouveau:an_decorative/stone, forge:ores/fluorite, forge:storage_blocks/refined_glowstone, tconstruct:seared_blocks, forge:storage_blocks/bronze, tconstruct:slimy_soil/earth, forge:storage_blocks/soulsteel, create:safe_nbt, minecraft:fences, minecraft:saplings, forge:storage_blocks/tin, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, tconstruct:seared_bricks, forge:ores/diamond, minecraft:unstable_bottom_center, forge:ores/lead, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, tconstruct:slimy_soil/vanilla, forge:relocation_not_supported, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, forge:storage_blocks/knightslime, minecraft:wall_post_override, tconstruct:anvil_metal, toms_storage:trims, forge:obsidian, tconstruct:slimy_nylium/ichor, forge:enderman_place_on_blacklist, forge:chests/electric, forge:ores/tin, forge:glass/white, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:storage_blocks/osmium, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, mekanism:cardboard_blacklist, minecraft:base_stone_nether, minecraft:wall_signs, tconstruct:seared_tanks, create:fan_transparent, carryon:block_whitelist, forge:storage_blocks/end_crystal, minecraft:logs/archwood, forge:sand/colorless, minecraft:trapdoors, ars_nouveau:harvest/fellable, tconstruct:smeltery/floor, tconstruct:slimy_grass/sky, forge:glass/cyan, quark:crab_spawnable, forge:glass, tconstruct:harvestable/crops, minecraft:soul_speed_blocks, forge:storage_blocks/charcoal, tconstruct:skyroot_logs, forge:wooden_doors, tconstruct:slimy_soil/sky, minecraft:leaves, minecraft:walls, tconstruct:slimy_logs, minecraft:coral_blocks, tconstruct:slimy_grass, forge:storage_blocks/rose_gold, forge:storage_blocks/brass, forge:glass/green, forge:storage_blocks/lead, forge:ores/end_crystal, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, tconstruct:slimy_soil/ender, cataclysm:ignis_can_destroy_cracked_block, forge:storage_blocks/silicon_bronze, tconstruct:slimy_tree_trunks, forge:stained_glass_panes, rotp_zwa:ice_layer_speed, minecraft:underwater_bonemeals, forge:storage_blocks/queens_slime, forge:storage_blocks/zinc, forge:sand/red, ftbchunks:edit_whitelist, minecraft:impermeable, forge:workbenches, minecraft:sand, forge:end_stones, forge:storage_blocks/fluorite, forge:glass/brown, create:sails, minecraft:logs_that_burn, forge:wg_stone, forge:fences/wooden, sereneseasons:summer_crops, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, tconstruct:fuel_tanks, ars_nouveau:an_decorative, forge:glass_panes/orange, forge:glass/light_gray, tconstruct:slimy_soil, forge:ores/quartz, forge:ores/cobalt, minecraft:wooden_slabs, forge:glass/blue, create:toolboxes, minecraft:small_flowers, ars_nouveau:harvest/foliage, forge:storage_blocks/refined_obsidian, mekanism:atomic_disassembler_ore, minecraft:wooden_trapdoors, create:valve_handles, forge:ores/osmium, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, farmersdelight:wild_crops, jade:pick, forge:storage_blocks/redstone, sereneseasons:winter_crops, forge:glass_panes/blue, minecraft:stairs, forge:logs/archwood, quark:underground_biome_replaceable, sereneseasons:unbreakable_infertile_crops, tconstruct:slimy_nylium/blood, tconstruct:bloodshroom_logs, minecraft:logs, tconstruct:tables, tconstruct:slimy_saplings, forge:stone, mekanism:miner_blacklist, minecraft:valid_spawn, minecraft:mushroom_grow_block, quark:wraith_spawnable, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, tconstruct:planklike, forge:glass/purple, ars_nouveau:magic_plants, quark:slime_blocks, minecraft:fences/wooden, minecraft:crimson_stems, quark:vertical_slab, minecraft:wart_blocks, minecraft:planks/archwood, quark:hedges, farmersdelight:heat_conductors, tconstruct:tree_log, cataclysm:ender_guardian_can_destroy, tconstruct:slime_block, minecraft:beacon_base_blocks, tconstruct:scorched_tanks, minecraft:shulker_boxes, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, tconstruct:slimy_planks, tconstruct:slimy_grass/ender, forge:sand, minecraft:wall_corals, create:fan_heaters, iceandfire:myrmex_harvestables, forge:glass_panes/purple, tconstruct:slimy_soil/ichor, forge:glass/yellow, quark:pike_trophies, minecraft:oak_logs, forge:ores/gold, forge:storage_blocks/hepatizon, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, forge:storage_blocks/slimesteel, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, quark:lead_connectable, forge:storage_blocks/pig_iron, minecraft:pressure_plates, create:windowable, forge:storage_blocks/biotite, minecraft:jungle_logs, forge:chests/ender, cataclysm:netherite_monstrosity_immune, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, quark:crystal, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, ars_nouveau:sylph/kinda_likes, forge:ores/uranium, forge:glass/orange, forge:glass_panes/lime, forge:storage_blocks/manyullyn, create:windmill_sails, sereneseasons:spring_crops, forge:planks/archwood, endrem:end_crystal_gen, tconstruct:foundry/wall, tconstruct:smeltery/wall, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:logs, rotp_zwa:ice_break, tconstruct:greenheart_logs, tconstruct:congealed_slime, cataclysm:ender_golem_can_destroy, cataclysm:ignis_immune, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:storage_blocks/cobalt, quark:foxhound_spawnable, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, tconstruct:harvestable/interact, tconstruct:slimy_grass/earth, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, tconstruct:foundry, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, tconstruct:alloyer_tanks, create:brittle, minecraft:tall_flowers, cataclysm:endermaptera_can_not_spawn, forge:fences, forge:doors, tconstruct:heater_controllers, forge:bookshelves, minecraft:stone_pressure_plates, forge:storage_blocks/diamond, minecraft:nylium, minecraft:gold_ores, forge:glass_panes/pink, rotp_zwa:ice_speed, tconstruct:smeltery, forge:chests/personal, forge:netherrack]
+[21Aug2025 01:13:12.118] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [create:non_movable, minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, forge:ores/biotite, farmersdelight:unaffected_by_rich_soil, quark:planks_vertical_slab, forge:wooden_fences, ars_nouveau:sylph/greatly_likes, cataclysm:netherite_monstrosity_break, quark:stools, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, toms_storage:remote_activate, tconstruct:slimy_leaves, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, ars_nouveau:harvest/stems, forge:ores/mana_gem, tconstruct:harvestable/stackable, forge:glass_panes/light_blue, minecraft:beehives, tconstruct:slimy_nylium, minecraft:ice, quark:candles, forge:ores/zinc, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, quark:quilted_wools, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, tconstruct:harvestable, tconstruct:foundry/floor, forge:storage_blocks/uranium, tconstruct:foundry/tanks, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, create:seats, ftbchunks:interact_whitelist, tconstruct:smeltery/tanks, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, create:wrench_pickup, minecraft:prevent_mob_spawning_inside, minecraft:climbable, minecraft:leaves/archwood_leaves, forge:chests/trapped, forge:fence_gates, cataclysm:altar_destroy_immune, minecraft:dark_oak_logs, farmersdelight:compost_activators, forge:storage_blocks/steel, ars_nouveau:magic_saplings, quark:ladders, tconstruct:scorched_blocks, forge:planks, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, ceramics:cistern_connections, forge:storage_blocks/copper, forge:glass_panes/colorless, tconstruct:chrysophilite_ores, ars_nouveau:an_decorative/stone, forge:ores/fluorite, forge:storage_blocks/refined_glowstone, tconstruct:seared_blocks, forge:storage_blocks/bronze, tconstruct:slimy_soil/earth, forge:storage_blocks/soulsteel, create:safe_nbt, minecraft:fences, minecraft:saplings, forge:storage_blocks/tin, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, tconstruct:seared_bricks, forge:ores/diamond, minecraft:unstable_bottom_center, forge:ores/lead, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, tconstruct:slimy_soil/vanilla, forge:relocation_not_supported, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, forge:storage_blocks/knightslime, minecraft:wall_post_override, tconstruct:anvil_metal, toms_storage:trims, forge:obsidian, tconstruct:slimy_nylium/ichor, forge:enderman_place_on_blacklist, forge:chests/electric, forge:ores/tin, forge:glass/white, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:storage_blocks/osmium, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, mekanism:cardboard_blacklist, minecraft:base_stone_nether, minecraft:wall_signs, tconstruct:seared_tanks, create:fan_transparent, carryon:block_whitelist, forge:storage_blocks/end_crystal, minecraft:logs/archwood, forge:sand/colorless, minecraft:trapdoors, ars_nouveau:harvest/fellable, tconstruct:smeltery/floor, tconstruct:slimy_grass/sky, forge:glass/cyan, quark:crab_spawnable, forge:glass, tconstruct:harvestable/crops, minecraft:soul_speed_blocks, forge:storage_blocks/charcoal, tconstruct:skyroot_logs, forge:wooden_doors, tconstruct:slimy_soil/sky, minecraft:leaves, minecraft:walls, tconstruct:slimy_logs, minecraft:coral_blocks, tconstruct:slimy_grass, forge:storage_blocks/rose_gold, forge:storage_blocks/brass, forge:glass/green, forge:storage_blocks/lead, forge:ores/end_crystal, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, tconstruct:slimy_soil/ender, cataclysm:ignis_can_destroy_cracked_block, forge:storage_blocks/silicon_bronze, tconstruct:slimy_tree_trunks, forge:stained_glass_panes, rotp_zwa:ice_layer_speed, minecraft:underwater_bonemeals, forge:storage_blocks/queens_slime, forge:storage_blocks/zinc, forge:sand/red, ftbchunks:edit_whitelist, minecraft:impermeable, forge:workbenches, minecraft:sand, forge:end_stones, forge:storage_blocks/fluorite, forge:glass/brown, create:sails, minecraft:logs_that_burn, forge:wg_stone, forge:fences/wooden, sereneseasons:summer_crops, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, tconstruct:fuel_tanks, ars_nouveau:an_decorative, forge:glass_panes/orange, forge:glass/light_gray, tconstruct:slimy_soil, forge:ores/quartz, forge:ores/cobalt, minecraft:wooden_slabs, forge:glass/blue, create:toolboxes, minecraft:small_flowers, ars_nouveau:harvest/foliage, forge:storage_blocks/refined_obsidian, mekanism:atomic_disassembler_ore, minecraft:wooden_trapdoors, create:valve_handles, forge:ores/osmium, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, farmersdelight:wild_crops, jade:pick, forge:storage_blocks/redstone, sereneseasons:winter_crops, forge:glass_panes/blue, minecraft:stairs, forge:logs/archwood, quark:underground_biome_replaceable, sereneseasons:unbreakable_infertile_crops, tconstruct:slimy_nylium/blood, tconstruct:bloodshroom_logs, minecraft:logs, tconstruct:tables, tconstruct:slimy_saplings, forge:stone, mekanism:miner_blacklist, minecraft:valid_spawn, minecraft:mushroom_grow_block, quark:wraith_spawnable, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, tconstruct:planklike, forge:glass/purple, ars_nouveau:magic_plants, quark:slime_blocks, minecraft:fences/wooden, minecraft:crimson_stems, quark:vertical_slab, minecraft:wart_blocks, minecraft:planks/archwood, quark:hedges, farmersdelight:heat_conductors, tconstruct:tree_log, cataclysm:ender_guardian_can_destroy, tconstruct:slime_block, minecraft:beacon_base_blocks, tconstruct:scorched_tanks, minecraft:shulker_boxes, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, tconstruct:slimy_planks, tconstruct:slimy_grass/ender, forge:sand, minecraft:wall_corals, create:fan_heaters, iceandfire:myrmex_harvestables, forge:glass_panes/purple, tconstruct:slimy_soil/ichor, forge:glass/yellow, quark:pike_trophies, minecraft:oak_logs, forge:ores/gold, forge:storage_blocks/hepatizon, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, forge:storage_blocks/slimesteel, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, quark:lead_connectable, forge:storage_blocks/pig_iron, minecraft:pressure_plates, create:windowable, forge:storage_blocks/biotite, minecraft:jungle_logs, forge:chests/ender, cataclysm:netherite_monstrosity_immune, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, quark:crystal, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, ars_nouveau:sylph/kinda_likes, forge:ores/uranium, forge:glass/orange, forge:glass_panes/lime, forge:storage_blocks/manyullyn, create:windmill_sails, sereneseasons:spring_crops, forge:planks/archwood, endrem:end_crystal_gen, tconstruct:foundry/wall, tconstruct:smeltery/wall, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:logs, rotp_zwa:ice_break, tconstruct:greenheart_logs, tconstruct:congealed_slime, cataclysm:ender_golem_can_destroy, cataclysm:ignis_immune, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:storage_blocks/cobalt, quark:foxhound_spawnable, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, tconstruct:harvestable/interact, tconstruct:slimy_grass/earth, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, tconstruct:foundry, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, tconstruct:alloyer_tanks, create:brittle, minecraft:tall_flowers, cataclysm:endermaptera_can_not_spawn, forge:fences, forge:doors, tconstruct:heater_controllers, forge:bookshelves, minecraft:stone_pressure_plates, forge:storage_blocks/diamond, minecraft:nylium, minecraft:gold_ores, forge:glass_panes/pink, rotp_zwa:ice_speed, tconstruct:smeltery, forge:chests/personal, forge:netherrack]
+[21Aug2025 01:13:12.228] [Server thread/INFO] [FTB Teams/]: Loaded FTB Teams - 4 known players
+[21Aug2025 01:13:12.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Aug2025 01:13:12.448] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.minecraft.entity.passive.TameableEntity from interface com.hollingsworth.arsnouveau.api.IFollowingSummon
+[21Aug2025 01:13:12.651] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[21Aug2025 01:13:12.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Aug2025 01:13:13.801] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[21Aug2025 01:13:13.802] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[21Aug2025 01:13:14.279] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[21Aug2025 01:13:14.561] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1585 ms
+[21Aug2025 01:13:14.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.491s)! For help, type "help"
+[21Aug2025 01:13:14.942] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[21Aug2025 01:13:14.943] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[21Aug2025 01:13:15.448] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[21Aug2025 01:13:15.707] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1afe8755]
+[21Aug2025 01:13:16.197] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[21Aug2025 01:13:16.527] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[21Aug2025 01:13:17.513] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[21Aug2025 01:13:17.875] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[21Aug2025 01:13:20.545] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21Aug2025 01:13:20.560] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[21Aug2025 01:13:47.583] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1ca0ed34
+[21Aug2025 01:13:47.790] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:52548] logged in with entity id 645 at (809.8233915477507, 64.0, -620.0543237347079)
+[21Aug2025 01:13:47.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
+[21Aug2025 01:13:48.923] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[21Aug2025 01:13:49.134] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[21Aug2025 01:13:49.138] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[21Aug2025 01:13:49.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[21Aug2025 01:13:54.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[21Aug2025 01:13:55.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[21Aug2025 01:13:55.523] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
+[21Aug2025 01:14:07.523] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 moved too quickly! 6.6414912643354,2.5080918861132915,9.9355701539032
+[21Aug2025 01:14:13.570] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 moved too quickly! -2.9114480004374172,0.024714140246246075,10.273166467543206
+[21Aug2025 01:14:25.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Cobweb Entanglement]
+[21Aug2025 01:20:41.723] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/2596, l='ServerLevel[world]', x=880.69, y=19.46, z=-533.51]
+[21Aug2025 01:21:17.521] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@340ce79c
+[21Aug2025 01:21:17.645] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: setexgamer[/172.30.85.245:50107] logged in with entity id 2923 at (729.2374528769309, 65.0, -224.60498848118837)
+[21Aug2025 01:21:17.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer joined the game
+[21Aug2025 01:21:17.837] [Server thread/INFO] [Waila/]: Syncing config to setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[21Aug2025 01:21:18.798] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[21Aug2025 01:21:21.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of setexgamer (18)
+[21Aug2025 01:21:21.992] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to setexgamer
+[21Aug2025 01:21:41.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[21Aug2025 01:21:42.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[21Aug2025 01:21:42.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat

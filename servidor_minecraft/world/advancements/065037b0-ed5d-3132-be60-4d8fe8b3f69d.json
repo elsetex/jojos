@@ -3757,7 +3757,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-08-21 01:16:04 +0000",
       "minecraft:silverfish": "2025-08-19 17:39:34 +0000",
+      "minecraft:enderman": "2025-08-21 01:16:40 +0000",
       "minecraft:zombie": "2025-08-19 17:48:21 +0000"
     },
     "done": false
@@ -9225,6 +9227,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_spider_dungeon": "2025-08-21 01:14:25 +0000",
       "in_better_skeleton_dungeon": "2025-08-19 18:12:21 +0000"
     },
     "done": false
@@ -11407,6 +11410,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-08-19 02:17:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-21 01:14:25 +0000"
     },
     "done": true
   },
