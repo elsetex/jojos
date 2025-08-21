@@ -416,3 +416,81 @@ java.lang.NullPointerException: null
 [21Aug2025 01:21:41.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5513d577-e3bb-3e49-8f50-eb82f73fd107
 [21Aug2025 01:21:42.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
 [21Aug2025 01:21:42.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
+[21Aug2025 01:23:37.373] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gerR3219 lost connection: Disconnected
+[21Aug2025 01:23:37.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 left the game
+[21Aug2025 01:23:37.379] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[21Aug2025 01:23:50.045] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5efa0386
+[21Aug2025 01:23:50.120] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: gerR3219[/172.30.53.112:52640] logged in with entity id 3695 at (728.9765123912737, 65.0, -227.31196333136484)
+[21Aug2025 01:23:50.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 joined the game
+[21Aug2025 01:23:50.185] [Server thread/INFO] [Waila/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[21Aug2025 01:23:50.530] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[21Aug2025 01:23:50.530] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[21Aug2025 01:23:54.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[21Aug2025 01:23:55.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[21Aug2025 01:23:55.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
+[21Aug2025 01:26:18.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Creative Mode]
+[21Aug2025 01:26:27.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Set own game mode to Survival Mode]
+[21Aug2025 01:27:50.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Splintering II]
+[21Aug2025 01:29:29.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [We Need to Go Deeper]
+[21Aug2025 01:29:29.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Golden Leggings'/4264, l='ServerLevel[world]', x=90.43, y=57.00, z=-27.90]
+[21Aug2025 01:29:29.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Golden Leggings'/4263, l='ServerLevel[world]', x=90.87, y=57.00, z=-27.72]
+[21Aug2025 01:30:37.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Awaken]
+[21Aug2025 01:31:31.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [The Power This Body Holds...]
+[21Aug2025 01:32:08.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Brilliant Bone Blade]
+[21Aug2025 01:32:22.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gerR3219 has made the advancement [Erratic Blaze King]
+[21Aug2025 01:32:22.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [setexgamer: Gave HEAT Pillar Man battle mode to gerR3219]
+[21Aug2025 01:32:30.276] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: jojo:stone_mask @ BlockPos{x=730, y=66, z=-221}
+[21Aug2025 01:33:33.930] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screen/Screen for invalid dist DEDICATED_SERVER
+[21Aug2025 01:33:33.937] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 5d78754e-06a9-40d3-a885-d23c0dd3ea58
+[21Aug2025 01:33:33.941] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.crash.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:855) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/Screen for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at com.github.standobyte.jojo.entity.damaging.projectile.ownerbound.PillarmanVeinEntity.afterBlockHit(PillarmanVeinEntity.java:115) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.entity.damaging.DamagingEntity.func_230299_a_(DamagingEntity.java:267) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.entity.damaging.projectile.ModdedProjectileEntity.func_230299_a_(ModdedProjectileEntity.java:230) ~[jojo:0.2.2]
+	at net.minecraft.entity.projectile.ProjectileEntity.func_70227_a(SourceFile:120) ~[?:?]
+	at com.github.standobyte.jojo.entity.damaging.DamagingEntity.checkHit(DamagingEntity.java:154) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.entity.damaging.DamagingEntity.func_70071_h_(DamagingEntity.java:147) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.entity.damaging.projectile.ModdedProjectileEntity.func_70071_h_(ModdedProjectileEntity.java:91) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.entity.damaging.projectile.ownerbound.OwnerBoundProjectileEntity.func_70071_h_(OwnerBoundProjectileEntity.java:81) ~[jojo:0.2.2]
+	at com.github.standobyte.jojo.entity.damaging.projectile.ownerbound.PillarmanVeinEntity.func_70071_h_(PillarmanVeinEntity.java:55) ~[jojo:0.2.2]
+	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:612) ~[?:?]
+	at net.minecraft.world.World.func_217390_a(World.java:554) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	... 5 more
+[21Aug2025 01:33:33.946] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/jojos/servidor_minecraft/./crash-reports/crash-2025-08-21_01.33.33-server.txt
+[21Aug2025 01:33:33.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Aug2025 01:33:33.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Aug2025 01:33:34.040] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: setexgamer lost connection: Internal Exception: java.lang.StackOverflowError
+[21Aug2025 01:33:34.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: setexgamer left the game
+[21Aug2025 01:33:34.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client setexgamer
+[21Aug2025 01:33:34.087] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+java.lang.IllegalStateException: Removing entity while ticking!
+	at net.minecraft.world.server.ServerWorld.removeEntity(ServerWorld.java:950) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.removePlayer(ServerWorld.java:971) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217434_e(ServerWorld.java:967) ~[?:?]
+	at net.minecraft.server.management.PlayerList.func_72367_e(PlayerList.java:339) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147231_a(ServerPlayNetHandler.java:1021) ~[?:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:366) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213167_f(SourceFile:79) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_194028_b(ServerPlayNetHandler.java:296) ~[?:?]
+	at net.minecraft.server.management.PlayerList.func_72392_r(PlayerList.java:742) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:557) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
